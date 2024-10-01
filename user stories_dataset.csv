@@ -123,20 +123,20 @@ Aš kaip svetainės lankytojas, noriu paskyroje pasikeisti telefono numerį, kad
 Aš kaip svetainės lankytojas, noriu turėti galimybę pranešti apie svetainės klaidas, kad programuotojai galėtų pataisyti. ;1;1;1
 Aš kaip svetainės lankytojas, noriu, kad svetainė būtų greita ir nereikalautų ilgo įkrovimo laiko, kad galėčiau greitai pasiekti norimą turinį.;1;1;1
 Aš kaip svetainės lankytojas, noriu, kad svetainė būtų optimizuota mobiliesiems įrenginiams, kad galėčiau patogiai naršyti savo telefone.;1;1;1
-Aš kaip svetainės lankytojas, noriu, kad svetainė būtų reaguojanti, kad ji atrodytų gerai bet kuriame įrenginyje.;0;1;0
+Aš kaip svetainės lankytojas, noriu, kad svetainė būtų reaguojanti, kad ji atrodytų gerai bet kuriame įrenginyje.;1;1;0
 Aš kaip svetainės savininkas, noriu įtraukti kontaktinę formą, kad lankytojai galėtų lengvai su mumis susisiekti.;1;1;1
 Aš kaip testuotojas, noriu atlikti naudotojų patirties testavimą, kad įsitikinčiau, jog vartotojui sąsaja yra paprasta ir patogi.;0;1;0
 Aš kaip testuotojas, noriu automatizuoti regresijos testus, kad galėčiau greičiau aptikti pasikartojančias klaidas.;1;1;1
 Aš kaip testuotojas, noriu gauti patvirtinimo kodus į el. paštą, kad nereikėtų jungtis į duomenų bazę. ;1;1;1
-Aš kaip testuotojas, noriu gauti pranešimus apie naujai išleistas programėles, kad galėčiau ištestuoti funkcionalumus. ;1;1;1
-Aš kaip mobilios programėlės naudotojas, noriu matyti pagal segemento lygį nuolaidas, kad žinočiau kiek reikia išleisti pinigų iki aukščiausio lygio. ;1;1;1
+Aš kaip testuotojas, noriu gauti pranešimus apie naujai išleistas mobilias programėles, kad galėčiau ištestuoti funkcionalumus. ;1;1;1
+Aš kaip mobilios programėlės vartotojas, noriu matyti pagal segmento lygį nuolaidas, kad žinočiau kiek reikia išleisti pinigų iki aukščiausio lygio. ;1;1;1
 Aš kaip testuotojas, noriu įvertinti saugumo spragas, kad galėčiau užtikrinti, jog sistema yra apsaugota nuo galimų grėsmių.;1;1;1
 Aš kaip testuotojas, noriu kurti integracijos testus, kad galėčiau patikrinti, ar visos sistemos dalys veikia kartu be klaidų.;0;1;1
 Aš kaip testuotojas, noriu naudoti API testavimo įrankį, kad patikrinčiau duomenų mainų tarp sistemų kokybę ir patikimumą.;0;1;0
 Aš kaip testuotojas, noriu naudoti klaidų prioritetų nustatymo sistemą, kad galėčiau efektyviai paskirstyti savo testavimo laiką ir išteklius.;0;1;0
 Aš kaip testuotojas, noriu naudoti testavimo aplinką, kuri imituoja tikras sąlygas, kad galėčiau tiksliau atkurti klaidas.;1;1;1
-Aš kaip testuotojas, noriu naudoti testavimo scenarijų įrašymo įrankį, kad galėčiau greičiau sukurti funkcinius testus.;1;1;1
-Aš kaip testuotojas, noriu simuliuoti skirtingas tinklo sąlygas, kad galėčiau užtikrinti aplikacijos veikimą įvairiose situacijose.;1;1;1
+Aš kaip testuotojas, noriu naudoti testavimo scenarijų įrašymo įrankį, kad galėčiau greičiau sukurti funkcinius testus.;1;1;0
+Aš kaip testuotojas, noriu simuliuoti skirtingas tinklo sąlygas, kad galėčiau užtikrinti mobilios programėlės veikimą įvairiose situacijose.;1;1;0
 Aš kaip testuotojas, noriu sukurti automatinius testus, kad testavimas vyktų greičiau. ;1;1;1
 Aš kaip testuotojas, noriu turėti aiškiai apibrėžtus testavimo kriterijus, kad galėčiau užtikrinti testavimo proceso kokybę ir išsamumą.;0;1;0
 Aš kaip testuotojas, noriu turėti centralizuotą klaidų registravimo sistemą, kad galėčiau lengvai peržiūrėti ir valdyti visus atrastus defektus.;0;1;0
@@ -145,42 +145,42 @@ Aš kaip testuotojas, noriu turėti galimybę kurti testų ataskaitas automatiš
 Aš kaip testuotojas, noriu turėti galimybę stebėti realaus laiko sistemų našumą, kad galėčiau identifikuoti spūstis ir našumo problemas.;0;1;0
 Aš kaip testuotojas, noriu turėti prieigą prie klaidų stebėjimo įrankio, kad galėčiau stebėti klaidų pasikartojimus ir jų prioritetą.;0;1;0
 Aš kaip testuotojas, noriu turėti prieigą prie testavimo duomenų bazės, kad galėčiau patikrinti sistemos duomenų vientisumą.;1;1;1
-Aš kaip testuotojas, noriu vykdyti mobiliųjų įrenginių testus, kad įsitikinčiau, jog programėlė veikia skirtinguose įrenginiuose.;1;1;1
+Aš kaip testuotojas, noriu vykdyti mobiliųjų įrenginių testus, kad patikrinčiau mobilios programėlės veikimą skirtinguose įrenginiuose.;1;1;1
 Aš kaip testuotojas, noriu vykdyti streso testus, kad galėčiau patikrinti sistemos stabilumą didelio krūvio sąlygomis.;1;1;1
 Aš kaip testuotojas, noriu vykdyti testus skirtingose naršyklėse, kad užtikrinčiau sistemų suderinamumą.;1;1;1
 Aš kaip turinio valdytojas, noriu paprastai naudojamos turinio valdymo sistemos, kad galėčiau atnaujinti svetainės turinį be techninių žinių.;1;1;1
 Aš kaip vartotojas, noriu aktyvuoti kuponą programėlėje, kad pasinaudočiau lojalumo nuolaidomis.;1;1;1
 Aš kaip mobilios programėlės vartotojas, noriu dalintis savo pasiekimais, kad galėčiau parodyti savo progresą draugams.;1;1;1
 Aš kaip vartotojas, noriu dalyvauti mobilios programėlės žaidime, kad laimėčiau prizą.;1;1;1
-Aš kaip vartotojas, noriu gauti greitą ir efektyvią pagalbą per integruotą pagalbos centrą, kad galėčiau išspręsti savo problemas nedelsiant.;1;1;1
+Aš kaip vartotojas, noriu gauti greitą ir efektyvią pagalbą per integruotą pagalbos centrą, kad galėčiau išspręsti savo problemas nedelsiant.;0;1;1
 Aš kaip vartotojas, noriu gauti pranešimus apie naujausius produkto atnaujinimus, kad galėčiau iškart juos įdiegti ir naudoti naujas funkcijas.;0;1;0
-Aš kaip vartotojas, noriu gauti push pranešimus apie naujas žinutes, kad galėčiau būti informuotas realiu laiku.;1;1;1
+Aš kaip vartotojas, noriu gauti mobilios programėlės push pranešimus apie naujas žinutes, kad galėčiau būti informuotas realiu laiku.;1;1;1
 Aš kaip vartotojas, noriu matyti išleistą pinigų sumą per mėnesį, kad galėčiau žinoti savo išlaidas.;1;1;1
 Aš kaip vartotojas, noriu matyti kiek laiko aktyvuotas kuponas, kad žinočiau per laiko panaudoti.;1;1;1
 Aš kaip vartotojas, noriu matyti sukauptų taškų sumą, kad galėčiau juos panaudoti. ;1;1;1
 Aš kaip vartotojas, noriu nupirktą automobilio plovimą persiųsti draugui, kad draugas galėtų pasinaudoti. ;1;1;1
-Aš kaip vartotojas, noriu pritaikyti aplikacijos temą, kad galėčiau suasmeninti savo patirtį.;1;1;1
-Aš kaip vartotojas, noriu sinchronizuoti savo aplikacijos duomenis tarp kelių įrenginių, kad galėčiau turėti sklandžią patirtį.;1;1;1
-Aš kaip vartotojas, noriu turėti blogo skyrių, kad galėčiau skaityti naujausius straipsnius ir atnaujinimus.;0;1;0
-Aš kaip vartotojas, noriu turėti galimybę paspausti žemėlapyje ant degalinės, kad pamatyčiau degalinės informaciją.;1;1;1
+Aš kaip vartotojas, noriu pritaikyti mobilios programėlės temą, kad galėčiau pasidaryti palei savo norus.;1;1;1
+Aš kaip vartotojas, noriu sinchronizuoti savo mobilios programėlės duomenis tarp kelių įrenginių, kad galėčiau turėti informaciją keliose įrenginiuose.;1;1;1
+Aš kaip vartotojas, noriu turėti naujienų skyrių, kad galėčiau skaityti naujausius straipsnius ir atnaujinimus.;0;1;0
+Aš kaip vartotojas, noriu turėti galimybę paspausti žemėlapyje ant degalinės ikonos, kad pamatyčiau degalinės informaciją.;1;1;1
 Aš kaip vartotojas, noriu turėti galimybę prisijungti su savo socialinio tinklo paskyra prie mobilios programėlės, kad galėčiau nekurti naujos paskyros.;1;1;1
 Aš kaip vartotojas, noriu turėti galimybę užsakyti prekių pristatymą į namus, kad nereikėtų važiuoti.;1;1;1
 Aš kaip vartotojas, noriu turėti paieškos funkciją svetainėje, kad galėčiau greitai rasti reikiamą informaciją.;1;1;1
-Aš kaip vartotojas, noriu turėti programėlės pamokas, kad galėčiau efektyviai naudotis visomis funkcijomis.;1;1;1
+Aš kaip vartotojas, noriu turėti mobilios programėlės pamokas, kad galėčiau efektyviai naudotis visomis funkcijomis.;1;1;1
 Aš kaip vartotojas, noriu turėti tiesioginį pokalbio funkciją, kad galėčiau gauti tiesioginę pagalbą naršydamas el. svetainėje.;1;1;1
 Aš kaip vartotojas, noriu, kad mano asmeniniai duomenys būtų saugūs, kad galėčiau saugiai naudotis mobilia programėlė.;1;1;1
 Aš kaip vartotojas, noriu, kad mobili programėlė veiktų ir be interneto ryšio, kad galėčiau ją naudoti visur ir visada.;0;1;0
 Aš kaip vartotojas, po atlikto apmokėjimo mobiliojoje programėlėje, noriu įvertinti apmokėjimo procesą.;1;1;1
-Aš kaip vartotojas,noriu turėti galimybę prisidėti kelias bankines korteles, kad turėčiau pasirinkimą.;1;1;1
+Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę prisidėti kelias bankines korteles, kad turėčiau pasirinkimą.;1;1;1
 Aš kaip verslo klientas, noriu atnaujinti programėlės dizainą, kad pritraukti daugiau vartotojų.;1;1;1
-Aš kaip verslo klientas, noriu ištrinti keturių metų senumo nenaudojamus varototjų lojalumo taškus.;1;0;1
-Aš kaip verslo klientas, noriu naujai užregistruotui klientui rodytų sveikinimo animaciją.;1;0;1
+Aš kaip verslo klientas, noriu ištrinti keturių metų senumo nenaudojamus vartotojų lojalumo taškus.;1;0;1
+Aš kaip verslo klientas, noriu naujai užregistruotam klientui rodytų sveikinimo animaciją.;1;0;1
 Aš kaip verslo klientas, noriu nustatyti kuro kiekio limitą, kad klientai įsipyltų tik nustatytą kuro kiekį.;1;1;1
 Aš kaip verslo klientas, noriu nustatyti prekių pinigų sumos limitą, kad klientai neviršytų nustatytos sumos. ;1;1;1
-Aš kaip verslo klientas, noriu pridėti į lojalumo sistemą naują lygį, kad vartotojai turėtų didesnes nuolaidas. ;1;1;1
+Aš kaip verslo klientas, noriu pridėti į lojalumo sistemą naują kaupimo lygį, kad vartotojai turėtų didesnes nuolaidas. ;1;1;1
 Aš kaip verslo klientas, noriu pridėti į programėlės langą naują paslaugą, kad klientai galėtų pasinaudoti. ;1;1;1
 Aš kaip verslo klientas, noriu uždrausti daryti QR kodo ekrano nuotraukas, kad vartotojai sąžiningai naudotusi tik savo lojalumo nuolaidomis.;1;1;1
-Aš vartotojas, noriu, kad aplikacija veiktų ir be interneto ryšio, kad galėčiau ją naudoti visur ir visada.;0;1;0
+Aš kaip vartotojas, noriu, kad mobili programėlė veiktų ir be interneto ryšio, kad galėčiau ją naudoti visur ir visada.;0;1;0
 Aš kaip programuotojas, noriu turėti galimybę kurti vieningą klaidų valdymo sistemą, kad galėčiau lengviau sekti ir tvarkyti programos klaidas.;0;1;0
 Aš kaip programuotojas, noriu turėti prieigą prie testavimo automatizavimo įrankių, kad galėčiau išbandyti savo kodą.;1;1;1
 Aš kaip programuotojas, noriu naudoti konteinerizavimo technologijas, kad galėčiau lengviau perkelti ir paleisti aplikacijas įvairiose aplinkose.;0;1;0
@@ -199,3 +199,5 @@ Aš kaip programuotojas, noriu naudoti versijų palyginimo įrankius, kad galė�
 Aš kaip programuotojas, noriu kurti išplėstinius klaidų pranešimus, kad galėčiau greičiau diagnozuoti problemas ir sutrumpinti klaidų taisymo laiką.;0;1;0
 Aš kaip programuotojas, noriu naudoti saugos testavimo įrankius, kad galėčiau aptikti ir pašalinti potencialias saugumo spragas programoje.;0;1;0
 Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę matyti degalinės WC kodą, kad galėčiau pasinaudoti. ;1;1;1
+Aš kaip verslo klientas, noriu uždrausti daryti mobilioje programėlėje ekrano nuotraukas WC kodo, kad klientai nepyknaudžiautų. 1;1;1
+Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę prisidėti kuro kortelę, kad galėčiau atsiskaityti su mobilia programėle. 1;1;1
