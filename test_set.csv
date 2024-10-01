@@ -1,0 +1,21 @@
+﻿User stories;KR1 Atomiškumas;KR2 Viso sakinio pilnumas;KR3 Dviprasmiškumas
+Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę redaguoti lojalumo korteles.;1;0;1
+Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę sudaryti pirkinių sąrašą, kad žinočiau ką reikės nupirkti.;1;1;1
+Aš kaip mobilios programėlės vartotojas, noriu gauti el.kvitus už pirkinius į el. paštą, kad nereikėtų spausdinti popierinio.;1;1;1
+Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę panaudoti sukauptus lojalumo taškus, kad galėčiau nusipirkti norimą pirkinį.;1;1;1
+Aš kaip verslo klientas, noriu per mobilia programėle paleisti reklamas, kad pritraukčiau daugiau klientų pirkti reklamuojamą prekę ar paslaugą.;0;1;0
+Aš kaip verslo klientas, noriu pakeisti plovyklų kainas ir aprašymus.;0;0;0
+Aš kaip verslo klientas, noriu uždrausti mobilioje programėlėje turėti kelias lojalumo korteles, kad vartotojai nekauptų taškų jose.;1;1;0
+Aš kaip verslo klientas, noriu mobilioje programėle rodyti kiekvienoje degalinėje degalų kainas.;1;0;1
+Aš kaip mobilios programėlės vartotojas, noriu turėti nusipirkti kelių vinjetę, kad nereikėtų važiuoti į degalinę.;1;1;1
+Aš kaip mobilios programėlės vartotojas, noriu matyti kiekvienos degalinės darbo laiką ir telefono numerį.;0;0;1
+Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę pasikeisti mobilios programėlės kalbą į anglų arba latvių kalbą.;0;0;1
+Aš kaip mobilios programėlės vartotojas, noriu matyti kiek turiu nusipirkęs vienkartinių automobilio plovimų, kad žinočiau jų kiekį ir iki kada galioja.;0;1;1
+Aš kaip mobilios programėlės vartotojas, noriu turėti galimybę pasirinkti pagrindinius rekvizitus, kad atsiskaitymo metu, nereikėtų keisti per nustatymus.;1;1;1
+Aš kaip verslo klientas, noriu mobilioje programėlėje pakeisti apmokėjimo procesą, kad atsiskaitymo metu vartotojui nekiltų nesklandumų.;1;1;1
+Aš kaip mobilios programėlės vartotojas, noriu dalyvauti loterijoje.;1;0;1
+Aš kaip mobilios programėlės vartotojas, noriu prieš pirkdamas automobilio automatinę plovyklą, paskaityti plovimo aprašymą.;1;0;1
+Aš kaip mobilios programėlės vartotojas, noriu prieš panaudodamas automobilio automatinės plovyklos kuponą, pasirinkti plovyklus vartus, kad jie atsidarytų. ;1;1;1
+Aš kaip verslo klientas, noriu lojalumo klientams leisti turėti po dvi lojalumo korteles.;1;0;1
+Aš kaip lojalumo sistemos administratorius, noriu turėti galimybę klientui nustatyti pagrindinę lojalumo kortelę, kad naudotų tik vieną pagrindinę ir kitoje nesikauptų taškai.;0;0;0
+Aš kaip verslo klientas,  noriu mobilioje programėlėje padaryti privalomus paskyros informacijos laukelius, kad klientai suvestų informaciją apie save.;1;1;1
