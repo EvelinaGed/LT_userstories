@@ -1,4 +1,4 @@
-﻿User stories ENG;KR1 Atomiškumas ;KR2 Viso sakinio pilnumas ;KR3 Dviprasmiškumas
+﻿User stories ;KR1 Atomiškumas ;KR2 Viso sakinio pilnumas ;KR3 Dviprasmiškumas
 As an administrator, I want to reset users' passwords so I can help them regain access if they forget their login details.;1;1;1
 As an administrator, I want to create blocked emails. mailing list to prevent customers with fake e-mails from signing up. by mail.;1;1;1
 As an administrator, I want to have access to visitor statistics in order to analyze the site's traffic and effectiveness.;0;1;0
