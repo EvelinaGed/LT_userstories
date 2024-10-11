@@ -1,0 +1,201 @@
+﻿User stories ENG;KR1 Atomiškumas ;KR2 Viso sakinio pilnumas ;KR3 Dviprasmiškumas
+As an administrator, I want to reset users' passwords so I can help them regain access if they forget their login details.;1;1;1
+As an administrator, I want to create blocked emails. mailing list to prevent customers with fake e-mails from signing up. by mail.;1;1;1
+As an administrator, I want to have access to visitor statistics in order to analyze the site's traffic and effectiveness.;0;1;0
+As a gold loyalty user, I want to get 30 percent discounts.;1;0;1
+As an accountant, I want to receive notifications of newly uploaded service contracts so that I can check them.;1;1;1
+As an accountant, I want to see all service contracts to reconcile information.;1;1;1
+I like email store user, I want to see my order history to know my previous orders.;1;1;1
+As a visitor to an e-shop, I want to be able to compare products in order to make the best purchase decision.;1;1;1
+As a user of the website, I want to receive newsletters so that I don't miss any news.;1;1;1
+As a user of the website, I want to add the desired products to the cart in order to purchase them.;1;1;1
+As a user of the website, I want to delete items from the cart.;1;0;1
+As a website administrator, I want to be able to pull a report on the users of the app to know how many active users there are.;1;1;1
+As a website administrator, I want to have built-in analytics to monitor website performance and user engagement.;0;1;0
+As a website visitor, I want to see content tailored to my interests so I can find the information I'm interested in faster.;1;1;1
+As an IT administrator, I want to assign equipment to an employee in the personnel process system so that it is properly tagged.;1;1;1
+As an IT administrator, I want to create an equipment record in the HR process system to assign to an employee.;1;1;1
+I like email website visitor, I want to have a FAQ section so I can get quick answers to frequently asked questions.;1;1;1
+As a loyalty system programmer, I want to create a registration page to get more customers.;1;1;1
+As a loyalty system user, I want to log out of my account so that no one else can use my account.;1;1;1
+As a user of the loyalty system, I want to see my loyalty points on the printed receipt so that I can use them at checkout.;1;1;1
+As a user of the loyalty system, I want to leave a review to know the customer's opinion.;1;1;1
+As a mobile app user, I want to edit my profile data.;1;0;1
+I, as a user of the mobile app, want to send a car wash to a friend so that the friend can wash the car.;1;1;1
+As a mobile app user, I want to receive gas station discounts based on my geographic location.;1;0;1
+As a mobile app user, I want to get gas discounts during holidays and special days to save even more.;0;1;0
+As a user of the mobile app, I want to get additional discounts when I recommend a gas station in the app.;1;0;1
+As a mobile app user, I want to receive personalized fuel discounts based on my travel history.;1;0;1
+As a user of the mobile app, I want to receive notifications about fuel discounts so that I never miss an opportunity to save.;1;1;1
+As a mobile app user, I want to receive notifications about limited time discounts so I can take advantage of them quickly.;1;1;1
+As a user of the mobile app, I want to see the price comparison of the nearest gas stations in order to choose the cheapest one.;1;1;1
+As a mobile app user, I want to see reviews of gas stations that offer discounts so that I can choose quality services.;1;1;1
+As a mobile app user, I want to see discounts at the nearest gas station so I can easily find cheaper fuel.;1;1;1
+As a mobile app user, I want to see discount promotions for different types of fuel to choose the best option.;1;1;1
+As a mobile app user, I want to see discount history so I can track when the best fuel deals were.;1;1;1
+As a mobile app user, I want to see past fuel price changes so I know when the best discounts were.;1;1;1
+As a mobile app user, I want to be able to share fuel discounts with friends to save together.;1;1;1
+As a mobile app user, I want to be able to pre-order discounted fuel to save money.;1;1;1
+As a mobile app user, I want to be able to use accumulated points for other goods.;1;0;1
+As a mobile app user, I want to be able to use app discounts at foreign gas stations as well.;0;0;0
+As a mobile app user, I want to be able to use discounts across multiple devices.;1;0;0
+As a mobile app user, I want to be able to see upcoming discount dates so I can plan my fuel purchases.;1;1;1
+As a mobile app user, I want to be able to view my all-time savings with discounts.;1;0;1
+As a mobile app user, I want to have a loyalty program so I can collect points and get cheaper fuel;0;1;0
+As a mobile app developer, I want to automate the allocation of lottery winning prizes to users so that it doesn't have to be done manually.;1;1;1
+As a mobile app developer, I want to create a QR code scanning feature through the app so that users can identify the gas station number.;1;1;1
+As a mobile app developer, I want to create an option to take a photo of a receipt and upload it to the purchase history to keep records in one place.;0;1;0
+As a mobile app developer, I want to create an integration with another loyalty card so that users can use this app more.;1;1;1
+As a mobile app developer, I want to create various animations.;1;0;1
+As a mobile app tester, I want to simulate different locations to test the functionality of other gas station services.;1;1;1
+As a mobile app tester, I want to be able to enable night mode at the checkout to test the functionality of the app's services.;1;1;1
+As a mobile app tester, I want to be able to simulate gas payments to test functionality.;1;1;1
+As a mobile app user, I want to be able to select my favorite gas station so I can find it faster.;1;1;1
+As a mobile app user, I want to see the news in the news section so I can read it.;1;1;1
+As a mobile app user, I want to receive push notifications about app updates so that I can update at the right time.;1;1;1
+As a mobile app user, I want to enable biometrics so that I don't have to enter a PIN code during checkout.;1;1;1
+As a mobile app user, I want to upload a photo of the travel sheet so that I don't have to enter all the data by hand.;1;1;1
+As a mobile app user, I want to see my shopping history to know the amount of money spent.;1;1;1
+As a user of the mobile app, I want to see a list of gas stations with car washes when I am offline, so that I can choose the required gas station.;1;1;1
+As a user of the mobile app, I want to see the fuel price so I know how much it costs.;1;1;1
+As a mobile app user, I want to see my loyalty discounts.;1;0;1
+As a mobile app user, I want to buy a car wash through the app so I don't have to go to the gas station.;1;1;1
+As a mobile app user, I want to share the app to a friend so that the friend can download the app.;1;1;1
+As a user of the mobile app, I want to see the available car wash subscriptions in the main window so that I know how many active subscriptions I have.;1;1;1
+As a mobile app user, I want to leave a review to know the customer's opinion.;1;1;1
+As a mobile app user, I want to share with my friends about the next level of loyalty achieved.;1;0;1
+As a user of the mobile app, I want to use the loyalty card over the phone to pay faster.;1;1;1
+As a user of the mobile app, I want to add a bank card to pay.;1;1;1
+As a mobile app user, I want to contribute multiple loyalty cards to see my savings.;1;1;1
+As a mobile app user, I want to create a wallet security code.;1;0;1
+As a mobile app user, I want to enter a discount code to get a discount on my next purchase.;1;1;1
+As a mobile app user, I want to be able to filter gas stations.;1;0;1
+As a user of the mobile app, I want to be able to delete selected filters on the list of gas stations to see the full list.;1;1;1
+As a user of the mobile app, I want to be able to delete my account so that I don't have an active unused account.;1;1;1
+As a mobile app user, I want to be able to buy a monthly car pass so I don't have to buy every day.;1;1;1
+As a mobile app user, I want to be able to delete an attached trip sheet so I can upload a new one with the correct data.;1;1;1
+As a mobile app user, I want to be able to choose a language to display information in an understandable language.;1;1;1
+As a mobile app user, I want to be able to choose marketing consents to receive special offers.;1;1;1
+As a mobile app user, I want to be able to read the rules so I know the terms and conditions of the company.;0;1;0
+As a user of the mobile app, I want to be able to add details so that I can choose a payment method and pay faster.;0;1;0
+As a user of a mobile app, I want to be able to activate navigation from the selected gas station in the app to make it faster.;1;1;1
+As a mobile app user, I want to be able to stop the ordered fuel remotely.;1;0;1
+As a mobile app user, I want to have an account to read the latest articles and updates.;0;1;0
+As a user of the mobile app, I want to order a fuel fill remotely to pay for the driver.;1;1;1
+As a mobile app user, I want to register for the app without a discount card to get a new virtual discount card.;1;1;1
+As a mobile app user, I want to be able to select filters to find the right store.;1;1;1
+As a new loyalty user, I want to register for the system to receive discounts.;1;1;1
+As a store HR manager, I want to create discounts in the system for my employees to take advantage of.;1;1;1
+As a HR manager, I want to automate the sending of letters from one system so that I don't have to write a separate letter for each candidate.;1;1;1
+I, as an HR manager, want to receive notifications from the HR process system when employees' duties change, in order to prepare documents.;1;1;1
+As an HR manager, I want to see the leave of all employees in the HR process system so that I know.;1;1;1
+As an HR manager, I want to link candidate cards to employee cards in the HR process system to link records.;1;1;1
+As an HR manager, I want to be able to approve monthly allowances in the HR process system to check the amounts.;1;1;1
+As an HR manager, I want to be able to assign probationary tasks to an employee in the HR process system so that they know their goals.;1;1;1
+As an HR manager, I want to be able to create a candidate card in the HR process system to record candidate information.;1;1;1
+As a personnel manager, I want to see a list of employees in the system so that I can manage their documents.;1;1;1
+As an HR manager, I want to approve employee leave requests in the system so that employees can go on vacation.;1;1;1
+As an HR manager, I want to create a news post on the internal intranet to inform employees.;1;1;1
+As a personnel manager, I want to manage posting records so I can prepare orders.;1;1;1
+As an app admin, I want to monitor user activity logs to track app usage patterns.;1;1;1
+As a user of the app, I want to claim a free coffee to use the accumulated coupon.;1;1;1
+As a developer, I want to implement an offline mode so that users can continue to use the mobile app without an internet connection.;1;1;1
+As a programmer, I want to implement SEO best practices so that the website ranks well in search engines.;1;1;1
+As a developer, I want to optimize the site's loading time so that visitors have a smooth experience.;1;1;1
+As a programmer, I want to synchronize the loyalty system with the mobile app to show the same data.;1;1;1
+As a developer, I want to improve the loading time of my mobile app.;1;0;1
+As a programmer, I want to create an automatic coupon activation so that the user does not have to activate manually.;1;1;1
+As a developer, I want to create a receipt printing disable in a mobile app to choose not to print receipts.;1;1;1
+As a programmer, I want to create a loyalty points collection so that customers can collect points.;1;1;1
+As a programmer, I want to create a list of favorite stores so that users can create a favorite list.;1;1;1
+As a programmer, I want to create a search function for gas stations by address in a mobile app, so that users can find them more easily.;1;1;1
+As a programmer, I want to create a design-drawn component to reuse later.;1;1;1
+As a programmer, I want to create a location enablement function for the app so that users can use the services and pay.;0;1;0
+As a programmer, I want to create an opportunity for the user to activate the coupon so that he can activate it at the desired time.;1;1;1
+As a registered user, I want to be able to reset my password so I don't lose access to my account.;1;1;1
+As an interested party, I want to inform customers about the changes in the rules so that customers are informed.;1;1;1
+As an interested party, I want to hide the ability to enter details in the app so that customers can pay through the app.;1;1;1
+As a stakeholder, I want to add animations to the mobile app to attract more customers.;1;1;1
+As a stakeholder, I want to create a game in the app to attract more users.;1;1;1
+As a stakeholder, I want to enable users to view multiple different products on the same page without having to reopen the website window.;1;1;1
+As a website visitor, I want to change my account password to upgrade to a more secure one.;1;1;1
+I, as a visitor of the site, want to change the phone number in my account to record an active phone number.;1;1;1
+As a website visitor, I want to be able to report bugs on the website so that the developers can fix them.;1;1;1
+As a website visitor, I want the website to be fast and not require long loading times so that I can quickly access the content I want.;1;1;1
+As a website visitor, I want the website to be mobile optimized so I can browse comfortably on my phone.;1;1;1
+As a website visitor, I want the website to be responsive so that it looks good on any device.;0;1;0
+As a website owner, I want to include a contact form so that visitors can easily contact us.;1;1;1
+As a tester, I want to do user experience testing to make sure that the interface is simple and convenient for the user.;0;1;0
+As a tester, I want to automate regression tests so that I can find recurring bugs faster.;1;1;1
+As a tester, I want to receive verification codes by email. mail to avoid connecting to the database.;1;1;1
+As a tester, I want to receive notifications about newly released apps so that I can test the functionalities.;1;1;1
+As a mobile app user, I want to see discounts by segment level so I know how much to spend to get to the top tier.;1;1;1
+As a tester, I want to assess security holes to ensure that the system is protected from potential threats.;1;1;1
+As a tester, I want to create integration tests to verify that all parts of the system work together without errors.;0;1;1
+As a tester, I want to use an API testing tool to test the quality and reliability of data exchange between systems.;0;1;0
+As a tester, I want to use a bug prioritization system to efficiently allocate my testing time and resources.;0;1;0
+As a tester, I want to use a test environment that simulates real conditions so that I can more accurately reproduce errors.;1;1;1
+As a tester, I want to use a test script recorder to create functional tests faster.;1;1;1
+As a tester, I want to simulate different network conditions so that I can ensure the performance of the application in various situations.;1;1;1
+As a tester, I want to create automated tests to make testing faster.;1;1;1
+As a tester, I want to have clearly defined testing criteria so that I can ensure the quality and completeness of the testing process.;0;1;0
+As a tester, I want to have a centralized bug logging system so that I can easily review and manage all discovered defects.;0;1;0
+As a tester, I want to be able to update test scripts based on system changes so that my tests are always up to date.;1;1;1
+As a tester, I want to be able to generate test reports automatically so that I can save time and focus on bug analysis.;0;1;0
+As a tester, I want to be able to monitor real-time system performance to identify bottlenecks and performance issues.;0;1;0
+As a tester, I want to have access to a bug tracker to monitor bug recurrences and their priority.;0;1;0
+As a tester, I want to have access to the test database to check the data integrity of the system.;1;1;1
+As a tester, I want to run mobile tests to make sure the app works on different devices.;1;1;1
+As a tester, I want to run stress tests to check system stability under high load conditions.;1;1;1
+As a tester, I want to run tests in different browsers to ensure system compatibility.;1;1;1
+As a content manager, I want an easy-to-use content management system to update website content without technical knowledge.;1;1;1
+I, as a user, want to activate the coupon in the app to take advantage of the loyalty discounts.;1;1;1
+As a mobile app user, I want to share my achievements to show my progress to my friends.;1;1;1
+I, as a user, want to participate in a mobile app game to win a prize.;1;1;1
+As a user, I want to receive fast and efficient support through the integrated help center so that I can solve my problems immediately.;1;1;1
+As a user, I want to be notified of the latest product updates so that I can immediately install them and use the new features.;0;1;0
+As a user, I want to receive push notifications about new posts so that I can be informed in real time.;1;1;1
+As a consumer, I want to see the amount of money spent per month so that I can know my expenses.;1;1;1
+As a user, I want to see how long the coupon has been activated so that I know when to use it.;1;1;1
+As a user, I want to see the amount of accumulated points so that I can use them.;1;1;1
+As a user, I want to forward the purchased car wash to a friend so that the friend can use it.;1;1;1
+As a user, I want to customize the app theme to personalize my experience.;1;1;1
+As a user, I want to sync my app data between multiple devices so I can have a seamless experience.;1;1;1
+As a user, I want to have a blog section to read the latest articles and updates.;0;1;0
+As a user, I want to be able to click on a gas station on the map to see the gas station information.;1;1;1
+As a user, I want to be able to sign in with my social network account to the mobile app so I don't have to create a new account.;1;1;1
+As a consumer, I want to be able to order home delivery so that I don't have to drive.;1;1;1
+As a user, I want to have a search function on the website so that I can quickly find the information I need.;1;1;1
+As a user, I want to have tutorials on the app so that I can use all the features effectively.;1;1;1
+As a user, I want to have a live chat feature so I can get live help while navigating my email. on the website.;1;1;1
+As a user, I want my personal data to be safe so that I can use the mobile app safely.;1;1;1
+As a user, I want the mobile app to work even without an internet connection so that I can use it anywhere and anytime.;0;1;0
+As a user, after making a payment in the mobile app, I want to evaluate the payment process.;1;1;1
+As a user, I want to be able to contribute several bank cards so that I have a choice.;1;1;1
+As a business customer, I want to update the design of the app to attract more users.;1;1;1
+As a business customer, I want to delete four years old unused consumer loyalty points.;1;0;1
+As a business customer, I want to show a welcome animation to a newly registered customer.;1;0;1
+As a business customer, I want to set a limit on the amount of fuel, so that customers only fill in the specified amount of fuel.;1;1;1
+As a business customer, I want to set a limit on the amount of money for goods so that customers do not exceed the set amount.;1;1;1
+I, as a business customer, want to add a new level to the loyalty system so that consumers have greater discounts.;1;1;1
+As a business customer, I want to add a new service to the app window for customers to use.;1;1;1
+As a business customer, I want to ban taking screenshots of the QR code so that consumers can only use their loyalty discounts fairly.;1;1;1
+I'm a user, I want the mobile app to work offline so I can use it anywhere and anytime.;0;1;0
+As a programmer, I want to be able to create a unified error management system so that I can more easily track and manage program errors.;0;1;0
+As a programmer, I want to have access to test automation tools to test my code.;1;1;1
+As a developer, I want to use containerization technologies to make it easier to move and run applications in different environments.;0;1;0
+As a developer, I want to integrate a continuous deployment (CI/CD) process so that I can deploy new versions faster to a production environment.;1;1;1
+As a programmer, I want to be able to use code profiling tools to optimize my application's performance.;1;1;1
+As a programmer, I want to have access to database optimization tools to improve data management performance and efficiency.;0;1;0
+As a programmer, I want to use an automated code documentation tool to easily generate documentation for my projects.;1;1;1
+As a programmer, I want to create a modular code architecture so that I can more easily maintain and change parts of the application.;0;1;0
+As a programmer, I want to use code templates and libraries to speed up the programming process and reduce manual work.;0;1;0
+As a programmer, I want to be able to run load tests to evaluate system behavior under heavy user traffic.;1;1;1
+As a programmer, I want to use dependency management tools to easily manage libraries and avoid dependency conflicts.;0;1;0
+As a programmer, I want to use code refactoring tools to improve the structure of existing code without changing functionality.;1;1;1
+As a developer, I want to use bug tracking tools to quickly detect and resolve issues in a production environment.;0;1;0
+As a developer, I want to use API testing tools to verify that the API is working properly and meets the specifications.;0;1;0
+As a programmer, I want to use version comparison tools to easily analyze the differences between code versions.;1;1;1
+As a programmer, I want to create advanced error messages so that I can diagnose problems faster and reduce the time it takes to fix bugs.;0;1;0
+As a programmer, I want to use security testing tools to detect and fix potential security holes in an application.;0;1;0
+As a user of the mobile app, I want to be able to see the WC code of the petrol station so that I can use it.;1;1;1
