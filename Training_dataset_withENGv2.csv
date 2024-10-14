@@ -127,7 +127,7 @@ As a website visitor  I want the website to be responsive so that it looks good 
 As a website owner  I want to include a contact form so that visitors can easily contact us,1,1,1
 As a tester  I want to do user experience testing to make sure that the interface is simple and convenient for the user,0,1,0
 As a tester  I want to automate regression tests so that I can find recurring bugs faster,1,1,1
-As a tester  I want to receive verification codes by email mail to avoid connecting to the database
+As a tester  I want to receive verification codes by email mail to avoid connecting to the database,1,1,1
 As a tester  I want to receive notifications about newly released apps so that I can test the functionalities,1,1,1
 As a mobile app user  I want to see discounts by segment level so I know how much to spend to get to the top tier,1,1,1
 As a tester  I want to assess security holes to ensure that the system is protected from potential threats,1,1,1
