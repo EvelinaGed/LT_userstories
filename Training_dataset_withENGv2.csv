@@ -1,7 +1,7 @@
 ﻿User stories, KR1 Atomiškumas, KR2 Pilnumas, KR3 Dviprasmiškumas
-As an administrator I want to reset users passwords so I can help them regain access if they forget their login details.,1,1,1
-As an administrator I want to create blocked emails list to prevent customers with fake e-mails from signing up by mail.,1,1,1
-As an administrator I want to have access to visitor statistics in order to analyze the site's traffic and effectiveness.,0,1,0
+As an administrator I want to reset users passwords so I can help them regain access if they forget their login details,1,1,1
+As an administrator I want to create blocked emails list to prevent customers with fake e-mails from signing up by mail,1,1,1
+As an administrator I want to have access to visitor statistics in order to analyze the site's traffic and effectiveness,0,1,0
 As a gold loyalty user  I want to get 30 percent discounts,1,0,1
 As an accountant  I want to receive notifications of newly uploaded service contracts so that I can check them,1,1,1
 As an accountant  I want to see all service contracts to reconcile information,1,1,1
@@ -42,27 +42,27 @@ As a mobile app user  I want to be able to use discounts across multiple devices
 As a mobile app user  I want to be able to see upcoming discount dates so that I can plan my fuel purchases,1,1,1
 As a mobile app user  I want to be able to view my all-time savings with discounts,1,0,1
 As a mobile app user  I want to have a loyalty program so I can collect points and get cheaper fuel,0,1,0
-As a mobile app developer  I want to automate the allocation of lottery winning prizes to users so that it doesn't have to be done manually,1,1,1
+As a mobile app developer  I want to automate the allocation of lottery winning prizes to users so that it does not have to be done manually,1,1,1
 As a mobile app developer  I want to create a QR code scanning feature through the app so that users can identify the gas station number,1,1,1
 As a mobile app developer  I want to create an option to take a photo of a receipt and upload it to the purchase history to keep records in one place,0,1,0
 As a mobile app developer  I want to create an integration with another loyalty card so that users can use this app more,1,1,1
 As a mobile app developer  I want to create various animations,1,0,1
 As a mobile app tester  I want to simulate different locations to test the functionality of other gas station services,1,1,1
-As a mobile app tester  I want to be able to enable night mode at the checkout to test the functionality of the app's services,1,1,1
+As a mobile app tester  I want to be able to enable night mode at the checkout to test the functionality of the apps services,1,1,1
 As a mobile app tester  I want to be able to simulate gas payments to test functionality,1,1,1
 As a mobile app user  I want to be able to select my favorite gas station so I can find it faster,1,1,1
 As a mobile app user  I want to see the news in the news section so I can read it,1,1,1
 As a mobile app user  I want to receive push notifications about app updates so that I can update at the right time,1,1,1
-As a mobile app user  I want to enable biometrics so that I don't have to enter a PIN code during checkout,1,1,1
-As a mobile app user  I want to upload a photo of the travel sheet so that I don't have to enter all the data by hand,1,1,1
+As a mobile app user  I want to enable biometrics so that I do not have to enter a PIN code during checkout,1,1,1
+As a mobile app user  I want to upload a photo of the travel sheet so that I do not have to enter all the data by hand,1,1,1
 As a mobile app user  I want to see my shopping history to know the amount of money spent,1,1,1
 As a user of the mobile app  I want to see a list of gas stations with car washes when I am offline  so that I can choose the required gas station,1,1,1
 As a user of the mobile app  I want to see the fuel price so I know how much it costs,1,1,1
 As a mobile app user  I want to see my loyalty discounts,1,0,1
-As a mobile app user  I want to buy a car wash through the app so I don't have to go to the gas station,1,1,1
+As a mobile app user  I want to buy a car wash through the app so I do not have to go to the gas station,1,1,1
 As a mobile app user  I want to share the app to a friend so that the friend can download the app,1,1,1
 As a user of the mobile app  I want to see the available car wash subscriptions in the main window so that I know how many active subscriptions I have,1,1,1
-As a mobile app user  I want to leave a review to know the customer's opinion,1,1,1
+As a mobile app user  I want to leave a review to know the customers opinion,1,1,1
 As a mobile app user  I want to share with my friends about the next level of loyalty achieved,1,0,1
 As a user of the mobile app  I want to use the loyalty card over the phone to pay faster,1,1,1
 As a user of the mobile app  I want to add a bank card to pay,1,1,1
@@ -71,8 +71,8 @@ As a mobile app user  I want to create a wallet security code,1,0,1
 As a mobile app user  I want to enter a discount code to get a discount on my next purchase,1,1,1
 As a mobile app user  I want to be able to filter gas stations,1,0,1
 As a user of the mobile app  I want to be able to delete selected filters on the list of gas stations to see the full list,1,1,1
-As a user of the mobile app  I want to be able to delete my account so that I don't have an active unused account,1,1,1
-As a mobile app user  I want to be able to buy a monthly car pass so I don't have to buy every day,1,1,1
+As a user of the mobile app  I want to be able to delete my account so that I do not have an active unused account,1,1,1
+As a mobile app user  I want to be able to buy a monthly car pass so I do not have to buy every day,1,1,1
 As a mobile app user  I want to be able to delete an attached trip sheet so I can upload a new one with the correct data,1,1,1
 As a mobile app user  I want to be able to choose a language to display information in an understandable language,1,1,1
 As a mobile app user  I want to be able to choose marketing consents to receive special offers,1,1,1
@@ -86,8 +86,8 @@ As a mobile app user  I want to register for the app without a discount card to 
 As a mobile app user  I want to be able to select filters to find the right store,1,1,1
 As a new loyalty user  I want to register for the system to receive discounts,1,1,1
 As a store HR manager  I want to create discounts in the system for my employees to take advantage of,1,1,1
-As a HR manager  I want to automate the sending of letters from one system so that I don't have to write a separate letter for each candidate,1,1,1
-A an HR manager  I want to receive notifications from the HR process system when employees' duties change  in order to prepare documents,1,1,1
+As a HR manager  I want to automate the sending of letters from one system so that I do not have to write a separate letter for each candidate,1,1,1
+A an HR manager  I want to receive notifications from the HR process system when employees duties change  in order to prepare documents,1,1,1
 As an HR manager  I want to see the leave of all employees in the HR process system so that I know,1,1,1
 As an HR manager  I want to link candidate cards to employee cards in the HR process system to link records,1,1,1
 As an HR manager  I want to be able to approve monthly allowances in the HR process system to check the amounts,1,1,1
@@ -101,7 +101,7 @@ As an app admin  I want to monitor user activity logs to track app usage pattern
 As a user of the app  I want to claim a free coffee to use the accumulated coupon,1,1,1
 As a developer  I want to implement an offline mode so that users can continue to use the mobile app without an internet connection,1,1,1
 As a programmer  I want to implement SEO best practices so that the website ranks well in search engines,1,1,1
-As a developer  I want to optimize the site's loading time so that visitors have a smooth experience,1,1,1
+As a developer  I want to optimize the sites loading time so that visitors have a smooth experience,1,1,1
 As a programmer  I want to synchronize the loyalty system with the mobile app to show the same data,1,1,1
 As a developer  I want to improve the loading time of my mobile app,1,0,1
 As a programmer  I want to create an automatic coupon activation so that the user does not have to activate manually,1,1,1
@@ -112,7 +112,7 @@ As a programmer  I want to create a search function for gas stations by address 
 As a programmer  I want to create a design-drawn component to reuse later,1,1,1
 As a programmer  I want to create a location enablement function for the app so that users can use the services and pay,0,1,0
 As a programmer  I want to create an opportunity for the user to activate the coupon so that he can activate it at the desired time,1,1,1
-As a registered user  I want to be able to reset my password so I don't lose access to my account,1,1,1
+As a registered user  I want to be able to reset my password so I do not lose access to my account,1,1,1
 As an interested party  I want to inform customers about the changes in the rules so that customers are informed,1,1,1
 As an interested party  I want to hide the ability to enter details in the app so that customers can pay through the app,1,1,1
 As a stakeholder  I want to add animations to the mobile app to attract more customers,1,1,1
@@ -163,8 +163,8 @@ As a user  I want to customize the app theme to personalize my experience,1,1,1
 As a user  I want to sync my app data between multiple devices so I can have a seamless experience,1,1,1
 As a user  I want to have a blog section to read the latest articles and updates,0,1,0
 As a user  I want to be able to click on a gas station on the map to see the gas station information,1,1,1
-As a user  I want to be able to sign in with my social network account to the mobile app so I don't have to create a new account,1,1,1
-As a consumer  I want to be able to order home delivery so that I don't have to drive,1,1,1
+As a user  I want to be able to sign in with my social network account to the mobile app so I do not have to create a new account,1,1,1
+As a consumer  I want to be able to order home delivery so that I do not have to drive,1,1,1
 As a user  I want to have a search function on the website so that I can quickly find the information I need,1,1,1
 As a user  I want to have tutorials on the app so that I can use all the features effectively,1,1,1
 As a user  I want to have a live chat feature so I can get live help while navigating my email on the website,1,1,1
@@ -185,7 +185,7 @@ As a programmer  I want to be able to create a unified error management system s
 As a programmer  I want to have access to test automation tools to test my code,1,1,1
 As a developer  I want to use containerization technologies to make it easier to move and run applications in different environments,0,1,0
 As a developer  I want to integrate a continuous deployment (CI/CD) process so that I can deploy new versions faster to a production environment,1,1,1
-As a programmer  I want to be able to use code profiling tools to optimize my application's performance,1,1,1
+As a programmer  I want to be able to use code profiling tools to optimize my applications performance,1,1,1
 As a programmer  I want to have access to database optimization tools to improve data management performance and efficiency,0,1,0
 As a programmer  I want to use an automated code documentation tool to easily generate documentation for my projects,1,1,1
 As a programmer  I want to create a modular code architecture so that I can more easily maintain and change parts of the application,0,1,0
