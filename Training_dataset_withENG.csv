@@ -1,11 +1,11 @@
 ﻿User stories ;KR1 Atomiškumas ;KR2 Viso sakinio pilnumas ;KR3 Dviprasmiškumas
-As an administrator, I want to reset users' passwords so I can help them regain access if they forget their login details.;1;1;1
-As an administrator, I want to create blocked emails. mailing list to prevent customers with fake e-mails from signing up. by mail.;1;1;1
+As an administrator, I want to reset users passwords so that I can help them regain access if they forget their login details.;1;1;1
+As an administrator, I want to create blocked emails list to prevent customers with fake e-mails from signing up. by mail.;1;1;1
 As an administrator, I want to have access to visitor statistics in order to analyze the site's traffic and effectiveness.;0;1;0
 As a gold loyalty user, I want to get 30 percent discounts.;1;0;1
 As an accountant, I want to receive notifications of newly uploaded service contracts so that I can check them.;1;1;1
 As an accountant, I want to see all service contracts to reconcile information.;1;1;1
-I like email store user, I want to see my order history to know my previous orders.;1;1;1
+As a store user, I want to see my order history so that I know my previous orders.;1;1;1
 As a visitor to an e-shop, I want to be able to compare products in order to make the best purchase decision.;1;1;1
 As a user of the website, I want to receive newsletters so that I don't miss any news.;1;1;1
 As a user of the website, I want to add the desired products to the cart in order to purchase them.;1;1;1
@@ -15,13 +15,13 @@ As a website administrator, I want to have built-in analytics to monitor website
 As a website visitor, I want to see content tailored to my interests so I can find the information I'm interested in faster.;1;1;1
 As an IT administrator, I want to assign equipment to an employee in the personnel process system so that it is properly tagged.;1;1;1
 As an IT administrator, I want to create an equipment record in the HR process system to assign to an employee.;1;1;1
-I like email website visitor, I want to have a FAQ section so I can get quick answers to frequently asked questions.;1;1;1
+As a website visitor, I want to have a FAQ section so I can get quick answers to frequently asked questions.;1;1;1
 As a loyalty system programmer, I want to create a registration page to get more customers.;1;1;1
 As a loyalty system user, I want to log out of my account so that no one else can use my account.;1;1;1
 As a user of the loyalty system, I want to see my loyalty points on the printed receipt so that I can use them at checkout.;1;1;1
 As a user of the loyalty system, I want to leave a review to know the customer's opinion.;1;1;1
 As a mobile app user, I want to edit my profile data.;1;0;1
-I, as a user of the mobile app, want to send a car wash to a friend so that the friend can wash the car.;1;1;1
+As a user of the mobile app, I want to send a car wash to a friend so that the friend can wash the car.;1;1;1
 As a mobile app user, I want to receive gas station discounts based on my geographic location.;1;0;1
 As a mobile app user, I want to get gas discounts during holidays and special days to save even more.;0;1;0
 As a user of the mobile app, I want to get additional discounts when I recommend a gas station in the app.;1;0;1
@@ -87,7 +87,7 @@ As a mobile app user, I want to be able to select filters to find the right stor
 As a new loyalty user, I want to register for the system to receive discounts.;1;1;1
 As a store HR manager, I want to create discounts in the system for my employees to take advantage of.;1;1;1
 As a HR manager, I want to automate the sending of letters from one system so that I don't have to write a separate letter for each candidate.;1;1;1
-I, as an HR manager, want to receive notifications from the HR process system when employees' duties change, in order to prepare documents.;1;1;1
+As an HR manager, I want to receive notifications from the HR process system when employees duties change, in order to prepare documents.;1;1;1
 As an HR manager, I want to see the leave of all employees in the HR process system so that I know.;1;1;1
 As an HR manager, I want to link candidate cards to employee cards in the HR process system to link records.;1;1;1
 As an HR manager, I want to be able to approve monthly allowances in the HR process system to check the amounts.;1;1;1
@@ -119,7 +119,7 @@ As a stakeholder, I want to add animations to the mobile app to attract more cus
 As a stakeholder, I want to create a game in the app to attract more users.;1;1;1
 As a stakeholder, I want to enable users to view multiple different products on the same page without having to reopen the website window.;1;1;1
 As a website visitor, I want to change my account password to upgrade to a more secure one.;1;1;1
-I, as a visitor of the site, want to change the phone number in my account to record an active phone number.;1;1;1
+As a visitor of the site, I want to change the phone number in my account to record an active phone number.;1;1;1
 As a website visitor, I want to be able to report bugs on the website so that the developers can fix them.;1;1;1
 As a website visitor, I want the website to be fast and not require long loading times so that I can quickly access the content I want.;1;1;1
 As a website visitor, I want the website to be mobile optimized so I can browse comfortably on my phone.;1;1;1
@@ -149,9 +149,9 @@ As a tester, I want to run mobile tests to make sure the app works on different 
 As a tester, I want to run stress tests to check system stability under high load conditions.;1;1;1
 As a tester, I want to run tests in different browsers to ensure system compatibility.;1;1;1
 As a content manager, I want an easy-to-use content management system to update website content without technical knowledge.;1;1;1
-I, as a user, want to activate the coupon in the app to take advantage of the loyalty discounts.;1;1;1
+As a user, I want to activate the coupon in the app to take advantage of the loyalty discounts.;1;1;1
 As a mobile app user, I want to share my achievements to show my progress to my friends.;1;1;1
-I, as a user, want to participate in a mobile app game to win a prize.;1;1;1
+As a user, I want to participate in a mobile app game to win a prize.;1;1;1
 As a user, I want to receive fast and efficient support through the integrated help center so that I can solve my problems immediately.;1;1;1
 As a user, I want to be notified of the latest product updates so that I can immediately install them and use the new features.;0;1;0
 As a user, I want to receive push notifications about new posts so that I can be informed in real time.;1;1;1
@@ -177,10 +177,10 @@ As a business customer, I want to delete four years old unused consumer loyalty 
 As a business customer, I want to show a welcome animation to a newly registered customer.;1;0;1
 As a business customer, I want to set a limit on the amount of fuel, so that customers only fill in the specified amount of fuel.;1;1;1
 As a business customer, I want to set a limit on the amount of money for goods so that customers do not exceed the set amount.;1;1;1
-I, as a business customer, want to add a new level to the loyalty system so that consumers have greater discounts.;1;1;1
+As a business customer, I want to add a new level to the loyalty system so that consumers have greater discounts.;1;1;1
 As a business customer, I want to add a new service to the app window for customers to use.;1;1;1
 As a business customer, I want to ban taking screenshots of the QR code so that consumers can only use their loyalty discounts fairly.;1;1;1
-I'm a user, I want the mobile app to work offline so I can use it anywhere and anytime.;0;1;0
+As a user, I want the mobile app to work offline so that I can use it anywhere and anytime.;0;1;0
 As a programmer, I want to be able to create a unified error management system so that I can more easily track and manage program errors.;0;1;0
 As a programmer, I want to have access to test automation tools to test my code.;1;1;1
 As a developer, I want to use containerization technologies to make it easier to move and run applications in different environments.;0;1;0
