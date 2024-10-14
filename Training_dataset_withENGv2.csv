@@ -1,7 +1,7 @@
 ﻿User stories, KR1 Atomiškumas, KR2 Pilnumas, KR3 Dviprasmiškumas
-As an administrator  I want to reset users passwords so I can help them regain access if they forget their login details,1,1,1
-As an administrator  I want to create blocked emails list to prevent customers with fake e-mails from signing up by mail,1,1,1
-As an administrator  I want to have access to visitor statistics in order to analyze the site's traffic and effectiveness,0,1,0
+As an administrator I want to reset users passwords so I can help them regain access if they forget their login details.,1,1,1
+As an administrator I want to create blocked emails list to prevent customers with fake e-mails from signing up by mail.,1,1,1
+As an administrator I want to have access to visitor statistics in order to analyze the site's traffic and effectiveness.,0,1,0
 As a gold loyalty user  I want to get 30 percent discounts,1,0,1
 As an accountant  I want to receive notifications of newly uploaded service contracts so that I can check them,1,1,1
 As an accountant  I want to see all service contracts to reconcile information,1,1,1
