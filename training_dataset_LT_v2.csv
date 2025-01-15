@@ -198,7 +198,7 @@ Aš kaip programuotojas  noriu naudoti kodų refaktoringo įrankius  kad galėč
 Aš kaip programuotojas  noriu naudoti klaidų stebėjimo įrankius  kad galėčiau greitai aptikti ir išspręsti problemas gamybinėje aplinkoje,0,1,0
 Aš kaip programuotojas  noriu naudoti API testavimo įrankius  kad galėčiau patikrinti  ar API veikia tinkamai ir atitinka specifikacijas,0,1,0
 Aš kaip programuotojas  noriu naudoti versijų palyginimo įrankius  kad galėčiau lengvai analizuoti skirtumus tarp kodo versijų,1,1,1
-Aš kaip programuotojas  noriu kurti išplėstinius klaidų pranešimus  kad galėčiau greičiau diagnozuoti problemas ir sutrumpinti klaidų taisymo laiką,0,1,0,
+Aš kaip programuotojas  noriu kurti išplėstinius klaidų pranešimus  kad galėčiau greičiau diagnozuoti problemas ir sutrumpinti klaidų taisymo laiką,0,1,0
 Aš kaip programuotojas  noriu naudoti saugos testavimo įrankius  kad galėčiau aptikti ir pašalinti potencialias saugumo spragas programoje,0,1,0
 Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę matyti degalinės WC kodą  kad galėčiau pasinaudoti,1,1,1
 Aš kaip mobilios programėlės vartotojas  noriu pakviesti draugus naudotis naująją programėlę,1,0,1
