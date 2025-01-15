@@ -1,0 +1,61 @@
+﻿User stories;KR1 Atomiškumas;KR2 Viso sakinio pilnumas;KR3 Dviprasmiškumas
+Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę redaguoti lojalumo korteles.;1;0;1
+Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę sudaryti pirkinių sąrašą  kad žinočiau ką reikės nupirkti.;1;1;1
+Aš kaip mobilios programėlės vartotojas  noriu gauti el.kvitus už pirkinius į el. paštą  kad nereikėtų spausdinti popierinio.;1;1;1
+Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę panaudoti sukauptus lojalumo taškus  kad galėčiau nusipirkti norimą pirkinį.;1;1;1
+Aš kaip verslo klientas  noriu per mobilia programėle paleisti reklamas  kad pritraukčiau daugiau klientų pirkti reklamuojamą prekę ar paslaugą.;0;1;0
+Aš kaip verslo klientas  noriu pakeisti plovyklų kainas ir aprašymus.;0;0;0
+Aš kaip verslo klientas  noriu uždrausti mobilioje programėlėje turėti kelias lojalumo korteles  kad vartotojai nekauptų taškų jose.;1;1;0
+Aš kaip verslo klientas  noriu mobilioje programėle rodyti kiekvienoje degalinėje degalų kainas.;1;0;1
+Aš kaip mobilios programėlės vartotojas  noriu turėti nusipirkti kelių vinjetę  kad nereikėtų važiuoti į degalinę.;1;1;1
+Aš kaip mobilios programėlės vartotojas  noriu matyti kiekvienos degalinės darbo laiką ir telefono numerį.;0;0;1
+Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę pasikeisti mobilios programėlės kalbą į anglų arba latvių kalbą.;0;0;1
+Aš kaip mobilios programėlės vartotojas  noriu matyti kiek turiu nusipirkęs vienkartinių automobilio plovimų  kad žinočiau jų kiekį ir iki kada galioja.;0;1;1
+Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę pasirinkti pagrindinius rekvizitus  kad atsiskaitymo metu  nereikėtų keisti per nustatymus.;1;1;1
+Aš kaip verslo klientas  noriu mobilioje programėlėje pakeisti apmokėjimo procesą  kad atsiskaitymo metu vartotojui nekiltų nesklandumų.;1;1;1
+Aš kaip mobilios programėlės vartotojas  noriu dalyvauti loterijoje.;1;0;1
+Aš kaip mobilios programėlės vartotojas  noriu prieš pirkdamas automobilio automatinę plovyklą  paskaityti plovimo aprašymą.;1;0;1
+Aš kaip mobilios programėlės vartotojas  noriu prieš panaudodamas automobilio automatinės plovyklos kuponą  pasirinkti plovyklus vartus  kad jie atsidarytų. ;1;1;1
+Aš kaip verslo klientas  noriu lojalumo klientams leisti turėti po dvi lojalumo korteles.;1;0;1
+Aš kaip lojalumo sistemos administratorius  noriu turėti galimybę klientui nustatyti pagrindinę lojalumo kortelę  kad naudotų tik vieną pagrindinę ir kitoje nesikauptų taškai.;0;1;0
+Aš kaip verslo klientas   noriu mobilioje programėlėje padaryti privalomus paskyros informacijos laukelius  kad klientai suvestų informaciją apie save.;1;1;1
+Aš  kaip transporto vadybininkas  noriu matyti vairuotojų darbo ir poilsio valandas  kad užtikrinčiau  jog vairuotojai nepažeidžia taisyklių.;1;1;1
+Aš  kaip transporto vadybininkas  noriu matyti krovinių pakrovimo vietas žemėlapyje  kad galėčiau sudaryti  maršrutus.;1;1;1
+Aš  kaip reklamų vadybininkas  noriu parengti QR kodus  kuriuos klientai gali nuskaityti degalinėje  kad gautų momentines nuolaidas.;1;1;1
+Aš  kaip reklamų vadybininkas  noriu sistemoje sudaryti lojalumo taškų iškeitimo taisykles  kad paskatinčiau dažnesnius apsilankymus.;1;1;1
+Aš  kaip personalo vadybininkas  noriu personalo procesų sistemoje analizuoti darbuotojų rotaciją  kad galėčiau geriau planuoti personalo poreikius.;1;1;1
+Aš  kaip personalo vadybininkas  noriu turėti galimybę generuoti individualius darbo sutarties šablonus  kad sutaupytume laiko ruošiant dokumentus.;1;1;1
+Aš  kaip personalo vadybininkas  noriu sistemoje gauti priminimus apie artėjančius darbuotojų sertifikatų galiojimo pabaigos terminus.;1;0;1
+Aš  kaip personalo vadybininkas  noriu sistemoje matyti statistikas apie darbuotojų mokymus  kad galėčiau įvertinti jų efektyvumą.;1;1;1
+Aš  kaip personalo vadybininkas  noriu sistemoje turėti galimybę nustatyti darbuotojų veiklos vertinimo kriterijus  kad lengviau galėčiau vertinti jų našumą.;1;1;1
+Aš  kaip personalo vadybininkas  noriu sistemoje sudaryti darbuotojų mokymų tvarkaraščius  kad visi galėtų planuoti laiką taip  kaip jiems patogu.;1;1;0
+Aš  kaip personalo vadybininkas  noriu matyti istoriją apie darbuotojų pareigų pasikeitimus  kad galėčiau analizuoti karjeros pokyčius.;1;1;1
+Aš  kaip personalo vadybininkas  noriu sistemoje valdyti laisvas pozicijas ir jų užpildymo statusą  kad galėčiau lengviau stebėti atrankos procesą.;0;1;1
+Aš  kaip personalo vadybininkas  noriu turėti galimybę personalo procesų sistemoje kurti įspėjimus apie darbuotojų darbo sutarties pabaigos terminus  kad spėčiau atnaujinti sutartį.;1;1;1
+Aš  kaip personalo vadybininkas  noriu sukurti sistemą  kurioje darbuotojai galėtų pateikti anoniminius atsiliepimus.;1;0;1
+Aš  kaip personalo vadybininkas  noriu matyti sistemoje visų darbuotojų darbo patirties  kad galėčiau lengviau parinkti žmones projektams.;1;1;1
+Aš  kaip personalo vadybininkas  noriu personalo procesų sistemoje analizuoti darbuotojų darbo laiko apskaitos ataskaitas  kad galėčiau kontroliuoti darbo valandų laikymąsi.;0;1;1
+Aš  kaip personalo vadybininkas  noriu sistemoje kurti ir siųsti apklausas darbuotojams  kad galėčiau įvertinti jų pasitenkinimą darbu.;0;1;1
+Aš  kaip personalo vadybininkas  noriu turėti galimybę pridėti pastabas apie kandidatus sistemoje  kad kolegos galėtų matyti atrankų rezultatus.;1;1;1
+Aš  kaip personalo vadybininkas  noriu sukurti atskirą skiltį sistemoje  kur darbuotojai galėtų peržiūrėti savo atlyginimo struktūrą ir papildomas išmokas  kad sumažėtų klausimų kiekis.;0;1;1
+Aš  kaip personalo vadybininkas  noriu stebėti darbuotojų mokymų išlaidas sistemoje  kad galėčiau kontroliuoti biudžetą.;1;0;1
+Aš  kaip personalo vadybininkas  noriu matyti sistemoje visų darbuotojų išsilavinimo duomenis.;1;0;1
+Aš kaip verslo klientas  noriu mobilioje programėle nustatyti kuro įsipylimo dienos limitą.;1;0;1
+Aš kaip įmonės vadovas noriu sisstemoje nustatyti darbuotojams mėnesinį kuro limitą litrais kad nepyknaudžiautų su įmonės kortele.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę peržiūrėti kvitą jo neatsisiuntęs į telefoną.;1;0;1
+Aš kaip mobilios programėlės vartotojas noriu kad programėlė įsimintų mano paskutinę naudotą mokėjimo kortelę kad sekančiu pirkimo metu automatiškai jau būtų pasirinkta.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu matyti piniginės skiltyje turimas lojalumo korteles.;1;0;1
+Aš kaip mobilios programėlės vartotojas noriu apmokėjimo metu matyti lojalumo kortelių ikonas kad galėčiau greičiau pasirinkti norimą kortelę.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu piniginės skiltyje matyti turimų kortelių būsenas kad žinočiau kurias galiu naudoti atsiskaitymo metu.;1;1;1
+Aš  kaip reklamų vadybininkas  noriu personalizuoti reklaminius pasiūlymus pagal klientų pomėgius  kad padidinčiau reklamos efektyvumą.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę atsisiųsti kvitą į telefoną kad galėčiau jį persiųsti kitam asmeniui.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę peržiūrėti esamą ir pakeisti saugos kodą į kitą.;0;0;1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę persiųsti savo nemokamos kavos kuponą kad draugas galėtų pasinaudoti juo.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę pasirinkti pagrindinės mokėjimo ir lojalumo kortelių požymius, kad atsiskaitymo metu nereikėtų kas kartą keisti.;0;1;0
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę atsiskaityti kasoje su QR kodu kad nereikėtų papildomai traukti fizinę mokėjimo kortelę.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę greitai ir efektyviai atsiskaityti už degalus per programėlę kad ne eiti į degalinę.;0;1;0
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę užsakyti savitarnos plovyklos paslaugas kad galėčiau pats nusiplauti automobilį.;1;1;1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę užsakyti siurblio paslaugas.;1;0;1
+Aš kaip sistemos administratorius noriu turėti galimybę matyti kiekvieno sistemos vartotojo žurnalinius įrašus.;1;0;1
+Aš kaip sistemos administratorius noriu turėti galimybę sukurti naujus sistemos vartotojus kad jie galėtų naudotis ir dirbti sistemoje. ;0;1;0
+Aš kaip sistemos administratorius noriu turėti galimybę redaguoti sistemos vartotojų teises.;1;0;1
