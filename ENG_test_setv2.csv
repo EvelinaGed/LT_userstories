@@ -19,3 +19,43 @@ As a mobile app user I want to select the car wash gate to open before using the
 As a business customer I want to allow loyalty customers to have two loyalty cards each,1,0,1
 As the administrator of the loyalty system I want to be able to set the main loyalty card for the customer to use only one main one and not accumulate points on the other one,0,0,0
 As a business customer I want to make account information fields mandatory in the mobile app so that customers can enter information about themselves,1,1,1
+As a transport manager I want to see drivers' working and rest hours to ensure that drivers do not violate the rules,1,1,1
+As a transport manager I want to see cargo loading locations on a map so that I can create routes,1,1,1
+As an advertising manager I want to create QR codes that customers can scan at gas stations to receive instant discounts,1,1,1
+As an advertising manager I want to create loyalty points exchange rules in the system to encourage more frequent visits,1,1,1
+As an HR manager  I want to analyze employee rotation in the HR process system so that I can better plan personnel needs,1,1,1
+As an HR manager  I want to be able to generate individual employment contract templates to save time preparing documents,1,1,1
+As a HR manager  I want to receive reminders in the system about upcoming employee certificate expiration dates,1,0,1
+As a HR manager  I want to see statistics on employee training in the system so that I can evaluate their efficiency,1,1,1
+As a HR manager  I want to be able to set employee performance evaluation criteria in the system so that I can more easily assess their productivity,1,1,1
+As a HR manager I want to create employee training schedules in the system so that everyone can plan their time as they see fit,1,1,0
+As a HR manager  I want to see the history of employee job changes so that I can analyze career changes,1,1,1
+As a HR manager  I want to manage vacant positions and their filling status in the system so that I can more easily monitor the selection process,0,1,1
+As a HR manager I want to be able to create alerts about employee employment contract expiration dates in the HR process system so that I can have time to renew the contract,1,1,1
+As a HR manager  I want to create a system where employees can provide anonymous feedback,1,0,1
+As a HR manager  I want to see all employees' work experience in the system so that I can more easily select people for projects,1,1,1
+As a HR manager  I want to analyze employee working time in the HR process system accounting reports so that I can control the compliance with working hours,0,1,1
+As a HR manager  I want to create and send surveys to employees in the system so that I can assess their job satisfaction,0,1,1
+As a HR manager  I want to be able to add notes about candidates in the system so that colleagues can see the results of the selections,1,1,1
+As a HR manager  I want to create a separate section in the system where employees can review their salary structure and additional benefits to reduce the number of questions,0,1,1
+As a HR manager  I want to monitor employee training costs in the system so that I can control the budget,1,0,1
+As a HR manager  I want to see the education data of all employees in the system,1,0,1
+As a business customer  I want to set a daily fuel limit in the mobile app,1,0,1
+As a company manager  I want to set a monthly fuel limit in liters for employees in the system so that they do not abuse the company card,1,1,1
+As a mobile app user I want to be able to view receipt without downloading it to my phone,1,0,1
+As a mobile app user I want the app to remember my last used payment card so that it would be automatically selected the next time I make a purchase,1,1,1
+As a mobile app user I want to see my loyalty cards in the wallet section,1,0,1
+As a mobile app user  I want to see loyalty card icons during payment so that I can select the desired card faster,1,1,1
+As a mobile app user  I want to see the statuses of my cards in the wallet section so that I know which ones I can use during checkout,1,1,1
+As an advertising manager  I want to personalize promotional offers according to customer interests to increase advertising effectiveness,1,1,1
+As a mobile app user  I want to be able to download a receipt to my phone so that I can forward it to another person,1,1,1
+As a mobile app user  I want to be able to view the current and change the security code to a different one,0,0,1
+As mobile app user I want to be able to forward my free coffee coupon so that a friend can use it,1,1,1
+As a mobile app user I want to be able to choose the main payment and loyalty card attributes so that I don't have to change them every time during checkout,0,1,0
+As a mobile app user I want to be able to pay at the cash register with a QR code so that I don't have to pull out a physical payment card additionally,1,1,1
+As a mobile app user I want to be able to quickly and efficiently pay for fuel through the app so that I don't have to go to the gas station,0,1,0
+As a mobile app user  I want to be able to order self-service car wash services so that I can wash my car myself 1 1 1
+As a mobile app user  I want to be able to order pump services,1,0,1
+As a system administrator  I want to be able to see the journal entries of each system user,1,0,1
+As a system administrator  I want to be able to create new system users so that they can use and work in the system,0,1,0
+As a system administrator  I want to be able to edit the rights of system users,1,0,1
