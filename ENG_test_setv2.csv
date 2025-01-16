@@ -54,7 +54,7 @@ As mobile app user I want to be able to forward my free coffee coupon so that a 
 As a mobile app user I want to be able to choose the main payment and loyalty card attributes so that I don't have to change them every time during checkout,0,1,0
 As a mobile app user I want to be able to pay at the cash register with a QR code so that I don't have to pull out a physical payment card additionally,1,1,1
 As a mobile app user I want to be able to quickly and efficiently pay for fuel through the app so that I don't have to go to the gas station,0,1,0
-As a mobile app user  I want to be able to order self-service car wash services so that I can wash my car myself 1 1 1
+As a mobile app user  I want to be able to order self-service car wash services so that I can wash my car myself,1,1,1
 As a mobile app user  I want to be able to order pump services,1,0,1
 As a system administrator  I want to be able to see the journal entries of each system user,1,0,1
 As a system administrator  I want to be able to create new system users so that they can use and work in the system,0,1,0
