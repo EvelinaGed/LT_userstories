@@ -201,41 +201,41 @@ As a programmer  I want to use version comparison tools to easily analyze the di
 As a programmer  I want to create advanced error messages so that I can diagnose problems faster and reduce the time it takes to fix bugs,0,1,0
 As a programmer  I want to use security testing tools to detect and fix potential security holes in an application,0,1,0
 As a user of the mobile app  I want to be able to see the WC code of the petrol station so that I can use it,1,1,1
-As a mobile app user, I want to invite my friends to use the new app,1,0,1
-As a business customer, I want to see real-time sales statistics in the mobile app so I can analyze performance,1,1,1
-As a business customer, I want to receive notifications about critical inventory levels so I can order products on time,1,1,1
-As a business customer, I want to set different discount levels for customer groups so I can encourage their loyalty,1,1,1
-As a business customer, I want to manage employee access rights in the system so that we can protect sensitive information,1,1,0
-As a business customer, I want to receive alerts about unpaid invoices so I can quickly contact customers,1,1,1
-As a business customer, I want to add and manage a product catalog in the mobile app so that customers can see relevant information,1,1,1
-As a business customer, I want to create a loyalty program in the mobile app to attract more customers,1,1,1
-As a business customer, I want to generate invoices and send them to customers directly from the system to save time,0,1,1
-As a business customer, I want to see the sales results of each employee so that I can promote their productivity,1,1,1
-As a business customer, I want to see all customer order histories so that I can offer personalized services,1,1,1
-As a business customer, I want customers to be able to track the status of their orders in the mobile app so that we can reduce the number of questions,1,1,1
-As a business customer, I want to receive reports on the most popular products so that I can optimize the supply,1,1,0
-As a transport manager, I want to plan truck delivery routes in the system to optimize logistics,1,1,1
-As a business customer, I want to set up an automatic reminder function for customers so that they pay for goods on time,1,1,1
-As a business customer, I want to integrate payment solutions into the mobile app so that it is more convenient for customers to pay,1,1,1
-As a business customer, I want to see the download statistics of the mobile app so that I can know its popularity,1,1,1
-As a business customer, I want the system to automatically suggest additional products based on customer orders to increase sales,1,1,1
-As a business customer, I want to see monthly activity reports so I can plan business strategies,1,1,1
-As a mobile app user, I want to subscribe to a newsletter to receive news about new services or features,0,1,1
-As a mobile app user, I want to select and change the app language to make it more convenient to use,0,1,0
-As a transport manager, I want to see the location of trucks in real time so I can monitor their movement and meet delivery deadlines,0,1,0
-As a transport manager, I want to be able to create schedules for drivers in the system so they know when to go,1,1,1
-As a transport manager, I want to receive alerts about the need for truck maintenance to avoid breakdowns on the road,1,1,1
-As a transport manager, I want to distribute cargo to trucks based on their capacity and weight limits to use the transport efficiently,0,1,1
-As a transport manager, I want to see the drivers' working hours to ensure that they comply with regulations,1,1,1
-As a transport manager, I want to enter cargo delivery priorities in the system so that the most important cargo is delivered on time,1,1,1
-As a transport manager, I want to receive notifications about traffic obstacles or weather conditions so that I can promptly adjust routes,0,1,1
-As a transport manager, I want to communicate with truck drivers via an integrated messaging system to quickly resolve problems,1,1,1
-As a transport manager, I want to be able to analyze delivery reports in the system so that I can evaluate efficiency and improve processes,0,1,1
-As a transport manager, I want to see cargo unloading locations on a map so that I can create optimal routes,1,1,1
-As a transport manager, I want to monitor fuel consumption for each truck so that I can analyze transport costs,1,1,1
-As a transport manager, I want to receive an automatic alert if a driver deviates from the set route so that I can ensure the safety of the cargo,1,1,1
-As an advertising manager, I want to set weekly or monthly discounted products in the system to increase their sales,0,1,1
-As an advertising manager, I want to analyze the behavior data of loyalty program users so that I can create more effective advertisements,1,1,1
-As an advertising manager, I want to create mobile app notifications about limited-time offers to increase customer traffic at the gas station,1,1,1
-As an advertising manager, I want to create loyalty points accumulation rules in the system to encourage more frequent visits,1,1,1
-As an advertising manager, I want to advertise partner services at the gas station to expand the range of services offered and increase customer loyalty,0,1,1
+As a mobile app user I want to invite my friends to use the new app,1,0,1
+As a business customer I want to see real-time sales statistics in the mobile app so I can analyze performance,1,1,1
+As a business customer I want to receive notifications about critical inventory levels so I can order products on time,1,1,1
+As a business customer I want to set different discount levels for customer groups so I can encourage their loyalty,1,1,1
+As a business customer I want to manage employee access rights in the system so that we can protect sensitive information,1,1,0
+As a business customer I want to receive alerts about unpaid invoices so I can quickly contact customers,1,1,1
+As a business customer I want to add and manage a product catalog in the mobile app so that customers can see relevant information,1,1,1
+As a business customer I want to create a loyalty program in the mobile app to attract more customers,1,1,1
+As a business customer I want to generate invoices and send them to customers directly from the system to save time,0,1,1
+As a business customer I want to see the sales results of each employee so that I can promote their productivity,1,1,1
+As a business customer I want to see all customer order histories so that I can offer personalized services,1,1,1
+As a business customer I want customers to be able to track the status of their orders in the mobile app so that we can reduce the number of questions,1,1,1
+As a business customer I want to receive reports on the most popular products so that I can optimize the supply,1,1,0
+As a transport manager I want to plan truck delivery routes in the system to optimize logistics,1,1,1
+As a business customer I want to set up an automatic reminder function for customers so that they pay for goods on time,1,1,1
+As a business customer I want to integrate payment solutions into the mobile app so that it is more convenient for customers to pay,1,1,1
+As a business customer I want to see the download statistics of the mobile app so that I can know its popularity,1,1,1
+As a business customer I want the system to automatically suggest additional products based on customer orders to increase sales,1,1,1
+As a business customer I want to see monthly activity reports so I can plan business strategies,1,1,1
+As a mobile app user I want to subscribe to a newsletter to receive news about new services or features,0,1,1
+As a mobile app user I want to select and change the app language to make it more convenient to use,0,1,0
+As a transport manager I want to see the location of trucks in real time so I can monitor their movement and meet delivery deadlines,0,1,0
+As a transport manager I want to be able to create schedules for drivers in the system so they know when to go,1,1,1
+As a transport manager I want to receive alerts about the need for truck maintenance to avoid breakdowns on the road,1,1,1
+As a transport manager I want to distribute cargo to trucks based on their capacity and weight limits to use the transport efficiently,0,1,1
+As a transport manager I want to see the drivers' working hours to ensure that they comply with regulations,1,1,1
+As a transport manager I want to enter cargo delivery priorities in the system so that the most important cargo is delivered on time,1,1,1
+As a transport manager I want to receive notifications about traffic obstacles or weather conditions so that I can promptly adjust routes,0,1,1
+As a transport manager I want to communicate with truck drivers via an integrated messaging system to quickly resolve problems,1,1,1
+As a transport manager I want to be able to analyze delivery reports in the system so that I can evaluate efficiency and improve processes,0,1,1
+As a transport manager I want to see cargo unloading locations on a map so that I can create optimal routes,1,1,1
+As a transport manager I want to monitor fuel consumption for each truck so that I can analyze transport costs,1,1,1
+As a transport manager I want to receive an automatic alert if a driver deviates from the set route so that I can ensure the safety of the cargo,1,1,1
+As an advertising manager I want to set weekly or monthly discounted products in the system to increase their sales,0,1,1
+As an advertising manager I want to analyze the behavior data of loyalty program users so that I can create more effective advertisements,1,1,1
+As an advertising manager I want to create mobile app notifications about limited-time offers to increase customer traffic at the gas station,1,1,1
+As an advertising manager I want to create loyalty points accumulation rules in the system to encourage more frequent visits,1,1,1
+As an advertising manager I want to advertise partner services at the gas station to expand the range of services offered and increase customer loyalty,0,1,1
