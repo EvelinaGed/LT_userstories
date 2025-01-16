@@ -176,11 +176,11 @@ As a business customer  I want to update the design of the app to attract more u
 As a business customer  I want to delete four years old unused consumer loyalty points,1,0,1
 As a business customer  I want to show a welcome animation to a newly registered customer,1,0,1
 As a business customer  I want to set a limit on the amount of fuel  so that customers only fill in the specified amount of fuel,1,1,1
-As a business customer, I want to set fuel card restrictions, 1,0,0
+As a business customer I want to set fuel card restrictions,1,0,0
 As a business customer  I want to set a limit on the amount of money for goods so that customers do not exceed the set amount,1,1,1
 As a business customer  I want to add a new level to the loyalty system so that consumers have greater discounts,1,1,1
 As a business customer  I want to add a new service to the app window for customers to use,1,1,1
-As a business customer, I want to update the payment process in the mobile app,1,0,1
+As a business customer I want to update the payment process in the mobile app,1,0,1
 As a business customer  I want to ban taking screenshots of the QR code so that consumers can only use their loyalty discounts fairly,1,1,1
 As a user  I want the mobile app to work offline so I can use it anywhere and anytime,0,1,0
 As a programmer  I want to be able to create a unified error management system so that I can more easily track and manage program errors,0,1,0
