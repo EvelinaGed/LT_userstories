@@ -3,12 +3,12 @@ Aš kaip administratorius  noriu atkurti vartotojų slaptažodžius  kad galėč
 Aš kaip administratorius  noriu sukurti blokuojamų el. paštų sąrašą  kad nesiregistruotų klientai su netikrais el. Paštais,1,1,1
 Aš kaip administratorius  noriu turėti prieigą prie lankytojų statistikos  kad galėčiau analizuoti svetainės lankomumą ir efektyvumą,0,1,0
 Aš kaip auksinis lojalumo vartotojas  noriu gauti 30 procentų nuolaidas,1,0,1
-Aš kaip buhalteris  noriu gauti pranešimus apie naujai įkeltas paslaugų sutartis  kad galėčiau sutikrinti,1,1,1
+Aš kaip buhalteris  noriu gauti pranešimus apie naujai įkeltas paslaugų sutartis,1,0,1
 Aš kaip buhalteris  noriu matyti visas paslaugų sutartys  kad sutikrinčiau informaciją,1,1,1
 Aš kaip el. parduotuvės vartotojas  noriu matyti užsakymų istoriją  kad žinočiau savo ankstesnius užsakymus,1,1,1
-Aš kaip e-parduotuvės lankytojas  noriu turėti galimybę palyginti produktus  kad galėčiau priimti geriausią sprendimą dėl pirkimo,1,1,1
+Aš kaip e-parduotuvės lankytojas  noriu turėti galimybę palyginti produktus,1,0,1
 Aš kaip e-svetainės vartotojas  noriu gauti naujienlaiškius  kad nepraleisti naujienų,1,1,1
-Aš kaip e-svetainės vartotojas  noriu įsidėti į krepšelį norimas prekes  kad galėčiau jas nusipirkti,1,1,1
+Aš kaip e-svetainės vartotojas  noriu įsidėti į krepšelį norimas prekes,1,0,1
 Aš kaip e-svetainės vartotojas  noriu ištrinti prekes iš krepšelio,1,0,1
 Aš kaip interneto svetainės administratorius  noriu turėti galimybę išsitraukti ataskaitą apie programėlės vartotojus  kad žinočiau kiek yra aktyvių vartotojų,1,1,1
 Aš kaip interneto svetainės administratorius  noriu turėti integruotą analitiką  kad galėčiau stebėti svetainės veikimą ir vartotojų įsitraukimą,0,1,0
