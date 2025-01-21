@@ -99,3 +99,43 @@ Aš kaip mobilios programėlės vartotojas noriu turėti galimybę užsakyti pre
 Aš kaip mobilios programėlės vartotojas noriu matyti rekomendacijas pagal mano ankstesnį naudojimą kad galėčiau atrasti naujas paslaugas ir produktus,0,1,1
 Aš kaip mobilios programėlės vartotojas noriu ieškoti receptų pagal turimus ingredientus kad galėčiau gaminti,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu išsaugoti mėgstamus receptus savo paskyroje,1,0,1
+Aš  kaip programuotojas  noriu naudoti kodo peržiūros įrankius  kad galėčiau užtikrinti kodo kokybę,1,1,1
+Aš  kaip testuotojas  noriu naudoti klaidų sekimo sistemą  kad galėčiau registruoti ir sekti klaidas,0,1,1,
+Aš  kaip sistemų administratorius  noriu stebėti tinklo srautą  kad galėčiau aptikti ir spręsti problemas,0,1,1
+Aš  kaip verslo analitikas noriu naudoti duomenų vizualizacijos įrankius,1,0,1
+Aš  kaip projektų vadovas  noriu organizuoti reguliarius susitikimus  kad galėčiau aptarti projekto eigą su komanda,1,1,1
+Aš kaip programuotojas  noriu naudoti bibliotekas ir modulius  kad galėčiau greičiau kurti funkcionalumą,0,1,1
+Aš  kaip testuotojas  noriu naudoti testavimo automatizavimo įrankius  kad galėčiau efektyviau atlikti testus,1,1,1
+Aš  kaip sistemų administratorius  noriu stebėti saugumo įvykius  kad galėčiau užkirsti kelią grėsmėms,1,1,1
+Aš  kaip verslo analitikas  noriu atlikti rinkos tyrimus  kad galėčiau suprasti konkurencinę aplinką,1,1,1
+Aš  kaip projektų vadovas  noriu naudoti rizikos valdymo įrankius  kad galėčiau identifikuoti ir valdyti rizikas,0,1,1
+Aš  kaip programuotojas  noriu naudoti kodo dokumentavimo įrankius  kad galėčiau aiškiai aprašyti kodo funkcionalumą,1,1,1
+Aš  kaip testuotojas  noriu naudoti našumo testavimo įrankius  kad galėčiau patikrinti sistemos veikimą esant apkrovai,1,1,1
+Aš  kaip sistemų administratorius  noriu naudoti debesų kompiuterijos paslaugas,1,0,1
+Aš  kaip verslo analitikas  noriu naudoti duomenų analizės įrankius  kad galėčiau priimti pagrįstus sprendimus,1,1,1
+Aš kaip projektų vadovas  noriu naudoti komunikacijos įrankius  kad galėčiau palaikyti ryšį su komanda,1,1,1
+Aš  kaip programuotojas  noriu naudoti testavimo bibliotekas  kad galėčiau rašyti vienetinius testus,1,1,1
+Aš  kaip testuotojas  noriu naudoti regresijos testavimo įrankius  kad galėčiau patikrinti  ar nauji pakeitimai nepažeidžia esamo funkcionalumo,0,1,1
+Aš  kaip sistemų administratorius  noriu naudoti virtualizacijos įrankius  kad galėčiau efektyviau valdyti serverius,1,1,1
+Aš  kaip verslo analitikas  noriu naudoti duomenų gavybos įrankius  kad galėčiau atrasti naudingą informaciją iš didelių duomenų rinkinių,1,1,1
+Aš  kaip projektų vadovas  noriu naudoti laiko sekimo įrankius  kad galėčiau stebėti projekto užduočių vykdymo laiką,1,1,1
+Aš  kaip programuotojas  noriu naudoti kodo refaktoringo įrankius  kad galėčiau pagerinti kodo kokybę,1,1,1
+Aš  kaip testuotojas  noriu naudoti saugumo testavimo įrankius  kad galėčiau aptikti saugumo spragas,1,1,1
+Aš  kaip sistemų administratorius  noriu naudoti atsarginių kopijų atkūrimo įrankius  kad galėčiau greitai atkurti duomenis,1,1,1
+Aš  kaip verslo analitikas  noriu naudoti verslo procesų modeliavimą  kad galėčiau optimizuoti ir pagerinti verslo procesus,1,1,1
+Aš  kaip projektų vadovas  noriu naudoti projekto biudžeto valdymo įrankius,1,0,1
+Aš  kaip programuotojas  noriu naudoti kodo analizės įrankius  kad galėčiau aptikti klaidas ir pažeidžiamumus,1,1,1
+Aš  kaip testuotojas  noriu naudoti vartotojo sąsajos testavimo įrankius  kad galėčiau patikrinti vartotojo patirtį,1,1,1
+Aš  kaip sistemų administratorius  noriu naudoti tinklo stebėjimo įrankius  kad galėčiau aptikti ir spręsti tinklo problemas,0,1,1
+Aš  kaip verslo analitikas  noriu naudoti duomenų kokybės valdymo įrankius  kad galėčiau užtikrinti duomenų tikslumą,1,1,1
+Aš  kaip projektų vadovas  noriu naudoti projekto dokumentacijos įrankius  kad galėčiau tvarkingai saugoti visą projekto informaciją,1,1,1
+Aš  kaip programuotojas  noriu naudoti kodo generavimo įrankius  kad galėčiau greičiau kurti kodo šablonus,1,1,1
+Aš  kaip testuotojas  noriu naudoti apkrovos testavimo įrankius  kad galėčiau patikrinti sistemos veikimą esant dideliam vartotojų skaičiui,1,1,1
+Aš  kaip sistemų administratorius  noriu naudoti konfigūracijos valdymo įrankius  kad galėčiau efektyviau valdyti sistemų nustatymus,1,1,1
+Aš  kaip verslo analitikas  noriu naudoti duomenų integracijos įrankius  kad galėčiau sujungti duomenis iš skirtingų šaltinių,1,1,1
+Aš  kaip projektų vadovas  noriu naudoti projekto rizikos analizės įrankius  kad galėčiau identifikuoti ir valdyti galimas rizikas,0,1,1
+Aš  kaip programuotojas  noriu naudoti kodo optimizavimo įrankius  kad galėčiau pagerinti programos našumą,1,1,1
+Aš  kaip testuotojas  noriu naudoti testavimo planavimo įrankius,1,0,1
+Aš  kaip duomenų bazės administratorius  noriu optimizuoti užklausas  kad pagerinčiau sistemos našumą,1,1,1
+Aš  kaip IT saugumo specialistas  noriu atlikti saugumo auditą  kad užtikrinčiau sistemos saugumą,1,1,1
+Aš  kaip sistemų administratorius  noriu sujungti skirtingas sistemas,1,0,1
