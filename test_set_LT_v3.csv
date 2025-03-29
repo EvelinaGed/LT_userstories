@@ -19,9 +19,9 @@ Aš kaip mobilios programėlės vartotojas  noriu prieš panaudodamas automobili
 Aš kaip verslo klientas  noriu lojalumo klientams leisti turėti po dvi lojalumo korteles,1,0,1
 Aš kaip lojalumo sistemos administratorius  noriu turėti galimybę klientui nustatyti pagrindinę lojalumo kortelę  kad naudotų tik vieną pagrindinę ir kitoje nesikauptų taškai,0,1,0
 Aš kaip verslo klientas   noriu mobilioje programėlėje padaryti privalomus paskyros informacijos laukelius  kad klientai suvestų informaciją apie save,1,1,1
-Aš  kaip transporto vadybininkas  noriu matyti vairuotojų darbo ir poilsio valandas  kad užtikrinčiau  jog vairuotojai nepažeidžia taisyklių,1,1,1
-Aš  kaip transporto vadybininkas  noriu matyti krovinių pakrovimo vietas žemėlapyje  kad galėčiau sudaryti  maršrutus,1,1,1
-Aš  kaip reklamų vadybininkas  noriu parengti QR kodus  kuriuos klientai gali nuskaityti degalinėje  kad gautų momentines nuolaidas,1,1,1
+Aš  kaip transporto vadybininkas  noriu matyti vairuotojų darbo ir poilsio valandas kad užtikrinčiau  jog vairuotojai nepažeidžia taisyklių,1,1,1
+Aš  kaip transporto vadybininkas  noriu matyti krovinių pakrovimo vietas žemėlapyje kad galėčiau sudaryti  maršrutus,1,1,1
+Aš  kaip reklamų vadybininkas  noriu parengti QR kodus  kuriuos klientai gali nuskaityti degalinėje kad gautų momentines nuolaidas,1,1,1
 Aš  kaip reklamų vadybininkas  noriu sistemoje sudaryti lojalumo taškų iškeitimo taisykles  kad paskatinčiau dažnesnius apsilankymus,1,1,1
 Aš  kaip personalo vadybininkas  noriu personalo procesų sistemoje analizuoti darbuotojų rotaciją  kad galėčiau geriau planuoti personalo poreikius,1,1,1
 Aš  kaip personalo vadybininkas  noriu turėti galimybę generuoti individualius darbo sutarties šablonus  kad sutaupytume laiko ruošiant dokumentus,1,1,1
@@ -88,15 +88,15 @@ Aš kaip verslo klientas noriu naudoti integruotus akcijų valdymo įrankius  ka
 Aš kaip galutinis vartotojas noriu matyti detalią prekių apžvalgą ir įvertinimus  kad galėčiau priimti pagrįstus pirkimo sprendimus,0,1,1
 Aš kaip testuotojas noriu atlikti mobilios programėlės testavimą keliuose įrenginiuose  kad užtikrinčiau  jog programėlė veikia nepriekaištingai visuose įrenginiuose,1,1,0
 Aš kaip verslo analitikas noriu turėti automatizuotą sąskaitų išrašymo procesą  kad klientai gautų laiku,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę įrašyti savo vietą žemėlapyje kad galėčiau lengvai sugrįžti į tą patį tašką vėliau,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę įrašyti savo vietą žemėlapyje kad galėčiau lengvai surasti praėjusią vietą,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu gauti priminimus apie svarbius įvykius ir susitikimus,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę siųsti ir gauti žinutes realiuoju laiku kad galėčiau bendrauti su kitais vartotojai,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę siųsti ir gauti žinutes realiuoju laiku kad galėčiau bendrauti su kitais vartotojai,0,1,0
 Aš kaip mobilios programėlės vartotojas noriu turėti galimybę susikurti asmeninius tikslus ir sekti jų pasiekimus kad galėčiau geriau organizuoti savo laiką,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu naudoti biometrinę autentifikaciją kad galėčiau greitai ir saugiai prisijungti prie savo paskyros,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę peržiūrėti savo užsakymų būseną ir istoriją kad galėčiau sekti savo pirkimus,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu naudoti biometrinę autentifikaciją kad galėčiau greitai ir saugiai prisijungti prie savo paskyros,0,1,0
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę peržiūrėti savo užsakymų būseną ir istoriją kad galėčiau sekti savo pirkimus,0,1,0
 Aš kaip mobilios programėlės vartotojas noriu turėti galimybę nustatyti tamsųjį režimą kad galėčiau patogiai naudotis programėle naktį,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę užsakyti prekes arba paslaugas tiesiai iš programėlės kad galėčiau greitai atlikti pirkimus,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu matyti rekomendacijas pagal mano ankstesnį naudojimą kad galėčiau atrasti naujas paslaugas ir produktus,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę užsakyti prekes arba paslaugas tiesiai iš programėlės kad galėčiau greitai atlikti pirkimus,0,1,0
+Aš kaip mobilios programėlės vartotojas noriu matyti rekomendacijas pagal mano ankstesnį naudojimą kad galėčiau atrasti naujas paslaugas ir produktus,0,1,0
 Aš kaip mobilios programėlės vartotojas noriu ieškoti receptų pagal turimus ingredientus kad galėčiau gaminti,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu išsaugoti mėgstamus receptus savo paskyroje,1,0,1
 Aš  kaip programuotojas  noriu naudoti kodo peržiūros įrankius  kad galėčiau užtikrinti kodo kokybę,1,1,1
@@ -104,7 +104,7 @@ Aš  kaip testuotojas  noriu naudoti klaidų sekimo sistemą  kad galėčiau reg
 Aš  kaip sistemų administratorius  noriu stebėti tinklo srautą  kad galėčiau aptikti ir spręsti problemas,0,1,1
 Aš  kaip verslo analitikas noriu naudoti duomenų vizualizacijos įrankius,1,0,1
 Aš  kaip projektų vadovas  noriu organizuoti reguliarius susitikimus  kad galėčiau aptarti projekto eigą su komanda,1,1,1
-Aš kaip programuotojas  noriu naudoti bibliotekas ir modulius  kad galėčiau greičiau kurti funkcionalumą,0,1,1
+Aš kaip programuotojas  noriu naudoti bibliotekas ir modulius  kad galėčiau greičiau kurti funkcionalumą,0,1,0
 Aš  kaip testuotojas  noriu naudoti testavimo automatizavimo įrankius  kad galėčiau efektyviau atlikti testus,1,1,1
 Aš  kaip sistemų administratorius  noriu stebėti saugumo įvykius  kad galėčiau užkirsti kelią grėsmėms,1,1,1
 Aš  kaip verslo analitikas  noriu atlikti rinkos tyrimus  kad galėčiau suprasti konkurencinę aplinką,1,1,1
