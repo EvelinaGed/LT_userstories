@@ -1,0 +1,401 @@
+User stories, KR1, KR2, KR3
+ Noriu gauti rekomendacijas kai jos yra reikalingos,0,0,1
+ Stebiu veikl? kai tai yra aktualu,0,0,1
+ Kartais registruoju duomenis kai tai yra b?tina,0,0,1
+ Ieškoti b?d? kai jie yra reikalingi,0,0,1
+ Noriu kurti sprendimus kai tai yra b?tina,0,0,1
+ Kartais optimizuoju procesus kai tai yra b?tina,0,0,1
+ Stebiu veikl? kai jau?iu poreik?,0,0,1
+ Planuoju laik? kai tai yra b?tina,0,0,1
+ Kartais atrandu galimybes kai jos pasirodo,0,0,1
+ Noriu gauti sprendimus kai jie yra reikalingi,0,0,1
+ Stebiu veikl? kai tai yra aktualu,0,0,1
+ Kartais naudoju sistem? kai tai yra b?tina,0,0,1
+ Ieškoti nauj? sprendim? kai tai yra aktualu,0,0,1
+ Noriu planuoti veikl? kai jau?iu poreik?,0,0,1
+Planuoju sudaryti sprendim? plan?,0,0,1
+Kartais atrandu naujus b?dus problemoms spr?sti,0,0,1
+Aš noriu gauti konkre?i? informacij? apie projekt?,0,0,1
+Stebiu darbuotoj? veikl? kad gal??iau planuoti mokymus,0,0,1
+Aš noriu kartais registruoju duomenis kai jie yra b?tini,0,0,1
+Ieškau sprendim? tam tikroms problemoms,0,0,1
+Aš noriu kurti naujas galimybes vystymui,0,0,1
+Kartais stebiu sveikatos b?kl? kad gal??iau j? gerinti,0,0,1
+ Planuoju optimizuoti laiko valdym?,0,0,1
+Aš kartais naudoju sistem? kai yra b?tina,0,0,1
+Aš noriu steb?ti veikl? kad gal??iau ?vertinti j? poveik?,0,0,1
+Kartais optimizuoju procesus kai reikia padidinti efektyvum?,0,0,1
+Noriu atrasti naujus b?dus kaip pasiekti užsibr?žtus tikslus,0,0,1
+Kartais registruoju informacij? kai ji yra reikalinga,0,0,1
+Ieškoti naujien? kad gal??iau atnaujinti žinias,0,0,1
+Noriu gauti sprendimus ir pasi?lymus kurie yra efektyv?s,0,0,1
+Stebiu veikl? kai jau?iu poreik? gauti daugiau informacijos,0,0,1
+Kartais naudoju duomenis kai jie yra aktual?s,0,0,1
+Planuoju veikl? kai ji yra svarbi,0,0,1
+Kartais stebiu progres? kad gal??iau sekti pasiekimus,0,0,1
+Noriu kurti galimybes pl?trai,0,0,1
+ Kartais optimizuoju procesus kai tai yra b?tina,0,0,1
+ Kartais registruoju informacij? kai ji yra reikalinga,0,0,1
+ Ieškoti nauj? sprendim? kad b?t? galima išspr?sti problemas,0,0,1
+ Noriu gauti informacij? kuri pad?s priimti sprendimus,0,0,1
+ Kartais naudoju sistem? kai reikia atlikti užduotis,0,0,1
+ Planuoju laik? kai klientas paprašo skirti d?mesio ir paaiškinimui,0,0,1
+ Kartais stebiu veikl? kai reikia papildomos informacijos, 0,0,1
+ Noriu atrasti galimybes pl?trai,0,0,1
+Kartais optimizuoju kai reikia pagerinti efektyvum?,0,0,1
+Atlieku sprendim? kai sistema neveikia,0,0,1
+ Sukuriu sprendimus kai tai aktualu visiems,0,0,1
+ Registruoju gautus duomenis kai jie yra b?tini,0,0,1
+ Stebiu veikl? kai yra poreikis gauti daugiau informacijos,0,0,1
+ Aš kaip programuotojas noriu tur?ti automatizuotus procesus ir AI patarimus,0,0,1
+ Aš kaip lojalumo sistemos administratorius noriu sugrupuoti pasibaigusias akcijas ir jas pašalinti,0,0,1
+Aš kaip IT saugumo specialistas noriu naudoti ?varias sistemas pavyzdžiui IDS/IPS sistemas kad sistemos b?t? saugios naudoti darbuotojams,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu dalyvauti ?vairiausiose ir ?domiausiose loterijuose kad laim?ti pagrindin? priz?,0,1,0
+Aš kaip IT projekt? vadovas noriu naudoti populiariausi? grafik? kurioje rodoma vis? projekt? pažangos ir ?vair?s kiti grafikai kad parodyti kitiems skyriaus vadovams projekt? b?senas,0,1,0
+Aš  kaip programin?s ?rangos k?r?jas  noriu naudoti testavimo ?rankius ir užtikrinti ger? sistemos patikimum? kad iškarto suras?iau sistemos klaidas ir jas pataisy?iau,0,1,0
+Aš  kaip testuotojas noriu naudoti testavimo ?rank?  ir rašyti ?variriausius testus norima kalba kad ištestuoti sistem?,0,1,0
+Aš kaip galutinis vartotojas noriu tur?ti galimyb? keisti program?l?s kalb? arba naudotis programa savo kalba kad supras?iau program?l?s turin?,0,1,0
+Aš kaip IT saugumo specialistas noriu naudoti sistemos pažeidžiamumo skanavimo ?rank?  ir aptikti kažkur saugumo pažeidžiamum? kad pašalinti kenk?jišk? viet?,0,1,0
+Aš  kaip verslo analitikas noriu naudoti duomen? vizualizacijos ?rankius ir pateikti ataskaitas moderniau ir gražiau kad klientams pateikti geras duomen? ataskaitas,0,1,0
+Aš kaip IT infrastrukt?ros specialistas noriu naudoti debes? saugojimo paslaugas arba užtikrinti duomen? atsargines kopijas kad duomenys b?t? saugus,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu tur?ti galimyb? perži?r?ti esam? kod? ir pakeisti saugos kod? ? kit? kok? nors ger? kad b?t? stiprus saugos kod?,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu tur?ti galimyb? persi?sti savo nemokam? kavos kupon? ir plovyklos kupon? bet kuriam kontaktui kad gal?t? pasinaudoti nemokamu kuponu,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu pasirinkti pagrindin?s mok?jimo ir lojalumo korteli? požymius kad mok?jimas grei?iau ?vykt?,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu tur?ti galimyb? atsiskaityti kasoje su QR kodu ir gauti geras nuolaidos kad sutaupy?iau pinig?,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu tur?ti galimyb? greitai ir efektyviai atsiskaityti už degalus per program?l? kad nereik?t? eiti mok?ti kasoje ir stov?ti eil?se,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu tur?ti galimyb? užsakyti savitarnos plovyklos paslaugas ir nusiplauti automobil? kai reikia kad automobilis b?t? švarus,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu tur?ti galimyb? užsakyti siurblio paslaugas ir kartu nemokamai gauti kelis savitarnos plovyklos žetonus kad sutvarkyti mašin? vienu kartu,0,1,0
+Aš kaip sistemos administratorius noriu tur?ti galimyb? matyti kiekvieno sistemos vartotojo žurnalinius ?rašus bet kuriuo metu ir juos pasiekti kad patikrinti ar n?ra sistemos pažeidim?,0,1,0
+Aš kaip sistemos administratorius noriu tur?ti galimyb? sukurti naujus sistemos vartotojus ir jiems išsi?sti tvarkingas prisijungimo nuorodas kad nauji vartotojai prisijungt?,0,1,0
+Aš kaip sistemos administratorius noriu tur?ti galimyb? redaguoti ir matyti sistemos vartotoj? teises iš skirting? roli? kad matyti k? mato kiti vartotojai,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu pinigin?s skiltyje matyti ir pasirinkti turim? korteli? b?senas kad žinoti kurias galiu naudoti atsiskaitymo metu,0,1,0
+Aš  kaip reklam? vadybininkas  noriu personalizuoti ir sukurti reklaminius pasi?lymus pagal klient? pom?gius kad padidinti reklamos efektyvum?,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu tur?ti galimyb? atsisi?sti kvit? ? telefon? ir išsisaugoti kad persi?sti žinut? kam reikia,0,1,0
+Aš kaip mobilios program?l?s vartotojas noriu apmok?jimo metu matytiir pasirinkti lojalumo korteli? ikonas kad grei?iau pasirinkti norim? kortel?,0,1,0
+Aš kaip testuotojasnoriu tur?ti galimyb? naudoti ?vairius testavimo ?rankius kad gauti pa?ius geriausius rezultatus,0,1,0
+Aš kaip mobilios program?l?s programuotojas noriu prid?ti ir ?diegti skirtingas kalbas kad vartotojai tur?t? galimyb? pasirinkti norim? kalb?,0,1,0
+Aš kaip saugumo inžinierius noriu naudoti gerus sistemos ?rankius kad gal??iau nustatyti saugumo rizikas,0,1,0
+Aš kaip duomen? analitikas noriu naudoti duomen? analiz?s ?rank? kad duomen? analiz? tur?t? b?ti modernesn? ir aiškesn?,0,1,0
+Aš kaip specialistas noriu užtikrinti duomen? saugum? debesyse kad duomenys b?t? saugus ,0,1,0
+Aš kaip sistem? administravimas noriu sustiprinti ?silaužim? prevencija kad b?ti efektyvesn? su tinkamomis sistemomis,0,1,0
+Aš kaip sistemos testuotojas noriu tur?ti ?rankius kurie optimizuot? testavimo proces? kad testavimo rezultatai b?t? geri,0,1,0
+Aš kaip klientas noriu gauti informacij? apie preki? pasiekiamum? realiu laiku kad gal??iau priimti sprendim? d?l pirkimo,0,1,0
+Aš kaip testuotojas noriu integruoti testavimo priemones kad gal??iau išvengti dažn? klaid?,0,1,0
+Aš kaip verslo analitikas noriu analizuoti pardavimus patogesn?je ir suprantamesn?je formoje kad gal??iau grei?iau pateikti ?žvalgas,0,1,0
+Aš kaip vadovas noriu matyti rodiklius kurie padeda efektyviau valdyti darbus kad gal??iau geriau organizuoti komandos veikl?,0,1,0
+Aš kaip klientas noriu tur?ti galimyb? pritaikyti preki? pasirinkim? program?l?je kad patirtis b?t? personalizuota,0,1,0
+Aš kaip IT administratorius noriu naudoti automatizuot? konfig?ravim? kad gal??iau supaprastinti IT procesus,0,1,0
+Aš kaip saugumo specialistas noriu naudoti saugumo ?rankius kad gal??iau greitai reaguoti ? gr?smes,0,1,0
+Aš kaip testuotojas noriu naudoti testavimo ?rankius kad gal??iau užtikrinti sistemos nuoseklum? ir veikim?,0,1,0
+Aš kaip duomen? apsaugos specialistas noriu užtikrinti duomen? šifravim? jautriems duomenims kad gal??iau apsaugoti informacij?,0,1,0
+Aš kaip verslo analitikas noriu prognozuoti ateities rezultatus kad gal??iau priimti geresnius verslo sprendimus,0,1,0
+Aš kaip darbuotojas noriu tur?ti prieig? prie savo atlyginim? informacijos kad gal??iau j? perži?r?ti savarankiškai,0,1,0
+Aš kaip vadybininkas noriu aiškiai matyti mokym? išlaid? kontrol? kad gal??iau efektyviau valdyti biudžet?,0,1,0
+Aš kaip personalo vadovas noriu tur?ti darbuotoj? išsilavinimo duomenis sistemoje kad gal??iau planuoti mokymus,0,1,0
+Aš kaip transporto vadybininkas noriu riboti kuro s?naudas pagal nustatymus kad gal??iau kontroliuoti išlaidas,0,1,0
+Aš kaip vadovas noriu valdyti darbuotoj? kuro limitus kad gal??iau reguliuoti s?naudas,0,1,0
+Aš kaip klientas noriu perži?r?ti kvitus be atsisiuntimo kad gal??iau grei?iau pasiekti informacij?,0,1,0
+Aš kaip klientas noriu išsaugoti mok?jimo korteles kad gal??iau grei?iau atlikti mok?jimus,0,1,0
+Aš kaip klientas noriu matyti visas lojalumo korteles vienoje vietoje kad gal??iau lengviau jomis naudotis,0,1,0
+Aš kaip klientas noriu sudaryti pirkini? s?raš? patogesniu b?du kad gal??iau efektyviau planuoti apsipirkim?,0,1,0
+Aš kaip klientas noriu gauti elektroninius kvitus el. paštu kad gal??iau lengvai juos saugoti ir perži?r?ti,0,1,0
+Aš kaip sveikatos steb?jimo programos naudotojas noriu steb?ti savo simptomus kad galb?t tur?ti sveikatos istorij?,1,1,0
+Aš kaip naudotojas noriu matyti duomenis apie vartotoj? veikl? kad sek?iau j? ?vairiausi? veiklas,1,1,0
+Aš kaip administratorius galiu efektyviai sukurti paskyras kad darbuotojai tur?t? prisijungimus,1,1,0
+Aš kaip muzikos platformos naudotojas noriu išgirsti nauj? muzik? kad gal??iau pasinerti ? geresn? patirt?,1,1,0
+Aš kaip finans? programos naudotojas noriu nustatyti biudžet? kad gal??iau geriau valdyti savo išlaidas,1,1,0
+Aš kaip kelioni? programos vartotojas noriu pasirinkti kelion?s tiksl? kad gal??iau suplanuoti savo atostogas,1,1,0
+Aš kaip sveikatos steb?jimo programos naudotojas noriu gauti pranešimus apie savo b?kl? kad gal??iau imtis reikiam? veiksm?,1,1,0
+Aš kaip vartotojas noriu gauti rekomendacijas kad gal??iau pagerinti savo patirt?,1,1,0
+Aš kaip programos naudotojas noriu matyti savo veiklos duomenis kad gal??iau geriau suprasti savo pažang?,1,1,0
+Aš kaip treniruo?i? programos naudotojas noriu sekti savo fizinio aktyvumo statistik? kad gal??iau tobulinti treniruo?i? režim? arba tiesiog steb?ti savo pažang? ,1,1,0
+Aš kaip meditacijos program?l?s naudotojas noriu gauti kasdieninius priminimus kad gal??iau praktikuoti meditacij? arba tiesiog priminti sau pasimedituoti ,1,1,0
+Aš kaip fotografij? redagavimo aplikacijos naudotojas noriu taikyti filtrus nuotraukoms kad pagerin?iau j? vizualin? efekt? arba tiesiog pritaikyti efektus ,1,1,0
+Aš kaip muzikos transliacijos programos naudotojas noriu kurti grojaraš?ius kad gal??iau klausytis savo m?gstamiausios muzikos arba tiesiog atrasti naujus k?rinius ,1,1,0
+Aš kaip naujien? aplikacijos naudotojas noriu gauti pranešimus apie svarbiausias pasaulio naujienas kad gal??iau likti informuotas arba tiesiog sekti naujausias žinias ,1,1,0
+Aš kaip recept? aplikacijos naudotojas noriu žym?ti m?gstamus receptus kad gal??iau lengvai juos rasti v?liau arba tiesiog išsaugoti tuos kurie man patinka ,1,1,0
+Aš kaip kelioni? planavimo aplikacijos naudotojas noriu kurti maršrutus kad gal??iau optimizuoti savo keliones arba tiesiog pasirinkti geriausius maršrutus ,1,1,0
+Aš kaip oro prognozi? program?l?s naudotojas noriu gauti savait?s or? apžvalg? kad gal??iau planuoti savo veiklas arba tiesiog žinoti kas laukia ,1,1,0
+Aš kaip žaidim? aplikacijos naudotojas noriu sekti savo pažang? kad gal??iau matyti savo tobul?jim? arba tiesiog ?vertinti savo pasiekimus ,1,1,0
+Aš kaip sveikatos steb?jimo aplikacijos naudotojas noriu registruoti kraujosp?džio duomenis kad gal??iau steb?ti savo sveikatos b?kl? arba tiesiog žinoti kaip sekasi ,1,1,0
+Aš kaip transporto biliet? aplikacijos naudotojas noriu rezervuoti bilietus kad gal??iau patogiai planuoti keliones arba tiesiog pirkti bilietus ,1,1,0
+Aš kaip socialin?s žiniasklaidos aplikacijos naudotojas noriu skelbti ?rašus kad gal??iau pasidalinti savo akimirkomis su draugais arba tiesiog parodyti k? veikiu ,1,1,0
+Aš kaip film? transliavimo aplikacijos naudotojas noriu sudaryti nor? s?raš? kad gal??iau perži?r?ti v?liau arba tiesiog pasirinkti filmus v?lesniam ži?r?jimui ,1,1,0
+Aš kaip kalendoriaus aplikacijos naudotojas noriu prid?ti ?vykius kad gal??iau efektyviau planuoti savo laik? arba tiesiog užrašyti svarbius dalykus ,1,1,0
+Aš kaip elektroninio pašto aplikacijos naudotojas noriu tvarkyti laiškus aplankuose kad palaiky?iau tvark? arba tiesiog suskirstyti laiškus pagal svarb? ,1,1,0
+Aš kaip treniruo?i? programos naudotojas noriu nustatyti treniruo?i? priminimus kad palaiky?iau nuoseklum? arba tiesiog nepamirš?iau treniruotis ,1,1,0
+Aš kaip sveikatos steb?jimo aplikacijos naudotojas noriu registruoti vandens suvartojim? kad gal??iau steb?ti savo hidratacijos lyg? arba tiesiog žinoti kiek vandens geriu ,1,1,0
+Aš kaip sistemos administratorius noriu atnaujinti operacin? sistem? kad užtikrin?iau sistemos saugum? ,1,1,0
+Aš kaip sistemos administratorius noriu ?diegti naujus serverio komponentus kad užtikrin?iau sistemos stabilum? ,1,1,0
+Aš kaip sistem? analitikas noriu sukurti duomen? analiz?s ataskaitas kad gal??iau pateikti ?žvalgas apie sistemos naudojim? ,1,1,0
+Aš kaip sistem? analitikas noriu sukurti duomen? vizualizacijas kad gal??iau pateikti ?žvalgas apie sistemos naudojim? ,1,1,0
+Aš kaip sistem? inžinierius noriu optimizuoti duomen? baz?s užklausas kad sumažin?iau sistemos apkrov? ,1,1,0
+Aš kaip sistem? inžinierius noriu sumažinti sistemos apkrov? kad pagerin?iau jos našum? ,1,1,0
+Aš kaip tinklo inžinierius noriu konfig?ruoti ugniasien? kad apsaugo?iau sistem? nuo išorini? gr?smi? ,1,1,0
+Aš kaip tinklo inžinierius noriu konfig?ruoti maršrutizatorius kad apsaugo?iau sistem? nuo išorini? gr?smi? ,1,1,0
+Aš kaip duomen? baz?s administratorius noriu testuoti atk?rimo procesus kad užtikrin?iau duomen? saugum? ,1,1,0
+Aš kaip testuotojas noriu sukurti automatizuotus testavimo scenarijus kad užtikrin?iau sistemos kokyb? ,1,1,0
+Aš kaip testuotojas noriu vykdyti regresijos testus kad užtikrin?iau ger? sistemos kokyb? ,1,1,0
+Aš kaip produkto savininkas noriu apibr?žti nauj? funkcij? reikalavimus kad gal??iau valdyti greitai produkto k?rim? ,1,1,0
+Aš kaip produkto savininkas noriu nustatyti funkcij? prioritetus kad gal??iau aktyviai valdyti produkto k?rim? ,1,1,0
+Aš kaip projekto vadovas noriu sukurti projekto plan? kad gal??iau užtikrinti ger? projekto s?km? ,1,1,0
+Aš kaip projekto vadovas noriu aktyviai steb?ti projekto vykdym? kad gal??iau užtikrinti projekto s?km? ,1,1,0
+Aš kaip dizaineris noriu sukurti interaktyvius prototipus kad pagerin?iau vartotojo s?saj? ,1,1,0
+Aš kaip dizaineris noriu atlikti vartotoj? testavim? kad pagerin?iau vartotojo s?saj? ,1,1,0
+Aš kaip turinio k?r?jas noriu ?kelti naujus straipsnius kad pritrauk?iau lankytojus ,1,1,0
+Aš kaip inžinierius statybininkas noriu naudoti BIM modeliavimo programin? ?rang? statybos projekt? vizualizavimui kad pagerin?iau projekt? valdym? ,1,1,0
+Aš kaip žurnalistas noriu naudoti turinio valdymo sistem? straipsni? rašymui kad gal??iau greitai paskelbti naujienas ,1,1,0
+Aš kaip klientas noriu gauti pranešim? apie s?kmingai atlikt? užsakym? kad gal??iau žinoti kad užsakymas buvo priimtas,1,1,0
+Aš kaip registruotas vartotojas noriu greitai prisijungti prie savo paskyros kad gal??iau pasiekti savo asmenin? informacij?,1,1,0
+Aš kaip sve?ias noriu greitai perži?r?ti produkt? katalog? kad gal??iau susipažinti su si?lomu asortimentu,1,1,0
+Aš kaip registruotas vartotojas noriu keisti savo paskyros slaptažod? kad užtikrin?iau savo paskyros stipr? saugum?,1,1,0
+B?t? gerai jei gal??iau sekti savo sveikat? tam tikromis s?lygomis,1,0,0
+Kaip vartotojas noriu valdyti duomenis lengviau kai yra poreikis,1,0,0
+Kaip sistema naudotojas ieškau b?d? gerinti patirt? kai yra galimyb? ,1,0,0
+Noriu kurti dokumentus kai tik galiu ir kai reikia ,1,0,0
+Kaip vartotojas nor??iau optimizuoti kažk? kas n?ra aišku ,1,0,0
+Valdyti savo finansus yra svarbu tod?l noriu kai tai ?manoma ,1,0,0
+Ieškau b?d? kaip efektyviau atlikti tai k? reikia ,1,0,0
+Aš kaip sistemos naudotojas nor??iau išbandyti naujas funkcijas kai jos pasiekiamos ,1,0,0
+B?t? gerai sukurti erdves kurios padeda bet neaišku kaip,1,0,0
+Aš kaip sistemos vartotojas noriu gauti informacij? kai tik reikia bet ne visada aišku kada ,1,0,0
+Kaip programos naudotojas nor??iau gerinti bet nežinau k? tiksliai ,1,0,0
+Ieškoti nauj? galimybi? naudotojo patir?iai kai yra priežastis ,1,0,0
+Kaip sistema noriu valdyti s?rašus kai jie egzistuoja ,1,0,0
+?domu atrasti b?dus kaip gerinti bet priklauso nuo situacijos ,1,0,0
+Noriu steb?ti poky?ius kai tik galiu ir kai tai naudinga ,1,0,0
+Kaip sistema naudotojas ieškau nauj? funkcij? kai jos atsiranda ,1,0,0
+Aš kaip vartotojas nor??iau kai tai ?manoma ,1,0,0
+B?t? gerai gauti rekomendacijas kai jos aktualios ,1,0,0
+Aš kaip naudotojas noriu gauti informacij? kuri gal?t? b?ti naudinga,1,0,0
+Aš kaip kelioni? programos vartotojas noriu planuoti ?domias keliones,1,0,0
+Aš kaip sveikatos steb?jimo aplikacijos naudotojas noriu sekti savo b?kl? kai reikia,1,0,0
+Aš kaip muzikos platformos naudotojas noriu atrasti nauj? muzik? kažkaip,1,0,0
+Aš kaip vartotojas noriu analizuoti duomenis kurie gali b?ti svarb?s,1,0,0
+Aš kaip programos naudotojas noriu gauti rekomendacijas kai jos b?tinos,1,0,0
+Aš kaip nam? dizaino aplikacijos naudotojas noriu kurti erdves kurios gal?t? ?kv?pti,1,0,0
+Aš kaip augal? prieži?ros programos naudotojas noriu steb?ti augalus kai jie auga,1,0,0
+Aš kaip sveikatos aplikacijos naudotojas noriu registruoti poky?ius kurie pasirodo svarb?s,1,0,0
+Aš kaip finans? steb?jimo aplikacijos naudotojas noriu perži?r?ti biudžet? kada tai aktualu,1,0,0
+Aš kaip elektronin?s parduotuv?s klientas noriu atrasti prekes kurios b?t? naudingos,1,0,0
+Aš kaip gyv?n? prieži?ros programos naudotojas noriu r?pintis sveikata kai to reikia,1,0,0
+Aš kaip nuotrauk? dalinimosi aplikacijos naudotojas noriu skelbti akimirkas kai jos ypatingos,1,0,0
+Aš kaip medžiokl?s aplikacijos naudotojas noriu steb?ti rezultatus kai jie ?dom?s,1,0,0
+Aš kaip kult?ros steb?jimo programos naudotojas noriu atrasti renginius kurie ?kvepia,1,0,0
+Aš kaip sveikatos steb?jimo programos naudotojas noriu sekti simptomus kai jie paskelbti,1,0,0
+Aš kaip treniruo?i? aplikacijos naudotojas noriu steb?ti pažang? kai ji svarbi,1,0,0
+Aš kaip transporto aplikacijos naudotojas noriu matyti ?vairius maršrutus,1,0,0
+Aš kaip edukacin?s programos vartotojas noriu mokytis kai yra tinkama nuotaika,1,0,0
+Aš kaip sveikatingumo aplikacijos naudotojas noriu steb?ti aktyvum? kai kartais b?na poreikis,1,0,0
+Aš kaip oro prognozi? aplikacijos naudotojas noriu perži?r?ti orus kai tai svarbu,1,0,0
+Aš kaip muzikos transliacijos platformos naudotojas noriu kurti grojaraš?ius kai yra ?kv?pimas,1,0,0
+Aš kaip sveikatos steb?jimo programos vartotojas noriu registruoti duomenis savo ir kit? šeimos nari?,1,0,0
+Aš kaip rengini? programos vartotojas noriu planuoti dalyvavim? kai renginiai ?dom?s,1,0,0
+Aš kaip mitybos program?l?s naudotojas noriu steb?ti valgym? kai yra poreikis,1,0,0
+Aš kaip sporto steb?jimo programos vartotojas noriu analizuoti pasirinkto sporto rezultatus,1,0,0
+Aš kaip gyv?n? steb?jimo programos naudotojas noriu registruoti jud?jim? kai jis reikšmingas,1,0,0
+Aš kaip sveikatos apsaugos programos vartotojas noriu sekti b?kl? kai ji svarbi,1,0,0
+Aš kaip kelioni? planavimo programos naudotojas noriu sudaryti maršrutus kai yra poreikis,1,0,0
+Aš kaip medžiokl?s aplikacijos naudotojas noriu steb?ti ?vairiausius sezono rezultatus,1,0,0
+Aš kaip kult?ros steb?jimo programos naudotojas noriu atrasti ?domiausius renginius,1,0,0
+Aš kaip gyv?n? prieži?ros programos naudotojas noriu r?pintis sveikata kai tai svarbu,1,0,0
+Aš kaip projekto valdymo sistemos vartotojas noriu priskirti užduotis komandos nariams ir sekti j? atlikim? kad užtikrin?iau projekto eig?,0,1,1
+Aš kaip biliet? rezervacijos svetain?s naudotojas noriu ieškoti rengini? ir juos r?šiuoti pagal dat? kad gal??iau rezervuoti bilietus ?domiems renginiams,0,1,1
+Aš kaip sveikatingumo programos naudotojas noriu registruoti suvartotas kalorijas ir analizuoti jas pagal savo mitybos tikslus kad gal??iau steb?ti savo mitybos ?pro?ius,0,1,1
+Aš kaip banko mobiliosios program?l?s vartotojas noriu inicijuoti pinig? pervedimus tam kad gal??iau greitai ir saugiai atlikti finansines operacijas,0,1,1
+Aš kaip programavimo mokymosi platformos naudotojas noriu sekti savo mokymosi pažang? ir palyginti j? su kitais kursais kad gal??iau ?vertinti savo pasiekimus,0,1,1
+Aš kaip oro prognozi? aplikacijos vartotojas noriu matyti savait?s or? apžvalg? ir prognozes pagal viet? kad gal??iau planuoti savo veiklas pagal or? s?lygas,0,1,1
+Aš kaip sveikatos steb?jimo aplikacijos naudotojas noriu registruoti savo miego laik? ir analizuoti j? kartu su kitais sveikatos rodikliais kad gal??iau analizuoti savo miego kokyb?,0,1,1
+Aš kaip darbo užsakym? valdymo sistemos vartotojas noriu perži?r?ti užduo?i? b?kl? ir sekti komandos atliktus darbus kad gal??iau steb?ti komandos progres?,0,1,1
+Aš kaip transporto steb?jimo aplikacijos vartotojas noriu matyti transporto maršrutus ir lyginti juos su eismo s?lygomis kad gal??iau pasirinkti optimal? keli?,0,1,1
+Aš kaip finans? analiz?s programos vartotojas noriu analizuoti rinkos tendencijas ir vertinti j? ?tak? mano investicijoms kad priim?iau pagr?stus investicinius sprendimus,0,1,1
+Aš kaip augal? prieži?ros programos naudotojas noriu gauti priminimus apie laistym? ir užtikrinti kad mano augalai b?t? sveiki ,0,1,1
+Aš kaip mados tendencij? steb?jimo programos vartotojas noriu ieškoti naujausi? kolekcij? ir sekti mados poky?ius ,0,1,1
+Aš kaip nam? dizaino programos vartotojas noriu kurti kambario maketus ir vizualizuoti dizaino id?jas ,0,1,1
+Aš kaip sporto rengini? biliet? svetain?s klientas noriu ieškoti rengini? ir rezervuoti vietas ,0,1,1
+Aš kaip sveikatos duomen? analiz?s programos vartotojas noriu analizuoti kraujo tyrim? rezultatus ir steb?ti savo sveikatos b?kl? ,0,1,1
+Aš kaip miesto transporto sistemos naudotojas noriu steb?ti autobus? maršrutus ir planuoti savo keliones ,0,1,1
+Aš kaip saul?s energijos valdymo sistemos naudotojas noriu steb?ti energijos gamyb? ir optimizuoti savo energijos naudojim? ,0,1,1
+Aš kaip el rengini? organizavimo platformos vartotojas noriu kurti renginius ir suburti žmones bendrai veiklai ,0,1,1
+Aš kaip tarptautin?s komunikacijos platformos vartotojas noriu si?sti žinutes ir palaikyti ryš? su partneriais užsienyje ,0,1,1
+Aš kaip ?mon?s apskaitos sistemos vartotojas noriu rengti finansines ataskaitas ir steb?ti ?mon?s finansin? b?kl? ,0,1,1
+Aš kaip architekt?ros dizaino programos naudotojas noriu kurti pastat? dizain? ir pateikti vizualinius projektus klientams ,0,1,1
+Aš kaip sveikatos draudimo sistemos vartotojas noriu perži?r?ti draudimo s?lygas ir b?ti informuotas apie savo draudimo galimybes ,0,1,1
+Aš kaip miesto planavimo programos vartotojas noriu analizuoti urbanistinius duomenis ir optimizuoti miesto vystym?si ,0,1,1
+Aš kaip elektronin?s mokymosi platformos vartotojas noriu registruotis kursams ir tobulinti savo žinias ,0,1,1
+Aš kaip ekologiško ?kio valdymo sistemos naudotojas noriu sekti pas?li? b?kl? ir planuoti derliaus nu?mim? ,0,1,1
+Aš kaip vieš?j? erdvi? užimtumo steb?jimo sistemos naudotojas noriu steb?ti erdvi? užimtum? ir planuoti savo vizitus ,0,1,1
+Aš kaip k?rybos konkurs? svetain?s lankytojas noriu dalyvauti konkursuose ir išbandyti savo k?rybinius geb?jimus ,0,1,1
+Aš kaip profesionalios nuotrauk? redagavimo programos naudotojas noriu kurti portretus ir vizualizuoti savo k?rybinius sprendimus ,0,1,1
+Aš kaip sveikatos prieži?ros sistemos naudotojas noriu steb?ti pacient? sveikatos rodiklius ir priimti informuotus medicininius sprendimus ,0,1,1
+Aš kaip laiko valdymo programos vartotojas noriu kurti dienos planus ir efektyviai organizuoti savo veiklas ,0,1,1
+Aš kaip aukštos kokyb?s grafikos redagavimo ?rankio naudotojas noriu kurti iliustracijas ir vizualizuoti savo k?rybines id?jas ,0,1,1
+Aš kaip muzikos mokymo programos naudotojas noriu praktikuoti instrumentus ir tobul?ti muzikos srityje ,0,1,1
+Aš kaip student? portalo naudotojas noriu perži?r?ti kurso medžiag? ir pasiruošti egzaminams ,0,1,1
+Aš kaip verslo kontakt? valdymo sistemos vartotojas noriu tvarkyti kontaktus ir palaikyti efektyv? ryši? tinkl? ,0,1,1
+Aš kaip automobili? nuomos paslaugos naudotojas noriu ieškoti automobili? ir rezervuoti juos savo kelion?ms ,0,1,1
+Aš kaip virtualios mokymo programos naudotojas noriu dalyvauti kursuose ir gauti sertifikatus ,0,1,1
+Aš kaip sveikatos steb?jimo programos vartotojas noriu registruoti savo sveikatos rodiklius ir steb?ti sveikatos progres? ,0,1,1
+Aš kaip technologij? naujien? svetain?s lankytojas noriu skaityti naujienas ir likti informuotas apie naujausias technologijas ,0,1,1
+Aš kaip kolektyvinio finansavimo platformos vartotojas noriu prad?ti projektus ir surinkti l?šas savo id?joms ?gyvendinti ,0,1,1
+Aš kaip sveikatingumo klub? naryst?s sistemos vartotojas noriu tvarkyti savo naryst? ir steb?ti lankomumo statistik? ,0,1,1
+Aš kaip ekologišk? produkt? parduotuv?s klientas noriu perži?r?ti produkt? katalog? ir pasirinkti ekologiškus gaminius ,0,1,1
+Aš kaip inovacij? valdymo sistemos vartotojas noriu steb?ti projekt? progres? ir ?vertinti inovacijas ,0,1,1
+Aš kaip viešojo transporto paslaugos naudotojas noriu steb?ti maršrutus ir planuoti keliones ,0,1,1
+Aš kaip internetin?s radio stoties vartotojas noriu kurti grojaraš?ius ir dalintis muzika su draugais ,0,1,1
+Aš kaip ?mon?s komunikacijos platformos vartotojas noriu si?sti pranešimus ir palaikyti ryš? su kolegomis ,0,1,1
+Aš kaip draudimo paslaugos naudotojas noriu perži?r?ti polis? ir b?ti informuotas apie savo draudimo apsaug? ,0,1,1
+Aš kaip verslo analiz?s ?rankio vartotojas noriu rengti ataskaitas ir priimti informuotus verslo sprendimus ,0,1,1
+Aš kaip interaktyvios mokymosi platformos vartotojas noriu dalyvauti diskusijose ir keistis žiniomis su kitais mokiniais ,0,1,1
+Aš kaip skaitmenin?s meno platformos vartotojas noriu kurti meno projektus ir dalintis savo k?rybiniais darbais ,0,1,1
+Aš kaip maisto pristatymo programos vartotojas noriu užsisakyti patiekalus ir patogiai gauti maist? namuose ,0,1,1
+Aš kaip finansin?s program?l?s naudotojas noriu planuoti biudžet? ir sekti išlaidas,0,0,0
+Aš kaip kelioni? patarim? svetain?s lankytojas noriu skaityti kit? keliautoj? atsiliepimus ir rasti rekomenduotinas vietas,0,0,0
+Aš kaip sveikatingumo klub? naryst?s sistemos vartotojas noriu tvarkyti savo naryst? ir steb?ti lankomumo statistik?,0,0,0
+Aš kaip recept? dalinimosi platformos vartotojas noriu kurti ir dalintis receptais su draugais,0,0,0
+Aš kaip streso valdymo program?l?s naudotojasno riu steb?ti savo nuotaik? ir gauti meditacijos patarimus,0,0,0
+Aš kaip nam? dizaino programos vartotojas noriu kurti kambario maketus ir dalintis dizaino id?jomis,0,0,0
+Aš kaip sporto rengini? biliet? svetain?s klientas noriu ieškoti rengini? ir rezervuoti vietas,0,0,0
+Aš kaip el bibliotekos sistemos vartotojas noriu skaityti elektronines knygas ir rezervuoti nauj? leidim? perži?ras,0,0,0
+Aš kaip j?ros kelioni? planavimo svetain?s naudotojas noriu ieškoti kruiz? ir užsakyti kajutes,0,0,0
+Aš kaip sveikatos duomen? analiz?s programos vartotojas noriu analizuoti kraujo tyrim? rezultatus ir sekti sveikatos tendencijas,0,0,0
+Aš kaip ekologinio ?kio valdymo sistemos naudotojas noriu sekti pas?li? b?kl? ir planuoti derliaus nu?mim?,0,0,0
+Aš kaip elektroninio sporto turnyr? platformos vartotojas noriu kurti turnyrus ir dalintis rezultatais su bendruomene,0,0,0
+Aš kaip muzikos mokymo programos naudotojas noriu praktikuoti instrumentus ir sekti mokymosi pažang?,0,0,0
+Aš kaip student? portalo naudotojas noriu perži?r?ti kurso medžiag? ir gauti pranešimus apie seminarus,0,0,0
+Aš kaip verslo kontakt? valdymo sistemos vartotojas noriu tvarkyti kontaktus ir planuoti susitikimus,0,0,0
+Aš kaip k?rybos konkurs? svetain?s lankytojas noriu dalyvauti konkursuose ir balsuoti už geriausius darbus,0,0,0
+Aš kaip transporto monitoringo sistemos naudotojas noriu steb?ti transporto priemoni? jud?jim? ir optimizuoti maršrutus,0,0,0
+Aš kaip augal? prieži?ros programos vartotojas noriu gauti priminimus apie laistym? ir steb?ti augal? b?kl?,0,0,0
+Aš kaip mados tendencij? steb?jimo programos naudotojas noriu ieškoti naujausi? kolekcij? ir dalintis atradimais,0,0,0
+Aš kaip internetin?s radio stoties vartotojas noriu kurti grojaraš?ius ir dalintis muzika su draugais,0,0,0
+Aš kaip technologij? naujien? svetain?s lankytojas noriu skaityti naujienas apie technologijas ir komentuoti straipsnius,0,0,0
+Aš kaip ka?i? prieži?ros programos naudotojas noriu steb?ti maitinimo laik? ir analizuoti sveikatos b?kl?,0,0,0
+Aš kaip kolektyvinio finansavimo platformos vartotojas noriu prad?ti projektus ir sekti investuotoj? ?našus,0,0,0
+Aš kaip saul?s energijos valdymo sistemos naudotojas noriu steb?ti energijos gamyb? ir analizuoti panaudojimo efektyvum?,0,0,0
+Aš kaip el sporto treniruo?i? programos vartotojas noriu sekti treniruo?i? pažang? ir gauti patarimus,0,0,0
+Aš kaip miesto transporto sistemos naudotojas noriu steb?ti autobus? maršrutus ir planuoti keliones,0,0,0
+Aš kaip kaln? žygi? planavimo programos naudotojas noriu ieškoti žygi? maršrut? ir steb?ti oro s?lygas,0,0,0
+Aš kaip kibernetinio saugumo valdymo sistemos vartotojas noriu steb?ti saugumo incidentus ir priskirti taisymo užduotis,0,0,0
+Aš kaip aviacijos skrydži? planavimo programos naudotojas noriu ieškoti skrydži? ir planuoti maršrutus,0,0,0
+Aš kaip skaitmenin?s meno platformos vartotojasnoriu kurti meno projektus ir dalintis jais su bendruomene,0,0,0
+Aš kaip maisto pristatymo programos vartotojas nori užsisakyti patiekalus ir steb?ti pristatymo eig?,0,0,0
+Aš kaip ?mon?s resurs? valdymo sistemos naudotojas noriu planuoti resurs? panaudojim? ir steb?ti biudžet?,0,0,0
+Aš kaip interaktyvios mokymosi platformos vartotojas noriu dalyvauti diskusijose ir gauti gr?žtam?j? ryš?,0,0,0
+Aš kaip vieš?j? erdvi? užimtumo steb?jimo sistemos naudotojas noriu steb?ti erdvi? užimtum? ir planuoti vizitus,0,0,0
+Aš kaip kraštovaizdžio dizaino programos vartotojas noriu kurti sod? dizain? ir dalintis id?jomis su bendruomene,0,0,0
+Aš kaip aukštos kokyb?s grafikos redagavimo ?rankio naudotojas noriu kurti iliustracijas ir analizuoti dizaino tendencijas,0,0,0
+Aš kaip virtualios realyb?s žaidim? platformos vartotojas noriu kurti naujus žaidimus ir dalintis patirtimis,0,0,0
+Aš kaip sveikatos duomen? valdymo sistemos vartotojas noriu steb?ti sveikatos rodiklius ir analizuoti tendencijas,0,0,0
+Aš kaip el rengini? organizavimo platformos vartotojas noriu kurti renginius ir steb?ti dalyvi? registracijas,0,0,0
+Aš kaip socialini? tyrim? platformos naudotojas noriu analizuoti apklaus? duomenis ir kurti ataskaitas,0,0,0
+Aš kaip profesionalios nuotrauk? redagavimo programos naudotojas noriu kurti portretus ir dalintis k?rybiniais sprendimais,0,0,0
+Aš kaip laiko valdymo programos vartotojas noriu kurti dienos planus ir sekti veiklos efektyvum?,0,0,0
+Aš kaip aukštos kokyb?s muzikos redagavimo programos naudotojas noriu kurti muzikinius k?rinius ir dalintis ?rašais,0,0,0
+Aš kaip tarptautin?s komunikacijos platformos naudotojas noriu si?sti žinutes ir organizuoti susitikimus,0,0,0
+Aš kaip aukštos kokyb?s fotografijos redagavimo ?rankio vartotojas noriu kurti vizualinius projektus ir dalintis id?jomis,0,0,0
+Aš kaip vietos istorijos programos naudotojas noriu tyrin?ti istorinius ?vykius ir dalintis atradimais,0,0,0
+Aš kaip sveikatos prieži?ros sistemos naudotojas noriu steb?ti pacient? sveikatos rodiklius ir analizuoti duomenis,0,0,0
+Aš kaip aukštos kokyb?s vaizdo redagavimo programos naudotojas noriu kurti film? montaž? ir dalintis k?rybos procesu,0,0,0
+Aš kaip profesionalios programin?s ?rangos k?rimo platformos vartotojas noriu kurti naujus sprendimus ir dalintis id?jomis,0,0,0
+Aš kaip architekt?ros dizaino programos naudotojas noriu kurti pastat? dizain? ir dalintis projektu su komanda,0,0,0
+Aš kaip pardavim? vadybininkas noriu tur?ti galimyb? suskai?iuoti sistemoje parduot? preki? kiek?,1,0,1
+Aš kaip sistemos administratorius noriu atnaujinti operacin? sistem?,1,0,1
+Aš kaip sistem? analitikas noriu sukurti duomen? analiz?s ataskaitas,1,0,1
+Aš kaip sistem? inžinierius noriu optimizuoti duomen? baz?s užklausas,1,0,1
+Aš kaip tinklo inžinierius noriu konfig?ruoti ugniasien?,1,0,1
+Aš kaip duomen? baz?s administratorius noriu sukurti automatizuotas atsargines kopijas,1,0,1
+Aš kaip testuotojas noriu sukurti automatizuotus testavimo scenarijus,1,0,1
+Aš kaip produkto savininkas noriu apibr?žti nauj? funkcij? reikalavimus,1,0,1
+Aš kaip projekto vadovas noriu sukurti projekto plan?,1,0,1
+Aš kaip sistem? dizaineris noriu sukurti interaktyvius prototipus,1,0,1
+Aš kaip turinio k?r?jas noriu ?kelti naujus straipsnius,1,0,1
+Aš kaip rinkodaros specialistas noriu integruoti socialini? tinkl? ?rankius,1,0,1
+Aš kaip pardavim? vadybininkas noriu naudoti CRM sistem?,1,0,1
+Aš kaip klient? aptarnavimo specialistas noriu naudoti pagalbos sistem?,1,0,1
+Aš kaip finansininkas noriu naudoti finans? valdymo sistem?,1,0,1
+Aš kaip teisininkas noriu naudoti teisin?s dokumentacijos sistem?,1,0,1
+Aš kaip mokytojas noriu naudoti mokymosi valdymo sistem?,1,0,1
+Aš kaip studentas noriu naudotis e-mokymosi platforma,1,0,1
+Aš kaip gydytojas noriu naudoti elektronin? sveikatos ?raš? sistem?,1,0,1
+Aš kaip inžinierius noriu naudoti sistem? modeliavimo programin? ?rang?,1,0,1
+Aš kaip žurnalistas noriu naudoti turinio valdymo sistem?,1,0,1
+Aš kaip logistikos specialistas noriu tur?ti galimyb? sistemoje optimizuoti pristatymo maršrutus,1,0,1
+Aš kaip HR vadybininkas noriu tvarkyti darbuotoj? darbo sutarties duomenis,1,0,1
+Aš kaip vert?jas noriu tur?ti galimyb? sistemoje išversti dokumentus,1,0,1
+Aš kaip sistem? analitikas noriu matyti pra?jusio m?nesio uždaryt? klient? užklaus? skai?i?,1,0,1
+Aš kaip sporto program?l?s vartotojas noriu ?rašyti savo treniruo?i? rezultatus,1,0,1
+Aš kaip naujien? program?l?s naudotojas noriu gauti pranešimus apie naujausius straipsnius,1,0,1
+Aš kaip IT specialistas noriu užtikrinti duomen? saugum? ,1,0,1
+Aš kaip IT specialistas noriu teikti technin? pagalb? vartotojams ,1,0,1
+Aš kaip marketingo specialistas noriu kurti reklamin? medžiag? mokym? platformai ,1,0,1
+Aš kaip marketingo specialistas noriu analizuoti rinkodaros kampanij? efektyvum? ,1,0,1
+Aš kaip marketingo specialistas noriu bendradarbiauti su socialini? tinkl? influenceri? ,1,0,1
+Aš kaip marketingo specialistas noriu kurti turin? platformos tinklaraš?iui ,1,0,1
+Aš kaip vartotojas noriu steb?ti savo mokymosi pasiekimus,1,0,1
+Aš kaip sistem? administratorius noriu užtikrinti mokymosi platformos saugum? ,1,0,1
+Aš kaip lojalumo sistemos vartotojas noriu gauti pranešimus apie lojalumo tašk? nurašymo taisykles,1,0,1
+Aš kaip sistem? dizaineris noriu kurti mobilios program?l?s dizaino prototipus,1,0,1
+Aš kaip HR specialistas noriu sukurti ir valdyti darbuotoj? mokym? programas ,1,0,1
+Aš kaip HR specialistas noriu steb?ti darbuotoj? mokymosi pažang? ,1,0,1
+Aš kaip HR specialistas noriu gauti ataskaitas apie darbuotoj? dalyvavim? mokymuose ,1,0,1
+Aš kaip HR specialistas noriu bendrauti su instruktoriais ,1,0,1
+Aš kaip HR specialistas noriu gauti pranešimus apie darbuotoj? mokym? užbaigim? ,1,0,1
+Aš kaip HR specialistas noriu analizuoti mokym? poreikius ,1,0,1
+Aš kaip HR specialistas noriu integruoti mokym? platform? su kitomis HR sistemomis ,1,0,1
+Aš kaip HR specialistas noriu kurti individualius mokym? planus darbuotojams ,1,0,1
+Aš kaip HR specialistas noriu organizuoti vidinius mokymus ,1,0,1
+Aš kaip personalo vadybininkas noriu steb?ti mokym? užimtum? ,1,0,1
+Aš kaip verslo analitikas noriu analizuoti vartotoj? elgsen? platformoje ,1,0,1
+Aš kaip dizaineris noriu kad vartotojo s?saja b?t? graži ir funkcionali,1,0,1
+Aš kaip ?mon?s savininkas noriu gerai veikian?i? rinkodaros ?ranki? ,1,0,1
+Aš kaip testuotojas noriu automatizuoti testavimo proces? kad sumažin?iau klaid? skai?i? ,1,1,1
+Aš kaip projekt? vadovas noriu steb?ti projekto eig? kad užtikrin?iau laiku atliktus darbus ,1,1,1
+Aš kaip marketingo specialistas noriu analizuoti kampanij? rezultatus kad gal??iau optimizuoti strategijas ,1,1,1
+Aš kaip finans? analitikas noriu steb?ti biudžeto vykdym? kad užtikrin?iau finansin? stabilum? ,1,1,1
+Aš kaip HR specialistas noriu steb?ti darbuotoj? pasitenkinim? kad padidin?iau j? motyvacij? ,1,1,1
+Aš kaip IT specialistas noriu steb?ti tinklo saugum? kad apsaugo?iau duomenis ,1,1,1
+Aš kaip dizaineris noriu kurti patrauklius dizainus kad padidin?iau vartotoj? ?sitraukim? ,1,1,1
+Aš kaip SEO specialistas noriu optimizuoti svetain? kad padidin?iau jos matomum? paieškos sistemose ,1,1,1
+Aš kaip socialini? tinkl? vadybininkas noriu kurti turin? kad padidin?iau sek?j? skai?i? ,1,1,1
+Aš kaip duomen? analitikas noriu analizuoti duomenis kad gal??iau pateikti ?žvalgas ,1,1,1
+Aš kaip produkt? savininkas noriu nustatyti produkto vizij? kad užtikrin?iau jo s?km? ,1,1,1
+Aš kaip klient? aptarnavimo specialistas noriu greitai atsakyti ? užklausas kad padidin?iau klient? pasitenkinim? ,1,1,1
+Aš kaip verslo pl?tros vadybininkas noriu identifikuoti naujas galimybes kad padidin?iau ?mon?s augim? ,1,1,1
+Aš kaip kokyb?s kontrol?s specialistas noriu steb?ti gamybos proces? kad užtikrin?iau produkto kokyb? ,1,1,1
+Aš kaip logistikos vadybininkas noriu optimizuoti tiekimo grandin? kad sumažin?iau išlaidas ,1,1,1
+Aš kaip pirkim? vadybininkas noriu der?tis su tiek?jais kad sumažin?iau išlaidas ,1,1,1
+Aš kaip rinkodaros analitikas noriu analizuoti vartotoj? elgsen? kad optimizuo?iau kampanijas ,1,1,1
+Aš kaip produkt? vadybininkas noriu steb?ti produkto gyvavimo cikl? kad užtikrin?iau jo s?km? ,1,1,1
+Aš kaip klient? patirties vadybininkas noriu steb?ti klient? atsiliepimus kad padidin?iau j? pasitenkinim? ,1,1,1
+Aš kaip verslo strategas noriu kurti ilgalaikes strategijas kad užtikrin?iau ?mon?s augim? ,1,1,1
+Aš kaip komunikacijos specialistas noriu kurti komunikacijos planus kad padidin?iau prek?s ženklo matomum? ,1,1,1
+Aš kaip produkt? dizaineris noriu kurti funkcionalius dizainus kad padidin?iau vartotoj? pasitenkinim? ,1,1,1
+Aš kaip duomen? mokslininkas noriu kurti modelius kad gal??iau prognozuoti tendencijas ,1,1,1
+Aš kaip saugumo specialistas noriu steb?ti saugumo incidentus kad apsaugo?iau sistem? ,1,1,1
+Aš kaip projekt? koordinatorius noriu steb?ti projekto eig? kad užtikrin?iau laiku atliktus darbus ,1,1,1
+Aš kaip klient? s?km?s vadybininkas noriu steb?ti klient? pasitenkinim? kad padidin?iau j? lojalum? ,1,1,1
+Aš kaip produkt? rinkodaros vadybininkas noriu kurti rinkodaros strategijas kad padidin?iau produkto pardavimus ,1,1,1
+Aš kaip klient? aptarnavimo vadybininkas noriu steb?ti klient? aptarnavimo kokyb? kad padidin?iau klient? pasitenkinim? ,1,1,1
+Aš kaip verslo analitikas noriu analizuoti verslo procesus kad optimizuo?iau veikl? ,1,1,1
+Aš kaip produkto dizaineris  noriu testuoti vartotojo s?saj? su bandomaisiais naudotojais  kad gal??iau tobulinti naudotojo patirt? ,1,1,1
+Aš kaip klientas  noriu tur?ti galimyb? pateikti atsiliepim? apie prekes  kad gal??iau pasidalinti savo nuomone su kitais ,1,1,1
+Aš kaip sistem? architektas  noriu tur?ti prieig? prie sistemos veikimo metrik?  kad gal??iau steb?ti jos patikimum? ,1,1,1
+Aš kaip sistemos administratorius  noriu matyti prisijungim? istorij?  kad gal??iau identifikuoti ?tarimus veiksmus ,1,1,1
+Aš kaip duomen? analitikas  noriu tur?ti galimyb? eksportuoti duomenis ? CSV format?  kad gal??iau atlikti papildom? analiz? ,1,1,1
+Aš kaip produkto vadovas  noriu gauti klient? atsiliepimus apie produktus  kad gal??iau priimti geresnius sprendimus d?l tobulinimo ,1,1,1
+Aš kaip verslo analitikas  noriu tur?ti galimyb? filtruoti duomenis pagal tam tikrus parametrus  kad gal??iau atlikti gilesn? analiz? ,1,1,1
+Aš kaip klientas  noriu tur?ti galimyb? sekti savo užsakymo b?sen?  kad b??iau informuotas apie pristatym? ,1,1,1
+Aš kaip produkto vadovas noriu sukurti nauj? funkcij? kad padidin?iau produkto vert? ,1,1,1
+Aš kaip verslo analitikas noriu analizuoti rinkos tendencijas kad gal??iau pateikti rekomendacijas ,1,1,1
+Aš kaip finans? analitikas  noriu tur?ti galimyb? generuoti pardavim? ataskaitas pagal laikotarpius  kad gal??iau steb?ti pajam? poky?ius ,1,1,1
+Aš kaip HR vadovas  noriu matyti darbuotoj? darbo valand? apskait?  kad gal??iau tiksliai apskai?iuoti atlyginimus ,1,1,1
+Aš kaip klientas  noriu matyti aiškius preki? aprašymus  kad gal??iau priimti geresn? sprendim? pirkimui ,1,1,1
+Aš kaip projekt? vadovas  noriu matyti kiekvieno komandos nario darbo eig?  kad gal??iau steb?ti projekto progres? ,1,1,1
+Aš kaip pardav?jas  noriu matyti klient? pirkim? istorij?  kad gal??iau pateikti personalizuotus pasi?lymus ,1,1,1
+Aš kaip sistemos administratorius  noriu matyti visus aktyvius vartotojus sistemoje  kad gal??iau valdyti j? prieigas ,1,1,1
+Aš kaip programuotojas  noriu naudotis API dokumentacija  kad gal??iau integruoti sistem? su kitomis paslaugomis ,1,1,1
+Aš kaip rinkodaros specialistas  noriu tur?ti galimyb? segmentuoti klientus pagal pirkimo ?pro?ius  kad gal??iau kurti tikslingas reklamas ,1,1,1
+Aš kaip tiekimo grandin?s vadovas  noriu matyti preki? liku?ius sand?lyje realiu laiku  kad gal??iau planuoti papildymus ,1,1,1
+Aš kaip verslo analitikas  noriu tur?ti prieig? prie klient? duomen? analiz?s ataskait?  kad gal??iau identifikuoti rinkos tendencijas ,1,1,1
+Aš kaip klientas  noriu gauti el  paštu pranešim? apie s?kming? užsakymo apmok?jim?  kad b??iau tikras  jog mano užsakymas priimtas ,1,1,1
