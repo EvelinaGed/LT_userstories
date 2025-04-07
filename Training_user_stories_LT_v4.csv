@@ -549,9 +549,9 @@ Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie užsakym
 Aš kaip mobilios programėlės vartotojas noriu susieti savo paskyrą su kitais mokėjimo metodais kad turėčiau daugiau pasirinkimų,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu naudoti QR kodą atsiskaitymui degalinėje kad procesas būtų greitesnis,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu peržiūrėti ir turėti galimybę pasirinkti skirtingas mokėjimo valiutas,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu dalintis mokėjimais su draugais kad būtų patogiau it greičiau pasidalinti sąskaitą,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu dalintis mokėjimais su draugais kad būtų patogiau ir greičiau pasidalinti sąskaitą,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu matyti kuro kainas realiu laiku kad pasirinkti pigiausią variantą,1,1,0
-Aš kaip mobilios programėlės vartotojas noriu gauti perspėjimus jei degalų kaina pakilo ar nukrito kad galėčiau greitai ir efektyviai suplanuoti pirkimą,0,1,0
+Aš kaip mobilios programėlės vartotojas noriu gauti perspėjimus jei degalų kaina pakilo ar nukrito kad  greitai ir efektyviai suplanuoti pirkimą,0,1,0
 Aš kaip mobilios programėlės vartotojas noriu matyti ir pasirinkti parkavimo vietų užimtumą pagal norimą dieną ir realiu laiku,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti ir rezervuoti parkavimo vietą iš anksto kad būčiau tikras jog atvykęs rasiu kur pastatyti automobilį,0,1,0
 Aš kaip svetainės lankytojas noriu matyti naujausias prekes ir pasiūlymus pagrindiniame puslapyje,0,0,1
@@ -590,7 +590,7 @@ Aš kaip programuotojas noriu sukurti veiksmingą klaidų žurnalą kuris fiksuo
 Aš kaip programuotojas noriu įdiegti automatizuotus testus kad kiekvienas naujas atnaujinimas nekeltų grėsmės esamų funkcionalumų veikimui,1,1,1
 Aš kaip programuotojas noriu užtikrinti kad vartotojų duomenys būtų šifruojami ir saugomi pagal BDAR reikalavimus siekiant apsaugoti jų privatumą,0,0,1
 Aš kaip programuotojas noriu sukurti administracinį valdymo skydelį kuris leistų lengvai pridėti redaguoti ir trinti prekes bei keisti jų kainas,0,0,1
-Aš kaip programuotojas noriu įgyvendinti dviejų faktorių autentifikaciją kad padidinčiau vartotojų paskyrų saugumą ir sumažinčiau neteisėtos prieigos riziką,0,1,1
+Aš kaip programuotojas noriu įjungti ir pritaikyti dviejų faktorių autentifikaciją kad padidinčiau vartotojų paskyrų saugumą ir sumažinčiau neteisėtos prieigos riziką,0,1,1
 Aš kaip programuotojas noriu įdiegti CDN kad svetainės puslapiai krautųsi greičiau nepriklausomai nuo vartotojo geografinės vietos ir užtikrintų geresnę patirtį,0,1,1
 Aš kaip programuotojas noriu sukurti prisijungimą per socialinius tinklus kad vartotojai galėtų lengviau susikurti paskyrą ir nereikėtų įvesti daug informacijos,0,1,0
 Aš kaip programuotojas noriu optimizuoti svetainės vaizdus kad jie išlaikytų kokybę bet būtų pakankamai suspausti siekiant sumažinti puslapio krovimo laiką,1,1,0
@@ -624,13 +624,13 @@ Aš kaip administratorius noriu turėti įrankį peržiūrėti klientų užklaus
 Aš kaip verslo analitikas noriu matyti tendencijų analizę kuri rodytų kokios prekės populiarėja sezoniškai kad galėčiau planuoti rinkodaros kampanijas,1,1,1
 Aš kaip verslo analitikas noriu turėti galimybę segmentuoti klientus pagal jų pirkimo įpročius kad pasiūlyti personalizuotas nuolaidas,0,1,1
 Aš kaip verslo analitikas noriu stebėti klientų praleidžiamą laiką svetainėje ir jų paspaudimus kad nustatyti kokie elementai labiausiai veikia pardavimus,0,1,1
-Aš kaip UI/UX dizaineris noriu sukurti aiškią ir patogiai naudojamą navigaciją kad vartotojai lengvai rastų reikiamą informaciją,0,1,0
+Aš kaip UI/UX dizaineris noriu sukurti ir suteikti visiems aiškią naudojamą navigaciją kad vartotojai lengvai rastų reikiamą informaciją,0,1,0
 Aš kaip UI/UX dizaineris noriu optimizuoti mygtukų dydžius ir spalvas kad jie būtų aiškiai matomi ir lengvai paspaudžiami,1,1,0
 Aš kaip UI/UX dizaineris noriu atlikti A/B testavimą skirtingoms dizaino versijoms kad nustatyčiau kuris variantas atitinka vartotojų poreikius,1,1,1
-Aš kaip produkto vadovas noriu peržiūrėti pardavimų duomenis realiu laiku kad priimti sprendimus dėl tolimesnės strategijos,0,1,1
+Aš kaip produkto vadovas noriu peržiūrėti ir išsisaugoti pardavimų duomenis realiu laiku kad priimti sprendimus dėl tolimesnės strategijos,0,1,1
 Aš kaip produkto vadovas noriu nustatyti prioritetus funkcionalumui pagal vartotojų atsiliepimus kad užtikrinčiau didesnį klientų skaičių,1,1,1
 Aš kaip produkto vadovas noriu generuoti automatines ataskaitas apie produkto naudojimo statistiką kad greitai reaguoti į pokyčius,1,1,0
-Aš kaip verslo analitikas noriu matyti klientų apsipirkimo tendencijas kad optimizuoti pasiūlymus ir reklamas,0,1,1
+Aš kaip verslo analitikas noriu atsifiltruoti ir matyti klientų apsipirkimo tendencijas kad optimizuoti pasiūlymus ir reklamas,0,1,1
 Aš kaip verslo analitikas noriu segmentuoti klientų grupes pagal pirkimo istoriją kad teikti personalizuotus pasiūlymus,1,1,1
 Aš kaip verslo analitikas noriu turėti vizualizuotus duomenis apie klientų elgseną svetainėje kad daryti duomenimis pagrįstus sprendimus,1,1,1
 Aš kaip klientas noriu galėti peržiūrėti savo pirkinių istoriją kad galėčiau lengvai pakartoti ankstesnius užsakymus,1,1,0
@@ -644,7 +644,7 @@ Aš kaip sistemos administratorius noriu nustatyti naudotojų teises,1,0,1
 Aš kaip sistemos administratorius noriu gauti automatinius pranešimus apie sistemos apkrovą,1,0,1
 Aš kaip programuotojas noriu integruoti saugius mokėjimo sprendimus kad klientų finansiniai duomenys būtų apsaugoti,1,1,1
 Aš kaip programuotojas noriu sukurti API dokumentaciją kad kiti programuotojai galėtų lengvai naudoti sistemos funkcionalumą,1,1,0
-Aš kaip programuotojas noriu rašyti automatinius testus kad užtikrinti kodo kokybę ir stabilumą,0,1,1
+Aš kaip programuotojas noriu rašyti ir pritaikyti automatinius testus kad užtikrinti kodo kokybę ir stabilumą,0,1,1
 Aš kaip rinkodaros specialistas noriu kurti personalizuotas reklamas pagal klientų naršymo istoriją,1,0,1
 Aš kaip rinkodaros specialistas noriu stebėti reklamos kampanijų statistiką kad optimizuoti biudžetą,1,1,1
 Aš kaip rinkodaros specialistas noriu siųsti klientams suasmenintus el  pašto pasiūlymus,1,0,1
@@ -661,12 +661,12 @@ Aš kaip UI/UX dizaineris noriu naudoti vartotojų testavimo rezultatus,1,0,1
 Aš kaip pardavimų vadybininkas noriu generuoti ir išsisaugoti individualius pasiūlymus pagal klientų istoriją kad turėti pardavimų rezultatus,0,1,1
 Aš kaip klientų aptarnavimo specialistas noriu turėti pokalbių su klientais istoriją,1,0,1
 Aš kaip apskaitos specialistas noriu matyti detalius finansinius duomenis kad galėčiau sudaryti biudžetą,1,1,1
-Aš kaip techninės pagalbos specialistas noriu greitai gauti informaciją apie kliento problemą kad galėčiau efektyviai ją spręsti,0,1,0
+Aš kaip techninės pagalbos specialistas noriu greitai gauti ir sureaguoti į informaciją apie kliento problemą kad galėčiau efektyviai ją spręsti,0,1,0
 Aš kaip inovacijų vadovas noriu stebėti rinkos tendencijas kad galėčiau pasiūlyti naujas funkcijas,1,1,1
 Aš kaip produktų katalogo tvarkytojas noriu turėti galimybę lengvai pridėti ir redaguoti prekes kad jos būtų aktualios,0,1,0
 Aš kaip partnerių vadybininkas noriu stebėti partnerių veiklos duomenis kad galėčiau geriau valdyti santykius,1,1,1
 Aš kaip teisės specialistas noriu užtikrinti kad svetainėje pateikta informacija atitiktų galiojančius teisės aktus,1,1,1
-Aš kaip produkto vadovas  noriu matyti produkto pardavimų statistiką,1,0,1
+Aš kaip produkto vadovas noriu matyti produkto pardavimų statistiką,1,0,1
 Aš kaip klientų aptarnavimo specialistas  noriu turėti prieigą prie klientų skundų istorijos  kad galėčiau spręsti problemas efektyviau,1,1,0
 Aš kaip sandėlio darbuotojas  noriu gauti pranešimus apie naujas prekes  kad galėčiau jas efektyviai priimti,1,1,0
 Aš kaip testuotojas  noriu matyti klaidų registraciją  kad galėčiau efektyviai stebėti klaidų taisymą,1,1,0
@@ -674,21 +674,21 @@ Aš kaip pardavėjas  noriu matyti populiariausias prekes  kad galėčiau efekty
 Aš kaip programinės įrangos inžinierius  noriu matyti klaidų logus  kad galėčiau greičiau nustatyti ir išspręsti problemas ,0,1,1
 Aš kaip duomenų apsaugos specialistas  noriu matyti visus saugumo incidentus sistemoje  kad galėčiau greitai reaguoti ,1,1,0
 Aš kaip verslo savininkas  noriu matyti finansinę suvestinę viename lange  kad galėčiau greitai analizuoti verslo veiklą ,1,1,0
-Aš kaip logistikos vadybininkas  noriu sekti pristatymų maršrutus  kad galėčiau optimizuoti transportavimo procesą ,1,1,1
+Aš kaip logistikos vadybininkas  noriu sekti pristatymų maršrutus  kad galėčiau optimizuoti transportavimo procesą,1,1,1
 Aš kaip skaitmeninio marketingo specialistas  noriu matyti reklamos kampanijų efektyvumą  kad galėčiau optimizuoti biudžetą ,1,1,0
 Aš kaip klientas noriu gauti greitą pagalbą kad išspręsčiau savo problemą,1,1,0
 Aš kaip pardavėjas noriu turėti prieigą prie klientų duomenų kad galėčiau efektyviau parduoti ,1,1,0
 Aš kaip sistemos administratorius noriu stebėti serverio veikimą kad užtikrinti sistemos stabilumą ,1,1,1
 Aš kaip programuotojas noriu naudoti naujausius įrankius kad padidinčiau savo darbo efektyvumą,1,1,0
 Aš kaip programinės įrangos inžinierius noriu kurti efektyvius algoritmus kad padidinti sistemos našumą,1,1,0
-Aš kaip verslo konsultantas noriu teikti rekomendacijas kad padidinčiau įmonės efektyvumą ,0,1,0
+Aš kaip verslo konsultantas noriu teikti ir dalinti rekomendacijas kad padidinčiau įmonės efektyvumą,0,1,0
 Aš kaip produkto vadovas noriu sukurti kažką naujo kad būtų geriau,1,1,0
 Aš kaip verslo analitikas noriu analizuoti duomenis kad būtų naudingiau,1,1,0
 Aš kaip klientas noriu gauti pagalbą kad būtų patogiau,1,1,0
 Aš kaip pardavėjas noriu turėti prieigą prie informacijos kad būtų lengviau parduoti,1,1,0
 Aš kaip sistemos administratorius noriu stebėti sistemą kad būtų stabiliau,1,1,0
 Aš kaip programuotojas noriu naudoti naujus įrankius kad būtų efektyviau,1,1,0
-Aš kaip testuotojas noriu automatizuoti testus kad būtų mažiau klaidų,0,1,0
+Aš kaip testuotojas noriu automatizuoti ir pritaikyti testus kad būtų mažiau klaidų,0,1,0
 Aš kaip projektų vadovas noriu stebėti projektą kad būtų laiku atlikta,1,1,0
 Aš kaip marketingo specialistas noriu analizuoti rezultatus kad matyti daugiausiai ,1,1,0
 Aš kaip finansų analitikas noriu stebėti biudžetą kad būtų stabiliau,1,1,0
@@ -698,7 +698,7 @@ Aš kaip dizaineris noriu kurti dizainus kad būtų patraukliau,1,1,0
 Aš kaip SEO specialistas noriu optimizuoti svetainę kad būtų daugiau lankytojų,1,1,0
 Aš kaip socialinių tinklų vadybininkas noriu kurti turinį kad būtų daugiau sekėjų,1,1,0
 Aš kaip duomenų analitikas noriu analizuoti duomenis kad būtų naudingos įžvalgos,1,1,0
-Aš kaip produktų savininkas noriu nustatyti viziją kad būtų aiškiau,0,1,0
+Aš kaip produktų savininkas noriu nustatyti ir pasidalinti viziją kad būtų aiškiau,0,1,0
 Aš kaip klientų aptarnavimo specialistas noriu greitai atsakyti į užklausas kad būtų laimingi klientai,1,1,0
 Aš kaip verslo plėtros vadybininkas noriu identifikuoti galimybes kad būtų augimas,1,1,0
 Aš kaip kokybės kontrolės specialistas noriu stebėti procesą kad būtų kokybiškiau,1,1,0
@@ -715,12 +715,12 @@ Aš kaip saugumo specialistas noriu stebėti incidentus kad būtų saugiau,1,1,0
 Aš kaip programinės įrangos inžinierius noriu kurti algoritmus kad būtų našiau,1,1,0
 Aš kaip projektų koordinatorius noriu stebėti eigą kad būtų laiku atlikta,1,1,0
 Aš kaip klientų sėkmės vadybininkas noriu stebėti pasitenkinimą kad būtų lojalumas,1,1,0
-Aš kaip verslo konsultantas noriu teikti rekomendacijas kad būtų efektyviau,0,1,0
+Aš kaip verslo konsultantas noriu teikti ir rekomendacijas kad būtų efektyviau,0,1,0
 Aš kaip produktų rinkodaros vadybininkas noriu kurti strategijas kad būtų pardavimai,1,1,0
 Aš kaip klientų aptarnavimo vadybininkas noriu stebėti kokybę kad būtų daugiau norinčių pirkti klientų,0,1,0
-Aš kaip verslo analitikas noriu analizuoti procesus kad būtų optimizacija,0,1,0
-Aš kaip produktų savininkas noriu nustatyti viziją kad būtų sėkmė,0,1,0
-Aš kaip kokybės kontrolės specialistas noriu stebėti procesą kad būtų kokybė,0,1,0
+Aš kaip verslo analitikas noriu analizuoti ir stebėti procesus kad būtų gera optimizacija,0,1,0
+Aš kaip produktų savininkas noriu nustatyti ir paskelbti viziją kad būtų aiški sėkmė,0,1,0
+Aš kaip kokybės kontrolės specialistas noriu stebėti ir analizuoti procesą kad būtų nebloga kokybė,0,1,0
 Aš kaip logistikos vadybininkas noriu optimizuoti tiekimą kad būtų efektyvumas,1,1,0
 Aš kaip produktų vadybininkas noriu stebėti gyvavimo ciklą kad būtų sėkmė,1,1,0
 Aš kaip produktų dizaineris noriu kurti dizainus kad būtų funkcionalumas,1,1,0
@@ -728,18 +728,18 @@ Aš kaip produktų dizaineris noriu kurti dizainus kad būtų funkcionalumas,1,1
  Aš kaip verslo analitikas noriu analizuoti rinkos tendencijas ir pateikti rekomendacijas,0,0,0
  Aš kaip sistemos klientas noriu gauti greitą pagalbą ir išspręsti savo problemą,0,0,0
  Aš kaip pardavėjas noriu turėti prieigą prie klientų duomenų ir efektyviau parduoti,0,0,0
- Aš kaip sistemos administratorius noriu stebėti serverio veikimą ir užtikrinti sistemos stabilumą,0,0,0
+ Aš kaip sistemos administratorius noriu stebėti  ir užtikrinti serverio veikimo stabilumą,0,0,0
  Aš kaip programuotojas noriu naudoti naujausius įrankius ir padidinti savo darbo efektyvumą,0,0,0
- Aš kaip testuotojas noriu automatizuoti testavimo procesą ir sumažinti klaidų skaičių,0,0,0
- Aš kaip projektų vadovas noriu stebėti projekto eigą ir užtikrinti laiku atliktus darbus,0,0,0
- Aš kaip marketingo specialistas noriu analizuoti kampanijų rezultatus ir optimizuoti strategijas,0,0,0
+ Aš kaip testuotojas noriu automatizuoti ir sumažinti klaidų skaičių,0,0,0
+ Aš kaip projektų vadovas noriu stebėti ir užtikrinti projekto eigą laiku atliktus darbus,0,0,0
+ Aš kaip marketingo specialistas noriu analizuoti  ir optimizuoti kampanijų rezultatus,0,0,0
  Aš kaip finansų analitikas noriu stebėti biudžeto vykdymą ir užtikrinti finansinį stabilumą,0,0,0
  Aš kaip HR specialistas noriu stebėti darbuotojų pasitenkinimą ir padidinti jų motyvaciją,0,0,0
  Aš kaip IT specialistas noriu stebėti tinklo saugumą ir apsaugoti duomenis,0,0,0
  Aš kaip dizaineris noriu kurti patrauklius dizainus ir padidinti vartotojų įsitraukimą,0,0,0
  Aš kaip SEO specialistas noriu optimizuoti svetainę ir padidinti jos matomumą paieškos sistemose,0,0,0
- Aš kaip socialinių tinklų vadybininkas noriu kurti turinį ir padidinti sekėjų skaičių,0,0,0
- Aš kaip duomenų analitikas noriu analizuoti duomenis ir pateikti įžvalgas,0,0,0
+ Aš kaip socialinių tinklų vadybininkas noriu kurti ir didinti turinio sekėjų skaičių,0,0,0
+ Aš kaip duomenų analitikas noriu analizuoti ir pateikti įvairių duomenų įžvalgas,0,0,0
  Aš kaip produktų savininkas noriu nustatyti produkto viziją ir užtikrinti jo sėkmę,0,0,0
  Aš kaip klientų aptarnavimo specialistas noriu greitai atsakyti į užklausas ir padidinti klientų pasitenkinimą,0,0,0
  Aš kaip verslo plėtros vadybininkas noriu identifikuoti naujas galimybes ir padidinti įmonės augimą,0,0,0
@@ -752,7 +752,7 @@ Aš kaip produktų dizaineris noriu kurti dizainus kad būtų funkcionalumas,1,1
  Aš kaip verslo strategas noriu kurti ilgalaikes strategijas ir užtikrinti įmonės stabilumą,0,0,0
  Aš kaip komunikacijos specialistas noriu kurti komunikacijos planus ir padidinti prekės ženklo matomumą,0,0,0
  Aš kaip produktų dizaineris noriu kurti funkcionalius dizainus ir padidinti vartotojų pasitenkinimą,0,0,0
- Aš kaip duomenų mokslininkas noriu kurti modelius ir prognozuoti tendencijas,0,0,0
+ Aš kaip duomenų mokslininkas noriu kurti  ir prognozuoti modelių tendencijas,0,0,0
  Aš kaip saugumo specialistas noriu stebėti saugumo incidentus ir apsaugoti sistemą,0,0,0
  Aš kaip programinės įrangos inžinierius noriu kurti efektyvius algoritmus ir padidinti sistemos našumą,0,0,0
  Aš kaip projektų koordinatorius noriu stebėti projekto eigą ir užtikrinti laiku atliktus darbus,0,0,0
@@ -813,7 +813,7 @@ Aš kaip mobilios programėlės kūrėjas noriu peržiūrėti vartotojų atsilie
  Aš kaip direktorius noriu turėti galimybę stebėti projektų būsenas ir išsitraukti ataskaitas apie nepelningiausius projektus,0,0,0
  Aš kaip klientų vadybininkas noriu turėti galimybę ištraukti klientų atsiliepimų ataskaitą,0,0,0
  Aš kaip verslo įkūrėjas noriu matyti įmonės nuostolius ir pajamas,0,0,0
- Aš kaip personalo skyriaus vadovas noriu matyti atrankų rezultatus ir pristatyti rezultatus vadovams,0,0,0
+ Aš kaip personalo skyriaus vadovas noriu matyti ir pristatyti atrankų rezultatus vadovams,0,0,0
  Aš kaip internetinių svetainių dizaineris noriu sukurti prisijungimo langą ir kelis klaidos pranešimus dėl prisijungimo lango,0,0,0
  Aš kaip duomenų analitikas noriu sukurti pajamų ataskaitą ir prognozuoti didesnes pajamas,0,0,0
  Aš kaip IT saugumo specialistas noriu stebėti nepavykusius prisijungimus prie darbuotojų paskyrų ir sugeneruoti ataskaitą,0,0,0
@@ -824,32 +824,32 @@ Aš kaip mobilios programėlės kūrėjas noriu peržiūrėti vartotojų atsilie
  Aš kaip rinkodaros vadybininkas noriu turėti galimybę sukurti pardavimų strategiją ir padidinti įmonės pardavimus,0,0,0
  Aš kaip klientų vadybininkas noriu padidinti klientų apsilankymo internetinėje svetainėje skaičių ir suteikti nuolaidas išperkamiausiom prekėm,0,0,0
 Aš kaip mobilios programėlės vartotojas noriu nustatyti privatumo nustatymus ir peržiūrėti savo veiklos statistiką,0,0,0
-Aš kaip svetainės lankytojas noriu peržiūrėti produktų apžvalgas ,1,0,1
+Aš kaip svetainės lankytojas noriu peržiūrėti produktų apžvalgas,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu nustatyti priminimus ,1,0,1
-Aš kaip parduotuvės klientas noriu naudoti nuolaidos kodą ,1,0,1
-Aš kaip administratorius noriu ištrinti neaktyvius vartotojus ,1,0,1
-Aš kaip svetainės lankytojas noriu peržiūrėti savo profilio nustatymus ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu peržiūrėti savo veiklos statistiką ,1,0,1
+Aš kaip parduotuvės klientas noriu naudoti nuolaidos kodą,1,0,1
+Aš kaip administratorius noriu ištrinti neaktyvius vartotojus,1,0,1
+Aš kaip svetainės lankytojas noriu peržiūrėti savo profilio nustatymus,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu peržiūrėti savo veiklos statistiką,1,0,1
 Aš kaip parduotuvės klientas noriu gauti pranešimus apie akcijas,1,0,1
-Aš kaip administratorius noriu peržiūrėti sistemos veikimo ataskaitas ,1,0,1
-Aš kaip svetainės lankytojas noriu pakeisti savo el pašto adresą ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu peržiūrėti savo paskyros nustatymus ,1,0,1
-Aš kaip parduotuvės klientas noriu peržiūrėti prekių grąžinimo politiką ,1,0,1
-Aš kaip administratorius noriu pridėti naują produktą į katalogą ,1,0,1
-Aš kaip svetainės lankytojas noriu peržiūrėti savo užsakymų istoriją ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu nustatyti privatumo nustatymus ,1,0,1
-Aš kaip parduotuvės klientas noriu peržiūrėti prekių pristatymo būdus ,1,0,1
-Aš kaip svetainės lankytojas noriu užsiregistruoti ,1,0,1
+Aš kaip administratorius noriu peržiūrėti sistemos veikimo ataskaitas,1,0,1
+Aš kaip svetainės lankytojas noriu pakeisti savo el pašto adresą,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu peržiūrėti savo paskyros nustatymus,1,0,1
+Aš kaip parduotuvės klientas noriu peržiūrėti prekių grąžinimo politiką,1,0,1
+Aš kaip administratorius noriu pridėti naują produktą į katalogą,1,0,1
+Aš kaip svetainės lankytojas noriu peržiūrėti savo užsakymų istoriją,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu nustatyti privatumo nustatymus,1,0,1
+Aš kaip parduotuvės klientas noriu peržiūrėti prekių pristatymo būdus,1,0,1
+Aš kaip svetainės lankytojas noriu užsiregistruoti,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu pakeisti savo slaptažodį ,1,0,1
 Aš kaip parduotuvės klientas noriu peržiūrėti savo užsakymų istoriją ,1,0,1
-Aš kaip administratorius noriu pridėti naują vartotoją ,1,0,1
-Aš kaip svetainės lankytojas noriu užsiprenumeruoti naujienlaiškį ,1,0,1
+Aš kaip administratorius noriu pridėti naują vartotoją,1,0,1
+Aš kaip svetainės lankytojas noriu užsiprenumeruoti naujienlaiškį,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą ,1,0,1
 Aš kaip parduotuvės klientas noriu pridėti prekę į norų sąrašą ,1,0,1
-Aš kaip administratorius noriu peržiūrėti vartotojų veiklos ataskaitas ,1,0,1
-Aš kaip svetainės lankytojas noriu pakeisti savo profilio nuotrauką ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie naujus produktus ,1,0,1
- Aš kaip svetainės lankytojas noriu gauti įdomų naujienlaiškį kiekvieną mėnesį kad nepraleisčiau naujienų,1,1,0
+Aš kaip administratorius noriu peržiūrėti vartotojų veiklos ataskaitas,1,0,1
+Aš kaip svetainės lankytojas noriu pakeisti savo profilio nuotrauką,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie naujus produktus,1,0,1
+Aš kaip svetainės lankytojas noriu gauti įdomų naujienlaiškį kiekvieną mėnesį kad nepraleisčiau naujienų,1,1,0
  Aš kaip mobilios programėlės vartotojas noriu pakeisti savo slaptažodį kad užtikrinčiau savo paskyros saugumą,1,1,0
  Aš kaip parduotuvės klientas noriu peržiūrėti savo užsakymų istoriją kad galėčiau stebėti savo pirkimus,1,1,0
  Aš kaip administratorius noriu pridėti naują vartotoją kad būtų pridėtas naujas darbuotojas,1,1,0
@@ -874,8 +874,8 @@ Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie naujus p
  Aš kaip administratorius noriu peržiūrėti sistemos veikimo ataskaitas kad galėčiau identifikuoti kažkokias problemas,1,1,0
  Aš kaip svetainės lankytojas noriu greitai pakeisti savo profilio nuotrauką kad atnaujinčiau savo profilį,1,1,0
  Aš kaip mobilios programėlės vartotojas noriu aktyviai peržiūrėti savo veiklos statistiką kad stebėti savo pažangą,1,1,0
- Aš kaip elektroninės parduotuvės klientas noriu turėti galimybę užsakyti baldų atvežimą kad gaučiau baldų gerą surinkimo garantiją,1,1,0
- Aš kaip internetinės svetainės administratorius noriu turėti galimybę sukurti nuolaidas pagal klientų lojalumo korteles kad klientai galėtų pasinaudoti geromis nuolaidomis,1,1,0
+ Aš kaip elektroninės parduotuvės klientas noriu užsakyti baldų atvežimą kad gaučiau baldų gerą surinkimo garantiją,1,1,0
+ Aš kaip internetinės svetainės administratorius noriu sukurti nuolaidas pagal klientų lojalumo korteles kad klientai galėtų pasinaudoti geromis nuolaidomis,1,1,0
  Aš kaip svetainės lankytojas noriu pasikeisti pranešimų nustatymus kad užtikrinti paskyros saugumą,1,1,0
  Aš kaip mobilios programėlės vartotojas noriu peržiūrėti savo veiklos statistiką kad galėčiau stebėti savo aktyvią veiklą,1,1,0
  Aš kaip parduotuvės klientas noriu išsaugoti įvestus nuolaidų kodus kad galėčiau pritaikyti atsiradusiai prekei,1,1,0
@@ -884,7 +884,7 @@ Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie naujus p
 Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie populiariausius rinkos produktus kad būčiau informuotas per įvairiausius kanalus,1,1,0
 Aš kaip lojalumo administratorius noriu greitai ištrinti blokuotus vartotojus kad galėčiau valdyti prieigos teises,1,1,0
 Aš kaip klientų aptarnavimo vadybininkas noriu stebėti klientų perkamiausias prekes ir padidinti prekių kiekį,0,0,0
-Aš kaip vartotojas noriu turėti galimybę greitai prisijungti kad mano patirtis būtų sklandi,1,1,0
+Aš kaip vartotojas noriu greitai prisijungti kad mano patirtis būtų sklandi,1,1,0
 Aš kaip administratorius noriu efektyviai valdyti sistemą ir vartotojus kad operacijos vyktų sklandžiai,1,1,0
 Aš kaip klientas noriu paprasto atsiskaitymo proceso kad nenusivilčiau,1,1,0
 Aš kaip programų kūrėjas noriu kad kodų bazė būtų švari kad ją būtų lengva prižiūrėti,1,1,0
@@ -1346,10 +1346,10 @@ Aš kaip vartotojas noriu gauti pranešimus apie įdomius įvykius ir būti info
 Aš kaip paslaugos naudotojas noriu matyti savo įdomiausią veiklą ir ją analizuoti kai yra noro ar poreikio,0,1,0
 Aš kaip socialinio tinklo vartotojas noriu dalyvauti mokymuose ir sekti savo įvairius rezultatus jei jie pasiekiami,0,1,0
 Aš kaip mobilios programėlės naudotojas noriu užpildyti registracijos informaciją ir prisijungti panaršyti kažką kas galbūt patrauks dėmesį,0,1,0
-Aš kaip mobilios programėlės naudotojas noriu turėti galimybę surasti galbūt pati geriausią maršrutą ir jį pasirinkti jeigu sąlygos leis,0,1,0
+Aš kaip mobilios programėlės naudotojas noriu surasti ir pasirinkti galbūt pati geriausią maršrutą jeigu sąlygos leis,0,1,0
 Aš kaip sveikatos stebėjimo programos naudotojas noriu stebėti savo ir kitų šeimos narių duomenis ir juos informuoti per programą kai tai svarbu,0,1,0
 Aš kaip treniruočių programos naudotojas noriu gauti rekomendacijas apie efektyviausias treniruotes ir matyti jų laikus kurie gali keistis,0,1,0
-Aš kaip elektroninės parduotuvės klientas noriu matyti ir turėti galimybę įsigyti išperkamiausias prekes jeigu jos dar prieinamos,0,1,0
+Aš kaip elektroninės parduotuvės klientas noriu matyti ir įsigyti išperkamiausias prekes jeigu jos dar prieinamos,0,1,0
 Aš kaip muzikos platformos naudotojas noriu įkelti įvairią muziką ir ją klausyti priklausomai nuo nuotaikos ar situacijos,0,1,0
 Aš kaip finansų programos naudotojas noriu matyti savo biudžetą ir matyti įmonės biudžetą jei turiu tam teises arba prieigą,0,1,0
 Aš kaip augalų priežiūros programos naudotojas noriu matyti augalus ir gauti statistiką įvairią priklausomai nuo augalų tipo ir sezono,0,1,0
@@ -1376,11 +1376,11 @@ Aš kaip nuotraukų dalinimosi programos vartotojas noriu dalintis savo gražiau
 Aš kaip sporto programos naudotojas noriu pasiekti geriausius tikslus ir juos pakelbti kad galėčiau pasigirti arba stebėti progresą,0,1,0
 Aš kaip kultūros stebėjimo programos vartotojas noriu sužinoti apie įvairius renginius ir prie kažkurių prisidėti jeigu tai būtų įdomu,0,1,0
 Aš kaip naudotojas noriu gauti priminimus svarbiems dalykams ir kažkaip juos klasifikuoti kad pavyktų tai padaryti,0,1,0
-Aš kaip naudotojas man reikalinga analizė ir galbūt papildoma informacija kurios dar nėra,0,1,0
+Aš kaip naudotojas noriu matyti ir išsisaugoti analizės papildomą informaciją kurios dar nėra,0,1,0
 Aš kaip naudotojas noriu planuoti keliones kai yra galimybė ir jei viskas susidėlioja kaip norisi,0,1,0
 Aš kaip naudotojas noriu peržiūrėti ataskaitas ir dalintis jomis jei jos pasirodo vertingos kitiems,0,1,0
 Aš kaip naudotojas man svarbu turėti įžvalgas apie tendencijas kurios galbūt padėtų priimti sprendimus,0,1,0
-Aš kaip naudotojas noriu turėti galimybę susisiekti su klientų aptarnavimu jei kiltų klausimų arba neaiškumų,0,1,0
+Aš kaip naudotojas noriu susisiekti ir pabendrauti su klientų aptarnavimu jei kiltų klausimų arba neaiškumų,0,1,0
 Aš kaip naudotojas noriu pasirinkti produktus kurie geriausiai tinka ir galbūt sužinoti ką rinktųsi kiti,0,1,0
 Aš kaip naudotojas noriu klausyti muzikos ir ją organizuoti kažkaip kad būtų paprasta rasti vėliau,0,1,0
 Aš kaip parduotuvės klientas noriu prekių filtravimo kuris būtų tinkamas pagal mano poreikius ir galbūt sezoniškumą,0,1,0
@@ -1395,7 +1395,7 @@ Aš kaip naudotojas noriu matyti sporto rezultatus ir galimybę juos analizuoti 
 Aš kaip naudotojas noriu kurti užduotis ir priskirti jas kitiems kad būtų aiškesnė atsakomybė,0,1,0
 Aš kaip naudotojas noriu turėti kažkokią analizę duomenims ir priimti sprendimus remiantis rezultatais,0,1,0
 Aš kaip naudotojas noriu gauti svarbią informaciją laiku ir tinkamu formatu kad galėčiau veikti operatyviai,0,1,0
-Aš kaip naudotojas noriu turėti galimybę filtruoti rezultatus kažkaip kad išskirčiau man aktualius,0,1,0
+Aš kaip naudotojas noriu filtruoti ir analizuoti rezultatus kažkaip kad išskirčiau man aktualius,0,1,0
 Aš kaip pirkėjas noriu pasirinkti tinkamas prekes ir galbūt matyti rekomendacijas kad pirkimas būtų efektyvus ir greitas,0,1,0
 Aš kaip naudotojas noriu stebėti statistiką ir kažkaip ją naudoti kad priimčiau pagrįstus sprendimus,0,1,0
 Aš kaip naudotojas noriu tvarkyti savo duomenis ir stebėti jų būklę kad galėčiau geriau juos valdyti,0,1,0
@@ -1461,9 +1461,9 @@ Lojalumo taškus reikia leisti panaudoti keliais apibrėžtais būdais,0,0,1
  Rekvizitų pasirinkimas atsiskaitymo metu turi būti aiškus ir nesudėtingas,0,0,1
  Apmokėjimo procesas turi būti patobulintas kad būtų aiškesnis vartotojams,0,0,1
  Verslo klientams turi būti leista naudoti kelias lojalumo ir banko korteles,0,0,1
- Vartotojas turi turėti galimybę prieš naudodamas plovyklos kuponą pasirinkti plovimo vartus,0,0,1
- Vartotojas turi galėti peržiūrėti plovimo aprašymą ir taisykles prieš pirkdamas plovyklos paslaugą,0,0,1
- Lojalumo sistemos administratorius turi turėti galimybę nustatyti pagrindinę lojalumo kortelę klientui,0,0,1
+ Aš kaip sistemos vartotojas noriu prieš naudodamas plovyklos kuponą pasirinkti ir aktyvuoti plovimo vartus,0,0,1
+Aš kaip sistemos vartotojas noriu surasti ir peržiūrėti plovimo aprašymą ir taisykles prieš pirkdamas plovyklos paslaugą,0,0,1
+ Aš kaip lojalumo sistemos administratorius noriu surasti ir nustatyti pagrindinę lojalumo kortelę klientui,0,0,1
  Mobilioje programėlėje turi būti privalomi informacijos laukeliai su aiškiais pranešimais vartotojams,0,0,1
  Transporto vadybininkas turi matyti ir registruoti vairuotojų darbo ir poilsio valandas,0,0,1
  Transporto vadybininkas turi sudaryti optimalius maršrutus remdamasis krovinio pakrovimo vietomis žemėlapyje,0,0,1
