@@ -26,12 +26,12 @@ Aš kaip interneto svetainės administratorius  noriu turėti galimybę išsitra
 Aš kaip interneto svetainės administratorius  noriu turėti integruotą analitiką  kad galėčiau stebėti svetainės veikimą ir vartotojų įsitraukimą,0,1,0
 Aš kaip interneto svetainės lankytojas noriu matyti pritaikytą turinį pagal mano interesus,1,0,1
 Aš kaip IT administratorius noriu priskirti įrangą darbuotojui sistemoje ,1,0,1
-Aš kaip IT administratorius noriu sukurti įrašą apie įrangą personalo sistemoje ,1,0,1
+Aš kaip IT administratorius noriu sukurti įrašą apie įrangą personalo sistemoje,1,0,1
 Aš kaip internetinės svetainės lankytojas noriu turėti DUK skyrių ,1,0,1
 Aš kaip lojalumo sistemos programuotojas noriu sukurti registracijos puslapį ,1,0,1
-Aš kaip lojalumo sistemos vartotojas noriu atsijungti nuo paskyros ,1,0,1
-Aš kaip lojalumo sistemos vartotojas noriu matyti savo lojalumo taškus čekyje ,1,0,1
-Aš kaip lojalumo sistemos vartotojas noriu palikti atsiliepimą apie paslaugą ,1,0,1
+Aš kaip lojalumo sistemos vartotojas noriu atsijungti nuo paskyros,1,0,1
+Aš kaip lojalumo sistemos vartotojas noriu matyti savo lojalumo taškus čekyje,1,0,1
+Aš kaip lojalumo sistemos vartotojas noriu palikti atsiliepimą apie paslaugą,1,0,1
 Aš kaip mobilios programėlės  vartotojas  noriu redaguoti savo profilio duomenis,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu draugui išsiųsti automobilio plovimą kad draugas galėtų greitai išsiplauti automobilį,1,1,0
 Aš kaip mobilios programėlės vartotojas  noriu gauti degalinių nuolaidas pagal savo geografinę vietą,1,0,1
@@ -89,26 +89,26 @@ Aš kaip mobilios programėlės vartotojas noriu panaikinti  ir išsaugoti prika
 Aš kaip mobilios programėlės vartotojas noriu pasirinkti kalbą  kad rodytų informaciją suprantama kalba,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu pasirinkti rinkodaros sutikimus kad gaučiau greičiau specialius pasiūlymus,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu lengvai paskaityti apie taisykles kad žinoti įmonės taisykles,1,1,0
-Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę prisidėti rekvizitus kad greičiau atsiskaityti,1,1,0
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę programėlėje iš pasirinktos degalinės įjungti navigaciją  kad būtų greičiau,1,1,0
-Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę sustabdyti užsakytą kurą nuotoliniu būdu,1,0,1
-Aš kaip mobilios programėlės vartotojas  noriu turėti paskyrą  kad galėčiau skaityti naujausius straipsnius ir atnaujinimus,0,1,0
+Aš kaip mobilios programėlės vartotojas noriu  prisidėti rekvizitus kad greičiau atsiskaityti,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu programėlėje iš pasirinktos degalinės įjungti navigaciją kad būtų greičiau,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu sustabdyti užsakytą kurą nuotoliniu būdu,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu turėti paskyrą  kad galėčiau skaityti naujausius straipsnius ir atnaujinimus,0,1,0
 Aš kaip mobilios programėlės vartotojas noriu užsakyti kuro pylimą nuotoliniu būdu ir apmokėti už vairuotoją,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu užsiregistruoti į programėlę be nuolaidų kortelės ir gauti naują virtualią nuolaidų kortelę ,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę pasirinkti filtrus ir surasti tinkamą parduotuvę ,0,1,1
-Aš kaip naujas lojalumo vartotojas noriu užsiregistruoti į sistemą ir gauti nuolaidas ,0,1,1
-Aš kaip parduotuvės personalo vadovas noriu sistemoje sukurti nuolaidas savo darbuotojams ir sudaryti galimybę jiems jomis pasinaudoti ,0,0,1
-Aš kaip personalo vadybininkas noriu automatizuoti laiškų siuntimą iš vienos sistemos ir neberašyti kiekvienam kandidatui atskirai ,0,1,1
-Aš kaip personalo vadybininkas noriu gauti pranešimus kai pasikeičia darbuotojų pareigos ir paruošti reikalingus dokumentus ,0,1,1
-Aš kaip personalo vadybininkas noriu personalo procesų sistemoje matyti visų darbuotojų atostogas ir planuoti darbo grafikus ,0,1,1
-Aš kaip personalo vadybininkas noriu sujungti kandidatų korteles su darbuotojų kortelėmis kad būtų vieningi įrašai ,0,1,1
-Aš kaip personalo vadybininkas noriu personalo procesų sistemoje patvirtinti kasmėnesinius priedus ir sutikrinti jų sumas ,0,1,1
-Aš kaip personalo vadybininkas noriu priskirti bandomojo laikotarpio užduotis darbuotojui ir nurodyti jų tikslus ,0,1,1
-Aš kaip personalo vadybininkas noriu personalo procesų sistemoje sukurti kandidato kortelę ir sužymėti visą svarbią informaciją ,0,1,1
-Aš kaip personalo vadybininkas noriu sistemoje matyti darbuotojų sąrašą ir tvarkyti jų dokumentus ,0,1,1
-Aš kaip personalo vadybininkas noriu sistemoje tvirtinti darbuotojų atostogų prašymus ir suteikti jiems leidimą eiti atostogų ,0,1,1
-Aš kaip personalo vadybininkas noriu sukurti naujienų įrašą vidiniame intranete ir informuoti darbuotojus apie naujienas ,0,1,1
-Aš kaip personalo vadybininkas noriu tvarkyti komandiruočių įrašus ir paruošti su jomis susijusius įsakymus ,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu užsiregistruoti į programėlę be nuolaidų kortelės ir gauti naują virtualią nuolaidų kortelę,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu pasirinkti filtrus ir surasti tinkamą parduotuvę kad nuvažiuoti apsipirkti,0,1,1
+Aš kaip naujas lojalumo vartotojas noriu užsiregistruoti ir gauti nuolaidas,0,0,1
+Aš kaip parduotuvės personalo vadovas noriu sistemoje sukurti nuolaidas savo darbuotojams ir sudaryti galimybę jiems jomis pasinaudoti,0,0,1
+Aš kaip personalo vadybininkas noriu automatizuoti laiškų siuntimą iš vienos sistemos ir neberašyti kiekvienam kandidatui atskirai kad sutaupyti laiko,0,1,1
+Aš kaip personalo vadybininkas noriu gauti pranešimus kai pasikeičia darbuotojų pareigos ir paruošti reikalingus dokumentus,0,0,1
+Aš kaip personalo vadybininkas noriu personalo procesų sistemoje matyti ir planuoti visų darbuotojų atostogas kad sudėlioti darbo grafikus,0,1,1
+Aš kaip personalo vadybininkas noriu sujungti kandidatų korteles su darbuotojų kortelėmis kad būtų vieningi įrašai,0,1,1
+Aš kaip personalo vadybininkas noriu personalo sistemoje patvirtinti ir sutikrinti kasmėnesinius priedus kad paskaičiuoti sumą,0,1,1
+Aš kaip personalo vadybininkas noriu priskirti ir nurodyti  bandomojo laikotarpio užduotis kad darbuotojas turėtų tikslus,0,1,1
+Aš kaip personalo vadybininkas noriu personalo procesų sistemoje sukurti kandidato kortelę ir sužymėti visą svarbią informaciją kad būtų tvarkingos kandidato kortelės,0,1,1
+Aš kaip personalo vadybininkas noriu sistemoje matyti ir tvarkyti darbuotojų dokumentus kad būtų tvarka sistemoje,0,1,1
+Aš kaip personalo vadybininkas noriu sistemoje tvirtinti darbuotojų atostogų prašymus ir suteikti jiems leidimą eiti atostogų kad darbuotojai atostogautų,0,1,1
+Aš kaip personalo vadybininkas noriu sukurti naujienų įrašą vidiniame intranete ir informuoti kad darbuotojai žinotų naujienas,0,1,1
+Aš kaip personalo vadybininkas noriu tvarkyti komandiruočių įrašus ir paruošti su jomis susijusius įsakymus kad būtų tvarkingi dokumentai,0,1,1
 Aš kaip naudotojas noriu gauti ir analizuoti įdomias naujienas kad nepraleisčiau dienos informacijos,0,1,0
 Aš kaip programos vartotojas noriu atlikti kažkokius veiksmus ir išsisaugoti istoriją kad galėčiau patikrinti sistemą,0,1,0
 Aš kaip žaidimo naudotojas noriu pasiekti kažką ir išanalizuoti,0,0,0
@@ -116,11 +116,11 @@ Aš kaip vartotojas noriu gauti pranešimus ir turėti galimybę į juos atrašy
 Aš kaip paslaugos naudotojas noriu matyti savo veiklą ir didinti savo aktyvumą sistemoje kad manimi susidomėti kiti sistemos naudotojai,0,1,0
 Aš kaip socialinio tinklo vartotojas noriu dalyvauti įvairiausiose pokalbiuose ir komentuoti kad surasčiau bendraminčių vartotojų,0,1,0
 Aš kaip kliento paskyros naudotojas noriu užpildyti likusią informaciją kad viskas būtų tvarkingai užpildyta,1,1,0
-Aš kaip kelionių programos naudotojas noriu pasirinkti ir naudoti geriausią ir trumpiausią maršrutą ,0,0,0
+Aš kaip kelionių programos naudotojas noriu pasirinkti ir naudoti geriausią ir trumpiausią maršrutą,0,0,0
 Aš kaip sveikatos stebėjimo programos naudotojas noriu analizuoti blogiausius duomenis kad suvaldyti rizikas,1,1,0
-Aš kaip treniruočių programos naudotojas noriu gauti geriausias rekomendacijas arba gauti žinutę pasiūlymus kad dažniau lankyčiau treniruotes,0,1,0
+Aš kaip treniruočių programos naudotojas noriu gauti ir matyti geriausias rekomendacijas ir pasiūlymus kad dažniau lankyčiau treniruotes,0,1,0
 Aš kaip elektroninės parduotuvės klientas noriu matyti geriausias prekes kad galėčiau jas greitai nusipirkti,1,1,0
-Aš kaip programėlės administratorius noriu stebėti vartotojų veiklos žurnalus kad sekti programėlės naudojimo modelius,0,1,1
+Aš kaip programėlės administratorius noriu stebėti ir sekti vartotojų veiklos žurnalus kad stebėti programėlės naudojimo modelius,0,1,1
 Aš kaip programėlės vartotojas noriu atsiimti nemokamą kavą kad galėčiau pasinaudoti sukauptu kuponu,1,1,1
 Aš kaip programuotojas noriu įgyvendinti neprisijungimo režimą ir informuoti kad vartotojai galėtų toliau naudotis mobilią programėlę be interneto ryšio,0,1,1
 Aš kaip programuotojas noriu įgyvendinti SEO geriausias praktikas kad svetainė gerai reitinguotųsi paieškos sistemose,1,1,0
