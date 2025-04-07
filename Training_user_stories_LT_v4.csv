@@ -654,9 +654,9 @@ Aš kaip klientų aptarnavimo specialistas noriu turėti greitą prieigą prie v
 Aš kaip teisininkas noriu užtikrinti kad svetainės privatumo politika atitiktų teisės aktus kad išvengčami teisės pažeidimų,1,1,1
 Aš kaip kokybės užtikrinimo specialistas noriu automatizuoti testavimo procesus kad sumažinčiau rankinio testavimo laiką,1,1,1
 Aš kaip SEO specialistas noriu optimizuoti svetainės turinį pagal raktažodžius,1,0,1
-Aš kaip duomenų analitikas noriu turėti galimybę analizuoti klientų elgsenos modelius kad  prognozuoti pardavimus,1,1,1
+Aš kaip duomenų analitikas noriu analizuoti klientų elgsenos modelius kad  prognozuoti pardavimus,1,1,1
 Aš kaip sandėlio darbuotojas noriu matyti užsakymų informaciją realiu laiku kad efektyviai valdyti prekių išdavimą,1,1,0
-Aš kaip projektų vadovas noriu turėti galimybę peržiūrėti visų komandų užduotis kad koordinuoti darbą,1,1,1
+Aš kaip projektų vadovas noriu  peržiūrėti visų komandų užduotis kad koordinuoti darbą,1,1,1
 Aš kaip UI/UX dizaineris noriu naudoti vartotojų testavimo rezultatus,1,0,1
 Aš kaip pardavimų vadybininkas noriu generuoti ir išsisaugoti individualius pasiūlymus pagal klientų istoriją kad turėti pardavimų rezultatus,0,1,1
 Aš kaip klientų aptarnavimo specialistas noriu turėti pokalbių su klientais istoriją,1,0,1
@@ -672,7 +672,7 @@ Aš kaip sandėlio darbuotojas  noriu gauti pranešimus apie naujas prekes  kad 
 Aš kaip testuotojas  noriu matyti klaidų registraciją  kad galėčiau efektyviai stebėti klaidų taisymą,1,1,0
 Aš kaip pardavėjas  noriu matyti populiariausias prekes  kad galėčiau efektyviau rekomenduoti jas klientams ,1,1,0
 Aš kaip programinės įrangos inžinierius  noriu matyti klaidų logus  kad galėčiau greičiau nustatyti ir išspręsti problemas ,0,1,1
-Aš kaip duomenų apsaugos specialistas  noriu matyti visus saugumo incidentus sistemoje  kad galėčiau greitai reaguoti ,1,1,0
+Aš kaip duomenų apsaugos specialistas  noriu matyti visus saugumo incidentus sistemoje  kad galėčiau greitai reaguoti,1,1,0
 Aš kaip verslo savininkas  noriu matyti finansinę suvestinę viename lange  kad galėčiau greitai analizuoti verslo veiklą ,1,1,0
 Aš kaip logistikos vadybininkas  noriu sekti pristatymų maršrutus  kad galėčiau optimizuoti transportavimo procesą,1,1,1
 Aš kaip skaitmeninio marketingo specialistas  noriu matyti reklamos kampanijų efektyvumą  kad galėčiau optimizuoti biudžetą ,1,1,0
@@ -715,7 +715,7 @@ Aš kaip saugumo specialistas noriu stebėti incidentus kad būtų saugiau,1,1,0
 Aš kaip programinės įrangos inžinierius noriu kurti algoritmus kad būtų našiau,1,1,0
 Aš kaip projektų koordinatorius noriu stebėti eigą kad būtų laiku atlikta,1,1,0
 Aš kaip klientų sėkmės vadybininkas noriu stebėti pasitenkinimą kad būtų lojalumas,1,1,0
-Aš kaip verslo konsultantas noriu teikti ir rekomendacijas kad būtų efektyviau,0,1,0
+Aš kaip verslo konsultantas noriu teikti ir išsiųsti rekomendacijas kad būtų efektyviau,0,1,0
 Aš kaip produktų rinkodaros vadybininkas noriu kurti strategijas kad būtų pardavimai,1,1,0
 Aš kaip klientų aptarnavimo vadybininkas noriu stebėti kokybę kad būtų daugiau norinčių pirkti klientų,0,1,0
 Aš kaip verslo analitikas noriu analizuoti ir stebėti procesus kad būtų gera optimizacija,0,1,0
@@ -793,8 +793,8 @@ Aš kaip mobilios programėlės vartotojas noriu pakeisti savo slaptažodį ir p
  Aš kaip klientų klientų vadybininkas noriu stebėti atsiliepimų komentarus ką rašo klientai apie prekę,0,0,0
  Aš kaip verslininkas noriu pasirašyti ilgalaikes sutartys su klientais ir palaikyti ryšį su jais,0,0,0
  Aš kaip komunikacijos specialistas noriu kurti tvarumo ataskaita ir didinti įmonės populiarumą,0,0,0
- Aš kaip projektų dizaineris noriu kurti įmonės skaidrių dizainą ir sukurti naują įmonės logotipą,0,0,0
- Aš kaip duomenų analitikas noriu sukurti automatizuotą nuostolių skaičiavimą ir sudėti tai viską į ataskaitą,0,0,0
+ Aš kaip projektų dizaineris noriu kurti ir sukurti įmonės skaidrių dizainą ir naują įmonės logotipą,0,0,0
+ Aš kaip duomenų analitikas noriu sukurti ir sudėti automatizuotą nuostolių skaičiavimą į ataskaitą,0,0,0
  Aš kaip internetiniu svetainių saugumo specialistas noriu surasti saugumo spragas mano svetainėje ir apsaugoti nuo atakų ir incidentų,0,0,0
  Aš kaip skolų vadybininkas noriu turėti galimybę matyti įmonės didžiausias skolas ir atsifiltruoti mažiausias įmonės skolas,0,0,0
  Aš kaip projektų vadovas noriu turėti galimybę matyti ilgiausiai trunkančius darbus ir atsisiųsti ataskaitą apie tai,0,0,0
@@ -810,7 +810,7 @@ Aš kaip sistemos administratorius noriu ištrinti neaktyvius vartotojus ir atsi
  Aš kaip logistikos vadybininkas noriu rašyti pranešimus vairuotojui ir sumažinti vilkiko kuro išlaidas,0,0,0
  Aš kaip pirkimų vadybininkas noriu sukurti metinį pirkimų sąrašą ir ištraukti ataskaitą praėjusių metų pirkimus,0,0,0
 Aš kaip mobilios programėlės kūrėjas noriu peržiūrėti vartotojų atsiliepimus ir pridėti naują funkciją,0,0,0
- Aš kaip direktorius noriu turėti galimybę stebėti projektų būsenas ir išsitraukti ataskaitas apie nepelningiausius projektus,0,0,0
+ Aš kaip direktorius noriu turėti galimybę stebėti ir išsitraukti ataskaitas apie projektų būsenas,0,0,0
  Aš kaip klientų vadybininkas noriu turėti galimybę ištraukti klientų atsiliepimų ataskaitą,0,0,0
  Aš kaip verslo įkūrėjas noriu matyti įmonės nuostolius ir pajamas,0,0,0
  Aš kaip personalo skyriaus vadovas noriu matyti ir pristatyti atrankų rezultatus vadovams,0,0,0
@@ -840,23 +840,23 @@ Aš kaip svetainės lankytojas noriu peržiūrėti savo užsakymų istoriją,1,0
 Aš kaip mobilios programėlės vartotojas noriu nustatyti privatumo nustatymus,1,0,1
 Aš kaip parduotuvės klientas noriu peržiūrėti prekių pristatymo būdus,1,0,1
 Aš kaip svetainės lankytojas noriu užsiregistruoti,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu pakeisti savo slaptažodį ,1,0,1
-Aš kaip parduotuvės klientas noriu peržiūrėti savo užsakymų istoriją ,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu pakeisti savo slaptažodį,1,0,1
+Aš kaip parduotuvės klientas noriu peržiūrėti savo užsakymų istoriją 1,0,1
 Aš kaip administratorius noriu pridėti naują vartotoją,1,0,1
 Aš kaip svetainės lankytojas noriu užsiprenumeruoti naujienlaiškį,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą ,1,0,1
-Aš kaip parduotuvės klientas noriu pridėti prekę į norų sąrašą ,1,0,1
+Aš kaip parduotuvės klientas noriu pridėti prekę į norų sąrašą,1,0,1
 Aš kaip administratorius noriu peržiūrėti vartotojų veiklos ataskaitas,1,0,1
 Aš kaip svetainės lankytojas noriu pakeisti savo profilio nuotrauką,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie naujus produktus,1,0,1
 Aš kaip svetainės lankytojas noriu gauti įdomų naujienlaiškį kiekvieną mėnesį kad nepraleisčiau naujienų,1,1,0
  Aš kaip mobilios programėlės vartotojas noriu pakeisti savo slaptažodį kad užtikrinčiau savo paskyros saugumą,1,1,0
- Aš kaip parduotuvės klientas noriu peržiūrėti savo užsakymų istoriją kad galėčiau stebėti savo pirkimus,1,1,0
+ Aš kaip parduotuvės klientas noriu peržiūrėti savo užsakymų istoriją kad stebėti savo pirkimus,1,1,0
  Aš kaip administratorius noriu pridėti naują vartotoją kad būtų pridėtas naujas darbuotojas,1,1,0
  Aš kaip svetainės lankytojas noriu užsiprenumeruoti naujienlaiškį kad gaučiau naujausią informaciją,1,1,0
  Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą kad apsaugotų savo privatumą,1,1,0
  Aš kaip parduotuvės klientas noriu gauti pranešimus apie kainos pokyčius kad sutaupyti pinigų,1,1,0
- Aš kaip administratorius noriu peržiūrėti vartotojų veiklos ataskaitas kad galėčiau greičiau analizuoti naudojimąsi sistema,1,1,0
+ Aš kaip administratorius noriu peržiūrėti vartotojų veiklos ataskaitas kad greičiau analizuoti naudojimąsi sistema,1,1,0
  Aš kaip svetainės lankytojas noriu pakeisti savo profilio nuotrauką kad gražiai atnaujinčiau savo profilį,1,1,0
  Aš kaip mobilios programėlės vartotojas noriu greitai gauti pranešimus apie naujus produktus kad būčiau informuotas apie naujienas,1,1,0
  Aš kaip parduotuvės klientas noriu naudoti didelį nuolaidos kodą kad sutaupyčiau pinigų,1,1,0
@@ -889,7 +889,7 @@ Aš kaip administratorius noriu efektyviai valdyti sistemą ir vartotojus kad op
 Aš kaip klientas noriu paprasto atsiskaitymo proceso kad nenusivilčiau,1,1,0
 Aš kaip programų kūrėjas noriu kad kodų bazė būtų švari kad ją būtų lengva prižiūrėti,1,1,0
 Aš kaip mokytojas noriu kurti užduotis kad mokiniai gautų atsiliepimų,1,1,1
-Aš kaip pagalbos agentas noriu kad bilietai būtų tvarkomi efektyviai,1,0,1
+Aš kaip pagalbos agentas noriu jog bilietai būtų tvarkomi efektyviai,1,0,1
 Aš kaip keliautojas noriu lengvai užsisakyti keliones kad kelionė būtų sklandi,1,1,0
 Aš kaip finansų vadovas noriu rengti ataskaitas kad galėčiau optimizuoti išlaidas,1,1,0
 Aš kaip vartotojas noriu geresnės degalų įsipylimo naudojimosi programos kad galėčiau įsipylti be problemų,1,1,0
@@ -899,9 +899,9 @@ Aš kaip kūrėjas noriu kad sistemą būtų galima keisti kad ji gerai veiktų 
 Aš kaip vartotojas noriu užtikrinti svetainės saugumą kad mano asmeniniai duomenys būtų saugus,1,1,0
 Aš kaip vadovas noriu kad mano komanda būtų produktyvesnė kad greičiau užbaigtume projektus,0,1,0
 Aš kaip vartotojas noriu kad programa būtų įkelta greitai kad man nereikėtų laukti,0,0,0
-Aš kaip rinkodaros specialistas noriu kad vartotojai geriau įsitrauktų kad galėčiau padidinti prekės ženklo žinomumą,1,1,1
-Aš kaip studentas noriu turėti prieigą prie mokymosi medžiagos kad galėčiau geriau suprasti temas ir pasiruošti atsiskaitymams,0,1,0
-Aš kaip įmonės savininkas nori matyti tikslias ataskaitas kad galėčiau priimti sprendimus,1,1,1
+Aš kaip rinkodaros specialistas noriu kad vartotojai geriau įsitrauktų kad padidinti prekės ženklo žinomumą,1,1,1
+Aš kaip studentas noriu turėti prieigą prie mokymosi medžiagos kad geriau suprasti temas ir pasiruošti atsiskaitymams,0,1,0
+Aš kaip įmonės savininkas nori matyti tikslias ataskaitas kad priimti sprendimus,1,1,1
 Aš kaip sistemų dizaineris noriu kurti vartotojo sąsajas ir testuoti jų patogumą kad padidinčiau vartotojų pasitenkinimą,0,1,0
 Aš kaip sistemų dizaineris noriu analizuoti vartotojų elgseną ir kurti dizaino sprendimus kad pagerinčiau naudotojo patirtį,0,1,0
 Aš kaip sistemų dizaineris noriu kurti geriausius prototipus,1,0,0
@@ -912,7 +912,7 @@ Aš kaip sistemų dizaineris noriu kurti interaktyvius prototipus kad galėčiau
 Aš kaip sistemų dizaineris noriu kurti dizaino sprendimus kad užtikrinčiau prekės ženklo nuoseklumą,1,1,0
 Aš kaip sistemų dizaineris noriu kurti vartotojo sąsajas kad galėčiau pasirinkti geriausius sprendimus,1,1,0
 Aš kaip sistemų dizaineris noriu kurti dizaino prototipus kad užtikrinčiau sklandų dizaino įgyvendinimą,1,1,0
-Aš kaip vartotojas noriu registruotis kad galėčiau pasiekti savo kursus,1,1,0
+Aš kaip vartotojas noriu registruotis kad pasiekti savo kursus,1,1,0
 Aš kaip instruktorius noriu kurti ir valdyti kursus įkelti medžiagą ir bendrauti su studentais,0,0,0
 Aš kaip vartotojas noriu ieškoti kursų ir filtruoti juos pagal kategoriją sudėtingumo lygį ir instruktorių,0,0,0
 Aš kaip administratorius noriu valdyti vartotojų paskyras stebėti platformos naudojimą ir generuoti ataskaitas,0,0,0
@@ -930,17 +930,17 @@ Aš kaip instruktorius noriu analizuoti studentų rezultatus nustatyti tobulinti
  Aš kaip verslo analitikas noriu kurti  gražias duomenų vizualizacijas,1,0,0
  Aš kaip verslo analitikas noriu bendradarbiauti su IT komanda kad galėčiau užtikrinti gerą duomenų tikslumą,1,1,0
  Aš kaip verslo analitikas noriu kažkaip stebėti mokymų programų efektyvumą,1,0,0
- Aš kaip verslo analitikas noriu analizuoti vartotojų registracijos ir aktyvumo duomenis kad galėčiau identifikuoti augimo galimybes,0,1,0
- Aš kaip verslo analitikas noriu kurti prognozes apie įvairias vartotojų elgseną,1,0,0
- Aš kaip projektų vadovas noriu stebėti įvairią mokymų projektų eigą,1,0,0
- Aš kaip projektų vadovas noriu koordinuoti komandos narių užduotis kad galėčiau efektyviai paskirstyti išteklius,1,1,0
- Aš kaip projektų vadovas noriu gauti ataskaitas apie projekto pažangą kad galėčiau informuoti populiariausias suinteresuotas šalis,1,1,0
- Aš kaip projektų vadovas noriu identifikuoti rizikas mokymų projektams kad parengti gerą rizikos valdymo planą,1,1,0
- Aš kaip projektų vadovas noriu organizuoti susitikimus su komanda kad galėčiau efektyviai aptarti projekto eigą,1,1,0
- Aš kaip IT specialistas noriu užtikrinti platformos techninį stabilumą kad vartotojai galėtų naudotis be didelių trikdžių,1,1,0
- Aš kaip IT specialistas noriu integruoti naujas funkcijas į mokymų platformą kad galėčiau pagerinti vartotojų patirtį,1,1,0
- Aš kaip IT specialistas noriu stebėti platformos našumą kad galėčiau identifikuoti,1,1,0
- Aš kaip marketingo specialistas noriu organizuoti renginius ir mokymus kad galėčiau pristatyti platformos privalumus,0,1,0
+Aš kaip verslo analitikas noriu analizuoti vartotojų registracijos ir aktyvumo duomenis kad galėčiau identifikuoti augimo galimybes,0,1,0
+Aš kaip verslo analitikas noriu kurti prognozes apie įvairias vartotojų elgseną,1,0,0
+Aš kaip projektų vadovas noriu stebėti įvairią mokymų projektų eigą,1,0,0
+Aš kaip projektų vadovas noriu koordinuoti komandos narių užduotis kad galėčiau efektyviai paskirstyti išteklius,1,1,0
+Aš kaip projektų vadovas noriu gauti ataskaitas apie projekto pažangą kad galėčiau informuoti populiariausias suinteresuotas šalis,1,1,0
+Aš kaip projektų vadovas noriu identifikuoti rizikas mokymų projektams kad parengti gerą rizikos valdymo planą,1,1,0
+Aš kaip projektų vadovas noriu organizuoti susitikimus su komanda kad galėčiau efektyviai aptarti projekto eigą,1,1,0
+Aš kaip IT specialistas noriu užtikrinti platformos techninį stabilumą kad vartotojai galėtų naudotis be didelių trikdžių,1,1,0
+Aš kaip IT specialistas noriu integruoti naujas funkcijas į mokymų platformą kad pagerinti vartotojų patirtį,1,1,0
+Aš kaip IT specialistas noriu stebėti platformos našumą kad galėčiau identifikuoti,1,1,0
+Aš kaip marketingo specialistas noriu organizuoti ir vesti mokymus kad pristatyti platformos privalumus,0,1,0
 Aš kaip pirkėjas noriu įdėti kokią nors prekę į krepšelį,1,0,0
 Aš kaip klientas noriu atšaukti kažkurį užsakymą,1,0,0
 Aš kaip administratorius noriu pridėti kažkokį produktą į katalogą,1,0,0
@@ -955,7 +955,7 @@ Aš kaip klientas noriu pasirinkti labai greitą pristatymo būdą,1,0,0
 Aš kaip projektų vadovas noriu gauti kokią nors gerą ataskaitą apie užduočių atlikimą lentelės formatu,1,0,0
 Aš kaip projektų vadovas noriu gauti savaitinę ataskaitą apie biudžeto vykdymą gražiu formatu,1,0,0
 Aš kaip projektų vadovas noriu el paštu informuoti vadovus apie kokį nors projekto pažangą,1,0,0
-Aš kaip projektų vadovas noriu gauti savaitines ataskaitas apie užduočių atlikimą ir biudžeto vykdymą lentelės formatu kad galėčiau informuoti vadovus apie projekto pažangą el paštu,0,1,0
+Aš kaip projektų vadovas noriu gauti ir persiųsti savaitines ataskaitas apie užduočių atlikimą kad informuoti vadovus apie projekto pažangą el paštu,0,1,0
 Aš kaip vartotojas noriu matyti informaciją apie produktus,1,0,0
 Aš kaip administratorius noriu valdyti sistemą,1,0,0
 Aš kaip klientas noriu atlikti pirkimą,1,0,0
@@ -1029,21 +1029,21 @@ Aš kaip menininkas noriu kurti skaitmeninius meno kūrinius dalintis jais su ki
 Aš kaip muzikantas noriu įrašyti muziką platinti ją internete ir naudoti muzikos kūrimo programinę įrangą,0,0,0
 Aš kaip fotografas noriu redaguoti nuotraukas kurti albumus ir naudoti nuotraukų redagavimo programinę įrangą,0,0,0
 Aš kaip virėjas noriu kurti naujus receptus dalintis jais su kitais ir naudoti receptų valdymo sistemą,0,0,0
-Aš kaip sodininkas noriu tvarkyti sodą auginti augalus ir naudoti sodo valdymo sistemą,0,0,0
+Aš kaip sodininkas noriu tvarkyti ir auginti augalus ir naudoti sodo valdymo sistemą,0,0,0
 Aš kaip keliautojas noriu planuoti keliones dalintis patirtimi su kitais ir naudoti kelionių planavimo sistemą,0,0,0
-Aš kaip knygų skaitymo programos vartotojas noriu žymėti kur baigiau skaityti,0,0,1
-Aš kaip internetinio dienoraščio autorius noriu skelbti įrašus tiesiogiai iš mobiliosios programėlės,0,0,1
-Aš kaip kelionių planavimo programos naudotojas noriu išsaugoti mėgstamus maršrutus,0,0,1
-Aš kaip filmų transliavimo paslaugos vartotojas noriu pridėti filmus į norų sąrašą,0,0,1
-Aš kaip kulinarijos receptų aplikacijos naudotojas noriu vertinti receptus,0,0,1
-Aš kaip apsipirkimo programėlės klientas noriu matyti produktų pristatymo laikus,0,0,1
-Aš kaip sveikatingumo aplikacijos vartotojas noriu registruoti kasdien suvartotas kalorijas,0,0,1
-Aš kaip banko mobiliosios programėlės naudotojas noriu inicijuoti pinigų pervedimus,0,0,1
-Aš kaip programavimo mokymosi platformos vartotojas noriu sekti savo pažangą,0,0,1
-Aš kaip kalbos mokymosi aplikacijos naudotojas noriu praktikuoti tartį,0,0,1
-Aš kaip projektų valdymo įrankio vartotojas noriu peržiūrėti komandos narių užduočių būklę,0,0,1
-Aš kaip oro prognozių aplikacijos naudotojas noriu matyti savaitės orų apžvalgą,0,0,1
-Aš kaip sveikatos monitoringo programos vartotojas noriu registruoti savo miego laiką,0,0,1
+Aš kaip knygų skaitymo programos vartotojas noriu žymėti ir atsiminti kur baigiau skaityti,0,0,1
+Aš kaip internetinio dienoraščio autorius noriu skelbti ir perskaityti įrašus tiesiogiai iš mobiliosios programėlės,0,0,1
+Aš kaip kelionių planavimo programos naudotojas noriu išsaugoti ir mėgstamus maršrutus,0,0,1
+Aš kaip filmų transliavimo paslaugos vartotojas noriu pridėti ir išsisaugoti filmus į norų sąrašą,0,0,1
+Aš kaip kulinarijos receptų aplikacijos naudotojas noriu vertinti ir išsisaugoti receptus,0,0,1
+Aš kaip apsipirkimo programėlės klientas noriu matyti ir sekti produktų pristatymo laikus,0,0,1
+Aš kaip sveikatingumo aplikacijos vartotojas noriu registruoti ir išsaugoti kasdien suvartotas kalorijas,0,0,1
+Aš kaip banko mobiliosios programėlės naudotojas noriu inicijuoti ir persiųsti pinigų pervedimus,0,0,1
+Aš kaip programavimo mokymosi platformos vartotojas noriu sekti ir analizuoti savo pažangą,0,0,1
+Aš kaip kalbos mokymosi programėlės naudotojas noriu surasti ir praktikuoti naują kalbą,0,0,1
+Aš kaip projektų valdymo įrankio vartotojas noriu peržiūrėti ir įvertinti komandos narių užduočių būklę,0,0,1
+Aš kaip oro prognozių aplikacijos naudotojas noriu matyti ir analizuoti savaitės orų apžvalgą,0,0,1
+Aš kaip sveikatos monitoringo programos vartotojas noriu registruoti ir savo miego laiką,0,0,1
 Aš kaip finansų programėlės vartotojas noriu matyti savo paskutinių operacijų sąrašą ir gauti pranešimus apie pinigų judėjimą,0,0,0
 Aš kaip kelionių rezervacijos svetainės klientas noriu ieškoti skrydžių ir viešbučių bei peržiūrėti jų apžvalgas,0,0,0
 Aš kaip socialinės žiniasklaidos platformos vartotojas noriu skelbti nuotraukas ir pranešimus bei gauti komentarus iš draugų,0,0,0
@@ -1052,11 +1052,11 @@ Aš kaip elektroninės komercijos platformos klientas noriu peržiūrėti produk
  Aš kaip projekto valdymo programos vartotojas noriu kurti naujus projektus ir priskirti užduotis komandos nariams,0,0,0
 Aš kaip elektroninio pašto paslaugos vartotojas noriu siųsti ir gauti laiškus bei organizuoti aplankus,0,0,0
 Aš kaip muzikos transliacijos paslaugos vartotojas noriu kurti grojaraščius ir dalintis jais su draugais,0,0,0
-Aš kaip kalendoriaus aplikacijos vartotojas noriu pridėti įvykius ir nustatyti priminimus apie susitikimus,0,0,0
+Aš kaip kalendoriaus aplikacijos vartotojas noriu pridėti ir nustatyti priminimus apie susitikimus,0,0,0
 Aš kaip sporto programėlės naudotojas noriu registruoti treniruočių rezultatus ir stebėti pažangą,0,0,0
-Aš kaip knygų skaitymo programos vartotojas noriu žymėti skaitymo pažangą ir gauti rekomendacijas,0,0,0
-Aš kaip interneto bankininkystės klientas noriu stebėti sąskaitų likučius ir inicijuoti pinigų pervedimus,0,0,0
-Aš kaip naujienų aplikacijos naudotojas noriu skaityti straipsnius ir komentuoti aktualias temas,0,0,0
+Aš kaip knygų skaitymo programos vartotojas noriu žymėti ir gauti skaitymo rekomendacijas,0,0,0
+Aš kaip interneto bankininkystės klientas noriu stebėti ir inicijuoti sąskaitų likučius ir pinigų pervedimus,0,0,0
+Aš kaip naujienų aplikacijos naudotojas noriu skaityti ir komentuoti straipsnių aktualias temas,0,0,0
 Aš kaip programavimo mokymosi platformos vartotojas noriu sekti mokymosi pažangą ir atlikti užduotis,0,0,0
 Aš kaip oro prognozių aplikacijos vartotojas noriu matyti savaitės orų apžvalgą ir gauti įspėjimus,0,0,0
 Aš kaip nuotraukų redagavimo programos naudotojas noriu taikyti filtrus ir dalintis kūrybiniu procesu,0,0,0
@@ -1096,98 +1096,98 @@ Aš kaip profesionalios programinės įrangos kūrimo platformos vartotojas nori
 Aš kaip aukštos kokybės meno redagavimo programos naudotojas noriu kurti piešinius ir dalintis kūrybos procesu,0,0,0
 Aš kaip asmeninio finansų valdymo sistemos naudotojas noriu nustatyti biudžeto griežčiausius limitus,1,0,0
 Aš kaip sveikatos stebėjimo sistemos naudotojas noriu registruoti suvartotas kokias nors kalorijas,1,0,0
-Aš kaip miesto gido aplikacijos naudotojas noriu ieškoti lankytinų vietų ir planuoti savo vizitus kad galėčiau apsilankyti įdomiose vietose ,0,1,1
-Aš kaip personalizuotos mitybos aplikacijos naudotojas noriu sudaryti mitybos planus ir stebėti savo pažangą kad galėčiau pagerinti savo sveikatos būklę ,0,1,1
-Aš kaip kūrybinių projektų aplikacijos naudotojas noriu kurti projektus ir organizuoti juos kad galėčiau įgyvendinti savo idėjas ,0,1,1
-Aš kaip bėgimo aplikacijos naudotojas noriu sekti nubėgtą atstumą ir analizuoti savo treniruočių duomenis kad galėčiau analizuoti savo pažangą ,0,1,1
-Aš kaip namų priežiūros programos naudotojas noriu registruoti priežiūros užduotis ir stebėti jų įvykdymą kad palaikyčiau namų tvarką ,0,1,1
-Aš kaip sveikatos konsultacijų aplikacijos naudotojas noriu planuoti vizitus pas gydytojus ir registruoti atliktas konsultacijas kad galėčiau rūpintis savo sveikata ,0,1,1
-Aš kaip miego stebėjimo aplikacijos naudotojas noriu analizuoti miego duomenis ir vertinti savo miego kokybę kad pagerinčiau savo miego įpročius ,0,1,1
-Aš kaip augalų priežiūros aplikacijos naudotojas noriu gauti priminimus apie laistymą ir stebėti augalų būklę kad augalai būtų sveiki ,0,1,1
-Aš kaip dienoraščio aplikacijos naudotojas noriu registruoti dienos įvykius ir apmąstyti savo patirtis kad galėčiau prisiminti svarbias akimirkas ,0,1,1
-Aš kaip gyvūnų stebėjimo programos naudotojas noriu registruoti gyvūnų aktyvumą ir stebėti jų sveikatą kad galėčiau įvertinti jų gerovę ,0,1,1
-Aš kaip literatūros stebėjimo aplikacijos naudotojas noriu peržiūrėti knygų apžvalgas ir sekti naujus leidimus kad galėčiau atrasti naujų skaitymo rekomendacijų ,0,1,1
-Aš kaip gamtos stebėjimo programos naudotojas noriu registruoti aplinkos būklę ir analizuoti pokyčius kad galėčiau prisidėti prie aplinkosaugos ,0,1,1
-Aš kaip miesto transporto aplikacijos naudotojas noriu sekti autobuso maršrutus ir stebėti eismo sąlygas kad galėčiau planuoti keliones ,0,1,1
-Aš kaip edukacinės aplikacijos naudotojas noriu sekti mokymosi pažangą ir įvertinti savo žinias kad galėčiau tobulinti savo įgūdžius ,0,1,1
-Aš kaip sveikatingumo aplikacijos naudotojas noriu registruoti savo fizinį aktyvumą ir stebėti sveikatos rodiklius kad galėčiau stebėti savo sveikatos būklę ,0,1,1
-Aš kaip el parduotuvės aplikacijos naudotojas noriu peržiūrėti produktų katalogą ir palyginti prekes kad galėčiau rinktis norimus gaminius ,0,1,1
-Aš kaip finansų stebėjimo aplikacijos naudotojas noriu analizuoti savo išlaidas ir nustatyti biudžetą kad galėčiau efektyviau valdyti finansus ,0,1,1
+Aš kaip miesto gido aplikacijos naudotojas noriu ieškoti ir planuoti lankytinų vietų vizitus kad apsilankyti įdomiose vietose,0,1,1
+Aš kaip personalizuotos mitybos aplikacijos naudotojas noriu sudaryti ir stebėti mitybos plano pažangą kad pagerinti savo sveikatos būklę,0,1,1
+Aš kaip kūrybinių projektų aplikacijos naudotojas noriu kurti ir organizuoti  projektus kad įgyvendinti savo idėjas,0,1,1
+Aš kaip bėgimo aplikacijos naudotojas noriu sekti ir analizuoti nubėgtą atstumą kad analizuoti savo pažangą,0,1,1
+Aš kaip namų priežiūros programos naudotojas noriu registruoti ir stebėti užduočių įvykdymą kad palaikyti namų tvarką,0,1,1
+Aš kaip sveikatos konsultacijų aplikacijos naudotojas noriu planuoti ir registruoti vizitus pas gydytojus kad rūpintis savo sveikata,0,1,1
+Aš kaip miego stebėjimo aplikacijos naudotojas noriu analizuoti ir vertinti savo miego kokybę kad pagerinčiau savo miego įpročius,0,1,1
+Aš kaip augalų priežiūros aplikacijos naudotojas noriu gauti ir stebėti augalų būklę kad augalai būtų sveiki,0,1,1
+Aš kaip dienoraščio aplikacijos naudotojas noriu registruoti ir apmąstyti  dienos įvykius kad prisiminti svarbias akimirkas,0,1,1
+Aš kaip gyvūnų stebėjimo programos naudotojas noriu registruoti  ir stebėti gyvūnų aktyvumą ir sveikatą kad įvertinti jų gerovę,0,1,1
+Aš kaip literatūros stebėjimo aplikacijos naudotojas noriu peržiūrėti knygų apžvalgas ir sekti naujus leidimus kad galėčiau atrasti naujų skaitymo rekomendacijų,0,1,1
+Aš kaip gamtos stebėjimo programos naudotojas noriu registruoti aplinkos būklę ir analizuoti pokyčius kad prisidėti prie aplinkosaugos,0,1,1
+Aš kaip miesto transporto aplikacijos naudotojas noriu sekti autobuso maršrutus ir stebėti eismo sąlygas kad planuoti keliones,0,1,1
+Aš kaip edukacinės aplikacijos naudotojas noriu sekti mokymosi pažangą ir įvertinti savo žinias kad tobulinti savo įgūdžius,0,1,1
+Aš kaip sveikatingumo aplikacijos naudotojas noriu registruoti savo fizinį aktyvumą ir stebėti sveikatos rodiklius kad stebėti savo sveikatos būklę,0,1,1
+Aš kaip el parduotuvės aplikacijos naudotojas noriu peržiūrėti ir palyginti produktų katalogą kad rinktis norimus gaminius,0,1,1
+Aš kaip finansų stebėjimo aplikacijos naudotojas noriu analizuoti ir nustatyti savo išlaidas kad valdyti finansus,0,1,1
 Aš kaip fotografijų dalinimosi aplikacijos naudotojas noriu skelbti nuotraukas ir dalintis akimirkomis kad galėčiau pasidalinti savo gyvenimo akimirkomis su draugais ,0,1,1
-Aš kaip kelionių bilietų aplikacijos naudotojas noriu rezervuoti viešbučio kambarius ir įsigyti bilietus kad galėčiau planuoti keliones ,0,1,1
-Aš kaip medžioklės aplikacijos naudotojas noriu sekti medžioklės rezultatus ir analizuoti pasiekimus kad galėčiau tobulinti savo įgūdžius ,0,1,1
-Aš kaip oro kokybės stebėjimo aplikacijos naudotojas noriu analizuoti duomenis ir palyginti juos su ankstesniais rodikliais kad galėčiau priimti informuotus sprendimus,0,1,1
-Aš kaip aukštos kokybės garso redagavimo aplikacijos naudotojas noriu kurti muzikinius įrašus ir juos tobulinti kad galėčiau dalintis kūrybiniais sprendimais,0,1,1
-Aš kaip prekybos aplikacijos naudotojas noriu sekti akcijas ir palyginti jų pokyčius su rinkos tendencijomis kad galėčiau priimti pagrįstus investavimo sprendimus,0,1,1
-Aš kaip gamtos stebėjimo aplikacijos naudotojas noriu registruoti gyvūnų judėjimą ir analizuoti jų elgesį kad galėčiau analizuoti jų būklę,0,1,1
-Aš kaip gyvūnų priežiūros programos naudotojas noriu registruoti sveikatos duomenis ir palyginti juos su rekomenduojamais standartais kad galėčiau stebėti jų būklę,0,1,1
-Aš kaip interjero dizaino aplikacijos naudotojas noriu kurti kambario maketus ir keisti juos atsižvelgiant į kliento pageidavimus kad galėčiau vizualizuoti dizaino idėjas,0,1,1
-Aš kaip saugumo stebėjimo aplikacijos naudotojas noriu analizuoti saugumo duomenis ir parengti rekomendacijas kad galėčiau užtikrinti saugumą,0,1,1
-Aš kaip asmeninio tobulėjimo aplikacijos naudotojas noriu sekti savo pažangą ir nustatyti tobulinimo sritis kad galėčiau matyti tobulėjimą,0,1,1
-Aš kaip muzikos kūrimo aplikacijos naudotojas noriu sudaryti grojaraščius ir susieti juos su kūrimo etapais kad galėčiau kurti muziką,0,1,1
-Aš kaip kultūros stebėjimo aplikacijos naudotojas noriu peržiūrėti renginių apžvalgas ir palyginti jas su kitais įvykiais kad galėčiau planuoti dalyvavimą,0,1,1
-Aš kaip mitybos planavimo aplikacijos naudotojas noriu sudaryti maitinimo planus ir sekti jų poveikį sveikatai kad galėčiau palaikyti sveiką gyvenimo būdą,0,1,1
-Aš kaip miesto aplinkos stebėjimo aplikacijos naudotojas noriu registruoti aplinkos būklę ir lyginti ją su kitais miestais kad galėčiau stebėti pokyčius,0,1,1
+Aš kaip kelionių bilietų aplikacijos naudotojas noriu rezervuoti viešbučio kambarius ir įsigyti bilietus kad galėčiau planuoti keliones,0,1,1
+Aš kaip medžioklės aplikacijos naudotojas noriu sekti medžioklės rezultatus ir analizuoti pasiekimus kad galėčiau tobulinti savo įgūdžius,0,1,1
+Aš kaip oro kokybės stebėjimo aplikacijos naudotojas noriu analizuoti duomenis ir palyginti juos su ankstesniais rodikliais kad priimti informuotus sprendimus,0,1,1
+Aš kaip aukštos kokybės garso redagavimo aplikacijos naudotojas noriu kurti muzikinius įrašus ir juos tobulinti kad dalintis kūrybiniais sprendimais,0,1,1
+Aš kaip prekybos aplikacijos naudotojas noriu sekti akcijas ir palyginti jų pokyčius su rinkos tendencijomis kad priimti pagrįstus investavimo sprendimus,0,1,1
+Aš kaip gamtos stebėjimo aplikacijos naudotojas noriu registruoti ir analizuoti  gyvūnų judėjimą kad analizuoti jų būklę,0,1,1
+Aš kaip gyvūnų priežiūros programos naudotojas noriu registruoti sveikatos duomenis ir palyginti juos su rekomenduojamais standartais kad stebėti jų būklę,0,1,1
+Aš kaip interjero dizaino aplikacijos naudotojas noriu kurti kambario maketus ir keisti juos atsižvelgiant į kliento pageidavimus kad vizualizuoti dizaino idėjas,0,1,1
+Aš kaip saugumo stebėjimo aplikacijos naudotojas noriu analizuoti saugumo duomenis ir parengti rekomendacijas kad užtikrinti saugumą,0,1,1
+Aš kaip asmeninio tobulėjimo aplikacijos naudotojas noriu sekti ir nustatyti  savo tobulinimo sritis kad matyti tobulėjimą,0,1,1
+Aš kaip muzikos kūrimo aplikacijos naudotojas noriu sudaryti ir susieti grojaraščius su kūrimo etapais kad kurti muziką,0,1,1
+Aš kaip kultūros stebėjimo aplikacijos naudotojas noriu peržiūrėti ir palyginti renginių apžvalgas su kitais įvykiais kad planuoti dalyvavimą,0,1,1
+Aš kaip mitybos planavimo aplikacijos naudotojas noriu sudaryti ir sekti maitinimo planus kad palaikyti sveiką gyvenimo būdą,0,1,1
+Aš kaip miesto aplinkos stebėjimo aplikacijos naudotojas noriu registruoti aplinkos būklę ir lyginti ją su kitais miestais kad stebėti pokyčius,0,1,1
 Aš kaip finansų valdymo aplikacijos naudotojas noriu sudaryti biudžetus ir stebėti išlaidų pokyčius kad galėčiau efektyviau valdyti išteklius,0,1,1
-Aš kaip sporto rezultatų stebėjimo aplikacijos naudotojas noriu analizuoti savo rezultatus ir nustatyti tobulinimo sritis kad galėčiau tobulinti savo gebėjimus,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo fizinio aktyvumo duomenis ir analizuoti juos pagal sveikatos rodiklius kad galėčiau stebėti pažangą,0,1,1
-Aš kaip kultūros renginių aplikacijos naudotojas noriu sudaryti renginių kalendorių ir palyginti renginius pagal laiką kad galėčiau efektyviau planuoti dalyvavimą,0,1,1
-Aš kaip miesto transporto aplikacijos naudotojas noriu analizuoti eismo sąlygas ir lyginti jas su kitais maršrutais kad galėčiau planuoti keliones,0,1,1
+Aš kaip sporto rezultatų stebėjimo aplikacijos naudotojas noriu analizuoti savo rezultatus ir nustatyti tobulinimo sritis kad tobulinti savo gebėjimus,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo fizinio aktyvumo duomenis ir analizuoti juos pagal sveikatos rodiklius kad stebėti pažangą,0,1,1
+Aš kaip kultūros renginių aplikacijos naudotojas noriu sudaryti renginių kalendorių ir palyginti renginius pagal laiką kad planuoti dalyvavimą,0,1,1
+Aš kaip miesto transporto aplikacijos naudotojas noriu analizuoti eismo sąlygas ir lyginti jas su kitais maršrutais kad planuoti keliones,0,1,1
 Aš kaip asmeninio tobulėjimo aplikacijos naudotojas noriu nustatyti tikslus ir sekti jų pasiekimus kad galėčiau stebėti savo pažangą,0,1,1
 Aš kaip treniruočių programos naudotojas noriu analizuoti savo treniruočių duomenis ir pritaikyti juos pagal savo tikslus kad galėčiau optimizuoti režimą,0,1,1
-Aš kaip aukštos kokybės vaizdo redagavimo aplikacijos naudotojas noriu kurti filmus ir tobulinti juos pagal kūrybinius sprendimus kad galėčiau dalintis kūrybiniais sprendimais,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti miego duomenis ir analizuoti jų poveikį kad galėčiau gerinti miego kokybę,0,1,1
-Aš kaip gamtos stebėjimo aplikacijos naudotojas noriu analizuoti aplinkos duomenis ir palyginti juos su ankstesniais rodikliais kad galėčiau prisidėti prie ekologijos,0,1,1
-Aš kaip el knygų skaitymo aplikacijos naudotojas noriu žymėti kur baigiau skaityti ir sinchronizuoti tai su kitais įrenginiais kad galėčiau lengvai tęsti skaitymą vėliau,0,1,1
-Aš kaip finansų stebėjimo aplikacijos naudotojas noriu sudaryti finansines ataskaitas ir jas lyginti su ankstesniais laikotarpiais kad galėčiau priimti informuotus sprendimus,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo mitybos įpročius ir stebėti jų kaitą kad galėčiau pagerinti sveikatos būklę,0,1,1
-Aš kaip kultūros stebėjimo aplikacijos naudotojas noriu peržiūrėti meno apžvalgas ir vertinti jų kokybę kad galėčiau atrasti naujų kūrinių,0,1,1
-Aš kaip fotografijų redagavimo aplikacijos naudotojas noriu koreguoti nuotraukas ir eksportuoti jas skirtingais formatais kad galėčiau vizualiai pagerinti jų kokybę,0,1,1
-Aš kaip aukštos kokybės grafikos redagavimo aplikacijos naudotojas noriu kurti iliustracijas ir jas publikuoti internetinėje galerijoje kad galėčiau dalintis savo kūryba,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu analizuoti mitybos duomenis ir gauti rekomendacijas kad galėčiau gerinti sveikatą,0,1,1
-Aš kaip miestų dizaino aplikacijos naudotojas noriu kurti urbanistinius projektus ir įtraukti bendruomenės nuomonę kad galėčiau prisidėti prie miesto vystymosi,0,1,1
-Aš kaip transporto stebėjimo aplikacijos naudotojas noriu stebėti eismo sąlygas ir įvertinti kelionės laiką kad galėčiau planuoti optimalų maršrutą,0,1,1
-Aš kaip ekologiško gyvenimo aplikacijos naudotojas noriu sekti savo ekologinį poveikį ir gauti pasiūlymus kaip jį mažinti kad galėčiau prisidėti prie aplinkos apsaugos,0,1,1
-Aš kaip literatūros stebėjimo aplikacijos naudotojas noriu registruoti skaitytas knygas ir vertinti jas pagal temą kad galėčiau stebėti savo skaitymo pažangą,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo sveikatos simptomus ir sekti jų pokyčius kad galėčiau stebėti ligos progresą,0,1,1
+Aš kaip aukštos kokybės vaizdo redagavimo programėlės naudotojas noriu kurti ir tobulinti filmus pagal kūrybinius sprendimus kad dalintis kūrybiniais sprendimais,0,1,1
+Aš kaip sveikatos stebėjimo portalo naudotojas noriu registruoti miego duomenis ir analizuoti jų poveikį kad gerinti miego kokybę,0,1,1
+Aš kaip gamtos stebėjimo portalo naudotojas noriu analizuoti aplinkos duomenis ir palyginti juos su ankstesniais rodikliais kad prisidėti prie ekologijos,0,1,1
+Aš kaip el knygų skaitymo portalo naudotojas noriu žymėti kur baigiau skaityti ir sinchronizuoti tai su kitais įrenginiais kad tęsti skaitymą vėliau,0,1,1
+Aš kaip finansų stebėjimo portalo naudotojas noriu sudaryti finansines ataskaitas ir jas lyginti su ankstesniais laikotarpiais kad priimti informuotus sprendimus,0,1,1
+Aš kaip sveikatos stebėjimo portalo naudotojas noriu registruoti savo mitybos įpročius ir stebėti jų kaitą kad pagerinti sveikatos būklę,0,1,1
+Aš kaip kultūros stebėjimo portalo naudotojas noriu peržiūrėti ir vertinti  meno apžvalgos kokybę kad atrasti naujų kūrinių,0,1,1
+Aš kaip fotografijų redagavimo aplikacijos naudotojas noriu koreguoti nuotraukas ir eksportuoti jas skirtingais formatais kad vizualiai pagerinti jų kokybę,0,1,1
+Aš kaip aukštos kokybės grafikos redagavimo aplikacijos naudotojas noriu kurti iliustracijas ir jas publikuoti internetinėje galerijoje kad dalintis savo kūryba,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu analizuoti mitybos duomenis ir gauti rekomendacijas kad gerinti sveikatą,0,1,1
+Aš kaip miestų dizaino aplikacijos naudotojas noriu kurti urbanistinius projektus ir įtraukti bendruomenės nuomonę kad prisidėti prie miesto vystymosi,0,1,1
+Aš kaip transporto stebėjimo aplikacijos naudotojas noriu stebėti eismo sąlygas ir įvertinti kelionės laiką kad planuoti optimalų maršrutą,0,1,1
+Aš kaip ekologiško gyvenimo aplikacijos naudotojas noriu sekti savo ekologinį poveikį ir gauti pasiūlymus kaip jį mažinti kad prisidėti prie aplinkos apsaugos,0,1,1
+Aš kaip literatūros stebėjimo aplikacijos naudotojas noriu registruoti skaitytas knygas ir vertinti jas pagal temą kad stebėti savo skaitymo pažangą,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo sveikatos simptomus ir sekti jų pokyčius kad stebėti ligos progresą,0,1,1
 Aš kaip muzikos kūrimo aplikacijos naudotojas noriu kurti muzikinius kūrinius ir juos įrašyti kad galėčiau dalintis savo kūryba,0,1,1
-Aš kaip finansų analizės aplikacijos naudotojas noriu stebėti rinkos tendencijas ir prognozuoti pokyčius kad galėčiau priimti informuotus investicinius sprendimus,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo sveikatos duomenis ir analizuoti jų kitimą kad galėčiau stebėti pokyčius,0,1,1
-Aš kaip edukacinės aplikacijos naudotojas noriu sudaryti mokymosi planus ir sekti jų įgyvendinimą kad galėčiau efektyviai tobulinti žinias,0,1,1
-Aš kaip maisto stebėjimo aplikacijos naudotojas noriu analizuoti mitybos duomenis ir palyginti juos su rekomenduojamomis normomis kad galėčiau priimti sveikus sprendimus,0,1,1
-Aš kaip treniruočių aplikacijos naudotojas noriu registruoti savo treniruočių duomenis ir matuoti fizinį progresą kad galėčiau stebėti pažangą,0,1,1
-Aš kaip kultūros stebėjimo aplikacijos naudotojas noriu analizuoti kultūros renginius ir registruoti jų lankomumą kad galėčiau planuoti dalyvavimą,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo fizinio aktyvumo duomenis ir gauti įžvalgas kad galėčiau stebėti sveikatos būklę,0,1,1
+Aš kaip finansų analizės aplikacijos naudotojas noriu stebėti rinkos tendencijas ir prognozuoti pokyčius kad priimti informuotus investicinius sprendimus,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo sveikatos duomenis ir analizuoti jų kitimą kad stebėti pokyčius,0,1,1
+Aš kaip edukacinės aplikacijos naudotojas noriu sudaryti mokymosi planus ir sekti jų įgyvendinimą kad tobulinti žinias,0,1,1
+Aš kaip maisto stebėjimo aplikacijos naudotojas noriu analizuoti mitybos duomenis ir palyginti juos su rekomenduojamomis normomis kad priimti sveikus sprendimus,0,1,1
+Aš kaip treniruočių aplikacijos naudotojas noriu registruoti savo treniruočių duomenis ir matuoti fizinį progresą kad stebėti pažangą,0,1,1
+Aš kaip kultūros stebėjimo aplikacijos naudotojas noriu analizuoti  ir registruoti kultūros renginių lankomumą kad planuoti dalyvavimą,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti savo fizinio aktyvumo duomenis ir gauti įžvalgas kad stebėti sveikatos būklę,0,1,1
 Aš kaip kelionių planavimo aplikacijos naudotojas noriu sudaryti maršrutus ir įvertinti jų trukmę kad galėčiau efektyviai planuoti keliones,0,1,1
 Aš kaip fotografijų redagavimo aplikacijos naudotojas noriu taikyti filtrus ir redaguoti apšvietimą kad pagerinčiau nuotraukų estetiką,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu stebėti hidratacijos lygį ir palyginti jį su normomis kad galėčiau palaikyti sveiką būklę,0,1,1
-Aš kaip sporto stebėjimo aplikacijos naudotojas noriu analizuoti sporto rezultatus ir sekti treniruočių planus kad galėčiau tobulinti savo gebėjimus,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti mitybos įpročius ir stebėti jų įtaką kad galėčiau gerinti sveikatą,0,1,1
-Aš kaip treniruočių aplikacijos naudotojas noriu sekti savo fizinio aktyvumo duomenis ir juos analizuoti kad galėčiau analizuoti pažangą,0,1,1
-Aš kaip kelionių bilietų aplikacijos naudotojas noriu rezervuoti transporto bilietus ir peržiūrėti jų kainas kad galėčiau patogiai planuoti keliones,0,1,1
-Aš kaip miesto aplinkos stebėjimo aplikacijos naudotojas noriu registruoti oro kokybę ir stebėti jos kitimą kad galėčiau stebėti aplinkos būklę,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu analizuoti kraujospūdžio duomenis ir stebėti juos kartu su kitais sveikatos rodikliais kad galėčiau stebėti sveikatos būklę,0,1,1
-Aš kaip gamtos stebėjimo aplikacijos naudotojas noriu registruoti aplinkos pokyčius ir stebėti jų įtaką ekosistemai kad galėčiau prisidėti prie ekologijos,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu analizuoti mitybos duomenis ir palyginti juos su sveikatos rekomendacijomis kad galėčiau priimti sveikus sprendimus,0,1,1
-Aš kaip treniruočių aplikacijos naudotojas noriu analizuoti treniruočių duomenis ir pritaikyti juos pagal savo tikslus kad galėčiau optimizuoti savo režimą,0,1,1
-Aš kaip kelionių planavimo aplikacijos naudotojas noriu sudaryti kelionių planus ir juos pritaikyti pagal savo biudžetą kad galėčiau efektyviau organizuoti keliones,0,1,1
-Aš kaip miego stebėjimo aplikacijos naudotojas noriu stebėti miego kokybę ir analizuoti miego trukmę kad galėčiau gerinti sveikatos būklę,0,1,1
-Aš kaip aukštos kokybės garso redagavimo aplikacijos naudotojas noriu kurti muzikinius įrašus ir tobulinti juos pagal kūrybinius sprendimus kad galėčiau dalintis savo kūryba,0,1,1
-Aš kaip finansų stebėjimo aplikacijos naudotojas noriu analizuoti išlaidų duomenis ir lyginti juos su gaunamomis pajamomis kad galėčiau efektyviau valdyti finansus,0,1,1
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti fizinio aktyvumo duomenis ir juos palyginti su rekomenduojamais standartais kad galėčiau stebėti pažangą,0,1,1
-Aš kaip kelionių bilietų aplikacijos naudotojas noriu sudaryti bilietų rezervacijas ir patikrinti jų galiojimo laiką kad galėčiau patogiai planuoti keliones,0,1,1
-Aš kaip elektroninės parduotuvės klientas noriu peržiūrėti produktų katalogą ir palyginti juos pagal kainas kad galėčiau išsirinkti norimus produktus,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu stebėti hidratacijos lygį ir palyginti jį su normomis kad palaikyti sveiką būklę,0,1,1
+Aš kaip sporto stebėjimo aplikacijos naudotojas noriu analizuoti sporto rezultatus ir sekti treniruočių planus kad tobulinti savo gebėjimus,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti mitybos įpročius ir stebėti jų įtaką kad gerinti sveikatą,0,1,1
+Aš kaip treniruočių aplikacijos naudotojas noriu sekti savo fizinio aktyvumo duomenis ir juos analizuoti kad analizuoti pažangą,0,1,1
+Aš kaip kelionių bilietų aplikacijos naudotojas noriu rezervuoti transporto bilietus ir peržiūrėti jų kainas kad patogiai planuoti keliones,0,1,1
+Aš kaip miesto aplinkos stebėjimo aplikacijos naudotojas noriu registruoti oro kokybę ir stebėti jos kitimą kad stebėti aplinkos būklę,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu analizuoti kraujospūdžio duomenis ir stebėti juos kartu su kitais sveikatos rodikliais kad stebėti sveikatos būklę,0,1,1
+Aš kaip gamtos stebėjimo aplikacijos naudotojas noriu registruoti aplinkos pokyčius ir stebėti jų įtaką ekosistemai kad prisidėti prie ekologijos,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu analizuoti ir palyginti mitybos duomenis su sveikatos rekomendacijomis kad priimti sveikus sprendimus,0,1,1
+Aš kaip treniruočių aplikacijos naudotojas noriu analizuoti treniruočių duomenis ir pritaikyti juos pagal savo tikslus kad optimizuoti savo režimą,0,1,1
+Aš kaip kelionių planavimo aplikacijos naudotojas noriu sudaryti ir pritaikyti kelionių planus pagal savo biudžetą kad organizuoti keliones,0,1,1
+Aš kaip miego stebėjimo aplikacijos naudotojas noriu stebėti ir analizuoti miego trukmę kad gerinti sveikatos būklę,0,1,1
+Aš kaip aukštos kokybės garso redagavimo aplikacijos naudotojas noriu kurti ir tobulinti  muzikinius įrašus pagal kūrybinius sprendimus kad dalintis savo kūryba,0,1,1
+Aš kaip finansų stebėjimo aplikacijos naudotojas noriu analizuoti išlaidų duomenis ir lyginti juos su gaunamomis pajamomis kad valdyti finansus,0,1,1
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti fizinio aktyvumo duomenis ir juos palyginti su rekomenduojamais standartais kad stebėti pažangą,0,1,1
+Aš kaip kelionių bilietų aplikacijos naudotojas noriu sudaryti bilietų rezervacijas ir patikrinti jų galiojimo laiką kad planuoti keliones,0,1,1
+Aš kaip elektroninės parduotuvės klientas noriu peržiūrėti produktų katalogą ir palyginti juos pagal kainas kad išsirinkti norimus produktus,0,1,1
 Aš kaip finansinės programos naudotojas noriu analizuoti savo išlaidų ataskaitas ir nustatyti sutaupymo galimybes kad geriau suprasčiau savo finansinę būklę,0,1,1
-Aš kaip sveikatos stebėjimo programos vartotojas noriu registruoti savo dienos veiklas ir analizuoti jas pagal sveikatos tikslus kad galėčiau stebėti savo sveikatos progresą,0,1,1
-Aš kaip socialinės žiniasklaidos platformos naudotojas noriu skelbti nuotraukas ir parašyti aprašymus kad pasidalinčiau savo gyvenimo akimirkomis su draugais,0,1,1
-Aš kaip knygų skaitymo programos vartotojas noriu žymėti kur baigiau skaityti ir sekti savo pažangą kad galėčiau lengvai tęsti skaitymą vėliau,0,1,1
-Aš kaip filmų transliavimo paslaugos vartotojas noriu pridėti filmus į norų sąrašą ir palyginti juos su kitomis rekomendacijomis kad galėčiau juos peržiūrėti vėliau,0,1,1
-Aš kaip sporto programėlės naudotojas noriu registruoti treniruočių rezultatus ir analizuoti juos pagal pasiektus tikslus kad stebėčiau savo fizinę pažangą,0,1,1
-Aš kaip naujienų aplikacijos vartotojas noriu gauti pranešimus apie naujausius straipsnius ir analizuoti juos pagal savo interesus kad likčiau informuotas apie pasaulio įvykius,0,1,1
-Aš kaip kalendoriaus aplikacijos naudotojas noriu pridėti naujus įvykius ir susieti juos su kitais įvykiais kad galėčiau efektyviau planuoti savo laiką,0,1,1
-Aš kaip muzikos transliacijos paslaugos vartotojas noriu kurti grojaraščius ir pasirinkti muziką pagal nuotaiką kad galėčiau lengvai klausytis savo mėgstamos muzikos,0,1,1
-Aš kaip elektroninio pašto paslaugos naudotojas noriu siųsti ir gauti laiškus bei archyvuoti svarbius pranešimus kad palaikyčiau ryšį su draugais ir kolegomis,0,1,1
-Aš kaip receptų aplikacijos vartotojas noriu ieškoti naujų receptų ir pasirinkti juos pagal ingredientus kad galėčiau išbandyti naujus patiekalus,0,1,1
+Aš kaip sveikatos stebėjimo programos vartotojas noriu registruoti savo dienos veiklas ir analizuoti jas pagal sveikatos tikslus kad stebėti savo sveikatos progresą,0,1,1
+Aš kaip socialinės žiniasklaidos platformos naudotojas noriu skelbti nuotraukas ir parašyti aprašymus kad pasidalinti savo gyvenimo akimirkomis su draugais,0,1,1
+Aš kaip knygų skaitymo programos vartotojas noriu žymėti ir sekti  kur baigiau skaityti kad tęsti skaitymą vėliau,0,1,1
+Aš kaip filmų transliavimo paslaugos vartotojas noriu pridėti ir palyginti filmus į norų sąrašą su kitomis rekomendacijomis kad juos peržiūrėti vėliau,0,1,1
+Aš kaip sporto programėlės naudotojas noriu registruoti ir analizuoti treniruočių rezultatus pagal pasiektus tikslus kad stebėti savo fizinę pažangą,0,1,1
+Aš kaip naujienų aplikacijos vartotojas noriu gauti ir analizuoti pranešimus apie naujausius straipsnius pagal savo interesus kad likčiau informuotas apie pasaulio įvykius,0,1,1
+Aš kaip kalendoriaus aplikacijos naudotojas noriu pridėti ir susieti naujus įvykius su kitais įvykiais kad planuoti savo laiką,0,1,1
+Aš kaip muzikos transliacijos paslaugos vartotojas noriu kurti ir pasirinkti muziką pagal nuotaiką kad klausytis savo mėgstamos muzikos,0,1,1
+Aš kaip elektroninio pašto paslaugos naudotojas noriu siųsti ir gauti laiškus bei archyvuoti svarbius pranešimus kad palaikyti ryšį su draugais ir kolegomis,0,1,1
+Aš kaip receptų aplikacijos vartotojas noriu ieškoti ir pasirinkti naujų receptų pagal ingredientus kad išbandyti naujus patiekalus,0,1,1
 Aš kaip organizacijos lėšų rinkimo platformos naudotojas noriu kurti geriausias kampanijas,1,0,0
 Aš kaip nuotykių žygių planavimo programos naudotojas noriu ieškoti įvairiausių žygių maršrutų,1,0,0
 Aš kaip gyvūnų priežiūros programos naudotojas noriu registruoti savo augintinių priežiūros keisčiausius įvykius,1,0,0
@@ -1274,27 +1274,27 @@ Aš kaip automobilių nuomos paslaugos naudotojas noriu ieškoti pačių gražia
 Aš kaip virtualios mokymo programos naudotojas noriu dalyvauti populiariausiose kursuose,1,0,0
 Aš kaip sveikatos stebėjimo programos vartotojas noriu registruoti savo sveikatos rodiklius,1,0,1
 Aš kaip technologijų naujienų svetainės lankytojas noriu skaityti naujienas,1,0,1
-Kaip programos naudotojas norėčiau kažko kas pagerintų ,1,0,0
-Noriu sukurti grojaraščius naudotojo aplinkoje kai tik įmanoma ,1,0,0
-Aš kaip treniruočių aplikacijos naudotojas noriu sekti pažangą kai yra įkvėpimas ir galbūt dar kai kada nors tai pasirodys tinkama ,0,1,0
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti duomenis kai jie reikšmingi ar kai taip nuspręsiu pagal situaciją ,0,1,0
-Aš kaip transporto aplikacijos naudotojas noriu matyti maršrutus kai jie pasikeičia arba kai jie gali turėti įtakos mano planams ,0,1,0
-Aš kaip sveikatingumo aplikacijos naudotojas noriu stebėti aktyvumą kai tai aktualu ir kai yra laiko tai padaryti ,0,1,0
-Aš kaip finansų stebėjimo aplikacijos naudotojas noriu peržiūrėti biudžetą kai tai svarbu ar kai jaučiu poreikį įvertinti situaciją ,0,1,0
-Aš kaip elektroninės parduotuvės klientas noriu atrasti prekes kai yra poreikis arba kai atsiranda netikėtas noras ,0,1,0
-Aš kaip el parduotuvės klientas noriu gauti pranešimą kai mano užsakymas išsiunčiamas ir kai yra galimybė sekti jo buvimo vietą ,0,1,0
-Aš kaip kelionių programos naudotojas noriu peržiūrėti skrydžių kainas pasirinktam laikotarpiui ir galbūt palyginti jas su kitais variantais jei yra laiko ,0,1,0
-Aš kaip finansų programėlės naudotojas noriu nustatyti mėnesinį biudžeto limitą skirtingoms išlaidų kategorijoms bet palikti galimybę tai koreguoti ,0,1,0
-Aš kaip muzikos platformos vartotojas noriu išsaugoti dainą į savo grojaraštį vienu paspaudimu arba galbūt kitu būdu jeigu taip būtų patogiau ,0,1,0
+Kaip programos naudotojas norėčiau kažko kas pagerintų,1,0,0
+Noriu sukurti grojaraščius naudotojo aplinkoje kai tik įmanoma,1,0,0
+Aš kaip treniruočių programėlės naudotojas noriu registruoti ir sekti pažangą kad efektyviai analizuoti treniruočių intensyvumą,0,1,0
+Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu aktyviai registruoti ir analizuoti duomenis kad turėti išsamią analizę apie sveikatą,0,1,0
+Aš kaip transporto aplikacijos naudotojas noriu matyti maršrutus kai jie pasikeičia kad kai jie gali turėti įtakos mano planams,0,1,0
+Aš kaip sveikatingumo aplikacijos naudotojas noriu stebėti ir registruoti aktyvumą kad kai yra laiko tai padaryti,0,1,0
+Aš kaip finansų stebėjimo aplikacijos naudotojas noriu peržiūrėti ir išanalizuoti biudžetą kad kai jaučiu poreikį įvertinti situaciją,0,1,0
+Aš kaip elektroninės parduotuvės klientas noriu atrasti ir atfiltruoti prekes kad greičiau nusipirkčiau,0,1,0
+Aš kaip el parduotuvės klientas noriu gauti ir sekti pranešimą kai mano užsakymas išsiunčiamas kad sekti jo buvimo vietą,0,1,0
+Aš kaip kelionių programos naudotojas noriu peržiūrėti ir palyginti skrydžių kainas pasirinktam laikotarpiui kad nusipirkti,0,1,0
+Aš kaip finansų programėlės naudotojas noriu nustatyti ir užfiksuoti mėnesinį biudžeto limitą skirtingoms išlaidų kategorijoms kad palikti galimybę tai koreguoti,0,1,0
+Aš kaip muzikos platformos vartotojas noriu paklausyti ir išsaugoti dainą į savo grojaraštį vienu paspaudimu kad galėčiau dar kartą paklausyti,0,1,0
 Aš kaip sporto programos vartotojas noriu matyti savaitės įdomių treniruočių statistiką,1,0,0
 Aš kaip oro prognozių programėlės naudotojas noriu gauti įspėjimą apie artėjančią audrą mano mieste,1,0,1
-Aš kaip knygų skaitymo programėlės vartotojas noriu žymėti perskaitytus puslapius ir tęsti skaitymą nuo paskutinės vietos,0,0,1
+Aš kaip knygų skaitymo programėlės vartotojas noriu žymėti ir tęsti skaitymą nuo paskutinės vietos,0,0,1
 Aš kaip restorano rezervacijų sistemos naudotojas noriu atšaukti savo rezervaciją likus bent 24 valandoms,1,0,1
 Aš kaip sveikatos stebėjimo programos naudotojas noriu gauti priminimą apie vaistų suvartojimą nustatytu laiku,1,0,1
 Aš kaip socialinio tinklo vartotojas noriu blokuoti kitą naudotoją kad jis negalėtų man rašyti įvairių žinučių,1,0,0
-Aš kaip treniruočių programos vartotojas noriu pasirinkti pratimą iš siūlomo sąrašo ir pridėti jį prie savo treniruotės plano,0,0,1
+Aš kaip treniruočių programos vartotojas noriu pasirinkti ir pridėti pratimą iš siūlomo sąrašo prie savo treniruotės plano,0,0,1
 Aš kaip namų apsaugos sistemos naudotojas noriu matyti įrašytas stebėjimo kamerų vaizdo įrašų peržiūras savo telefone,1,0,1
-Aš kaip fotografijos redagavimo programėlės naudotojas noriu pritaikyti filtrą savo nuotraukai ir išsaugoti ją be pakeitimų originaliame faile,0,0,1
+Aš kaip fotografijos redagavimo programėlės naudotojas noriu pritaikyti ir išsaugoti filtrą savo nuotraukai be pakeitimų originaliame faile,0,0,1
 Aš kaip darbo paieškos platformos naudotojas noriu išsaugoti dominančias darbo skelbimų pozicijas savo paskyroje,1,0,1
 Aš kaip augalų priežiūros programos vartotojas noriu gauti priminimą palaistyti kambarinius augalus pagal jų poreikius,1,0,1
 Aš kaip elektroninės parduotuvės klientas noriu matyti detalią užsakymo istoriją su pirkimo datomis ir sumomis,1,0,1
@@ -1303,39 +1303,39 @@ Aš kaip automobilių dalijimosi paslaugos vartotojas noriu peržiūrėti nuvaž
 Aš kaip filmų transliacijos platformos naudotojas noriu pridėti filmą į mėgstamiausią sąrašą kur yra išsaugoti įvairiausi filmai,1,0,0
 Aš kaip internetinių kursų platformos vartotojas noriu matyti baigtų kursų pažymėjimus savo paskyroje,1,0,1
 Aš kaip sistemos administratorius noriu sukurti automatizuotą atsarginių kopijų tvarkaraštį kad užtikrinčiau duomenų saugumą,0,1,0
-Aš kaip sistemų analitikas noriu sukurti interaktyvų duomenų vizualizavimo prietaisų skydelį kad galėčiau stebėti ir analizuoti sistemos veikimą realiu arba įvariu  laiku,0,1,0
-Aš kaip sistemų inžinierius noriu įdiegti automatinį apkrovos balansavimo mechanizmą kad užtikrinčiau sistemos prieinamumą labai didelio srauto metu,0,1,0
+Aš kaip sistemų analitikas noriu sukurti ir stebėti interaktyvų duomenų vizualizavimo prietaisų skydelį kad analizuoti sistemos veikimą realiu arba įvariu laiku,0,1,0
+Aš kaip sistemų inžinierius noriu įdiegti ir pritaikyti automatinį apkrovos balansavimo mechanizmą kad užtikrinti sistemos prieinamumą labai didelio srauto metu,0,1,0
 Aš kaip tinklo inžinierius noriu konfigūruoti VPN ryšį tarp skirtingų padalinių kad užtikrinčiau saugiai gerą duomenų perdavimą,1,1,0
 Aš kaip duomenų bazės administratorius noriu sukurti indeksus dažnai naudojamoms užklausoms kad pagerinčiau duomenų bazės našumą,1,1,0
-Aš kaip testuotojas noriu sukurti testavimo scenarijus skirtus patikrinti sistemos integravimą su išorinėmis sistemomis kad užtikrinčiau tinkamą duomenų mainų veikimą,0,1,0
-Aš kaip produkto savininkas noriu sukurti vartotojo vadovą skirtą naujai funkcijai kad vartotojai galėtų lengvai ją naudoti,0,1,0
-Aš kaip projekto vadovas noriu sukurti rizikos valdymo planą kad galėčiau numatyti ir valdyti galimas projekto problemas,0,1,0
-Aš kaip dizaineris noriu sukurti interaktyvų prototipą skirtą vartotojo srautui kad galėčiau patikrinti jo efektyvumą,0,1,0
-Aš kaip turinio kūrėjas noriu sukurti SEO optimizuotus straipsnius skirtus pritraukti organinį srautą į svetainę ir galbūt pasiekti dar kitų rezultatų priklausomai nuo poreikių ,0,1,0
-Aš kaip rinkodaros specialistas noriu sukurti automatizuotą el pašto kampaniją skirtą pritraukti naujus klientus ir palaikyti senus jei tai pasiteisins ir nebus kitų prioritetų ,0,1,0
-Aš kaip pardavimų vadybininkas noriu sukurti pardavimo ataskaitas skirtas analizuoti pardavimų įvairias ir populiaras tendencijas bei įvertinti kitus neapibrėžtus rodiklius ,0,1,0
+Aš kaip testuotojas noriu sukurti testavimo scenarijus skirtus patikrinti sistemos integravimą su išorinėmis sistemomis kad lengvai užtikrinti tinkamą duomenų mainų veikimą,0,1,0
+Aš kaip produkto savininkas noriu sukurti ir užfiksuoti vartotojo instrukciją skirtą naujai funkcijai kad vartotojai galėtų lengvai ją naudoti,0,1,0
+Aš kaip projekto vadovas noriu sukurti ir valdyti rizikos valdymo planą kad numatyti galimas projekto problemas,0,1,0
+Aš kaip dizaineris noriu sukurti interaktyvų prototipą skirtą vartotojo srautui kad patikrinti jo efektyvumą,0,1,0
+Aš kaip turinio kūrėjas noriu sukurti ir optimizuoti SEO optimizuotus straipsnius skirtus pritraukti organinį srautą į svetainę kad galbūt pasiekti dar kitų rezultatų priklausomai nuo poreikių,0,1,0
+Aš kaip rinkodaros specialistas noriu sukurti ir pritaikyti automatizuotą el pašto kampaniją skirtą pritraukti naujus klientus kad palaikyti senus jei tai pasiteisins ir nebus kitų prioritetų,0,1,0
+Aš kaip pardavimų vadybininkas noriu sukurti ir analizuoti pardavimo ataskaitas kad įvertinti kitus neapibrėžtus rodiklius,0,1,0
 Aš kaip klientų aptarnavimo specialistas noriu sukurti žinių bazę skirtą atsakyti į įvairius užduodamus klientų klausimus,1,0,0
-Aš kaip finansininkas noriu sukurti finansines ataskaitas skirtas analizuoti įmonės pelningumą ir skolas arba delspinigius jei tokie duomenys bus prieinami ir aktualūs ,0,1,0
-Aš kaip teisininkas noriu sukurti duomenų apsaugos politiką skirtą užtikrinti atitiktį GDPR reikalavimams kad įmonė atitiktų saugumo reikalavimus ,0,1,0
-Aš kaip mokytojas noriu sukurti interaktyvias mokymo medžiagas skirtas padaryti mokymąsi įdomesnį ir galbūt labiau įtraukiantį priklausomai nuo auditorijos ,0,1,0
-Aš kaip studentas noriu gauti pranešimus apie naujus paskaitų įrašus kad galėčiau mokytis savarankiškai bet kuriuo pasirinktu metu,0,1,0
-Aš kaip gydytojas noriu sukurti pacientų priminimus apie vaistų vartojimą kad priminčiau ir pagerinčiau gydymą iki aukštų rezultatų,0,1,0
+Aš kaip finansininkas noriu sukurti finansines ataskaitas skirtas analizuoti įmonės pelningumą ir skolas kad ,0,1,0
+Aš kaip teisininkas noriu sukurti ir užtikrinti duomenų apsaugos politiką skirtą patikrinti atitiktį GDPR reikalavimams kad įmonė atitiktų saugumo reikalavimus,0,1,0
+Aš kaip mokytojas noriu sukurti ir naudoti interaktyvias mokymo medžiagas skirtas kad padaryti mokymąsi įdomesnį ir galbūt labiau įtraukiantį priklausomai nuo auditorijos,0,1,0
+Aš kaip studentas noriu gauti ir stebėti pranešimus apie naujus paskaitų įrašus kad mokytis savarankiškai bet kuriuo pasirinktu metu,0,1,0
+Aš kaip gydytojas noriu sukurti ir įrašyti pacientų priminimus apie vaistų vartojimą kad priminčiau ir pagerinčiau gydymą iki aukštų rezultatų,0,1,0
 Aš kaip inžinierius noriu sukurti serverius skirtus įvairiems darbams,1,0,0
-Aš kaip žurnalistas noriu sukurti automatizuotus pranešimus apie naujas publikacijas kad galėčiau greitai reaguoti į naujienas,0,1,0
+Aš kaip žurnalistas noriu sukurti automatizuotus pranešimus apie naujas publikacijas kad greitai reaguoti į naujienas,0,1,0
 Aš kaip socialinio tinklo naudotojas noriu pasidalinti savo geriausiais įrašais,1,0,0
 Aš kaip vartotojas noriu gauti pranešimus apie įvairius įvykius,1,0,0
 Aš kaip pirkėjas noriu matyti populiariausias prekes,1,0,0
-Aš kaip naudotojas noriu pasirinkti nuostabiausias paslaugas ,1,0,0
-Aš kaip programos vartotojas noriu gauti informaciją apie naujausias naujienas ,1,0,0
-Aš kaip naudotojas noriu sužinoti apie įvairiausias galimybes ,1,0,0
+Aš kaip naudotojas noriu pasirinkti nuostabiausias paslaugas,1,0,0
+Aš kaip programos vartotojas noriu gauti informaciją apie naujausias naujienas,1,0,0
+Aš kaip naudotojas noriu sužinoti apie įvairiausias galimybes,1,0,0
 Aš kaip programėlės vartotojas noriu atlikti įvairiausius veiksmus,1,0,0
-Aš kaip žaidimo naudotojas noriu pasiekti pačius geriausius tikslus ,1,0,0
-Aš kaip vartotojas noriu dalyvauti geriausioje veikloje ,1,0,0
-Aš kaip paslaugos naudotojas noriu pasirinkti geriausius produktus į pirkinių krepšelį ,1,0,0
-Aš kaip kliento paskyros naudotojas noriu užpildyti visą likusią informaciją ,1,0,0
+Aš kaip žaidimo naudotojas noriu pasiekti pačius geriausius tikslus,1,0,0
+Aš kaip vartotojas noriu dalyvauti geriausioje veikloje,1,0,0
+Aš kaip paslaugos naudotojas noriu pasirinkti geriausius produktus į pirkinių krepšelį,1,0,0
+Aš kaip kliento paskyros naudotojas noriu užpildyti visą likusią informaciją,1,0,0
 Aš kaip vartotojas noriu matyti naujausią ir geriausią informaciją,1,0,0
 Aš kaip klientas noriu pasirinkti geriausius produktus,1,0,0
-Aš kaip vartotojas noriu atlikti geriausius veiksmus ,1,0,0
+Aš kaip vartotojas noriu atlikti geriausius veiksmus,1,0,0
 Aš kaip paslaugos naudotojas noriu pasirinkti daug parinkčių,1,0,0
 Aš kaip vartotojas noriu matyti ir gauti kažkokią informaciją kuri galbūt bus naudinga bet dar neaišku kokiam tikslui,0,1,0
 Aš kaip pirkėjas noriu pasirinkti pačias didžiausias prekes ir jas atsisiųsti jei tik bus galimybė ir tinkamas laikas,0,1,0
@@ -1343,22 +1343,22 @@ Aš kaip naudotojas noriu gauti naujienas ir būti informuotas apie atnaujintą 
 Aš kaip programos vartotojas noriu atlikti įvairiausius veiksmus mobilioje programėlėje ir vėl sugrįžti jei prireiks arba bus įdomu,0,1,0
 Aš kaip žaidimo naudotojas noriu pasiekti iškeltus aukščiausius tikslus ir laimėti kažką kas priklauso nuo žaidimo eigos,0,1,0
 Aš kaip vartotojas noriu gauti pranešimus apie įdomius įvykius ir būti informuotas jei tai svarbu bet neaišku ar visada,0,1,0
-Aš kaip paslaugos naudotojas noriu matyti savo įdomiausią veiklą ir ją analizuoti kai yra noro ar poreikio,0,1,0
-Aš kaip socialinio tinklo vartotojas noriu dalyvauti mokymuose ir sekti savo įvairius rezultatus jei jie pasiekiami,0,1,0
+Aš kaip paslaugos naudotojas noriu matyti ir analizuoti savo įdomiausią veiklą kad surasti savo mėgstamiausia veiklą,0,1,0
+Aš kaip socialinio tinklo vartotojas noriu dalyvauti mokymuose ir sekti savo įvairius rezultatus kad sudalyvauti mokymuose,0,1,0
 Aš kaip mobilios programėlės naudotojas noriu užpildyti registracijos informaciją ir prisijungti panaršyti kažką kas galbūt patrauks dėmesį,0,1,0
-Aš kaip mobilios programėlės naudotojas noriu surasti ir pasirinkti galbūt pati geriausią maršrutą jeigu sąlygos leis,0,1,0
-Aš kaip sveikatos stebėjimo programos naudotojas noriu stebėti savo ir kitų šeimos narių duomenis ir juos informuoti per programą kai tai svarbu,0,1,0
-Aš kaip treniruočių programos naudotojas noriu gauti rekomendacijas apie efektyviausias treniruotes ir matyti jų laikus kurie gali keistis,0,1,0
+Aš kaip mobilios programėlės naudotojas noriu surasti ir pasirinkti galbūt pati geriausią maršrutą jeigu sąlygos leis kad greičiau nusigauti iki norimos vietos,0,1,0
+Aš kaip sveikatos stebėjimo programos naudotojas noriu stebėti ir analizuoti savo ir kitų šeimos narių duomenis kad juos informuoti per programą kai tai svarbu,0,1,0
+Aš kaip treniruočių programos naudotojas noriu gauti rekomendacijas apie efektyviausias treniruotes kad matyti jų laikus kurie gali keistis,0,1,0
 Aš kaip elektroninės parduotuvės klientas noriu matyti ir įsigyti išperkamiausias prekes jeigu jos dar prieinamos,0,1,0
 Aš kaip muzikos platformos naudotojas noriu įkelti įvairią muziką ir ją klausyti priklausomai nuo nuotaikos ar situacijos,0,1,0
 Aš kaip finansų programos naudotojas noriu matyti savo biudžetą ir matyti įmonės biudžetą jei turiu tam teises arba prieigą,0,1,0
 Aš kaip augalų priežiūros programos naudotojas noriu matyti augalus ir gauti statistiką įvairią priklausomai nuo augalų tipo ir sezono,0,1,0
 Aš kaip nuotraukų dalinimosi programos vartotojas noriu dalintis savo geriausiomis nuotraukomis ir siųsti kam nors jei tai bus tinkama,0,1,0
 Aš kaip sporto programos naudotojas noriu pasiekti įdomius tikslus ir juos įsiamžinti jeigu tai man padeda motyvuotis,0,1,0
-Aš kaip kultūros stebėjimo programos vartotojas noriu sužinoti apie kažkokius renginius ir dalyvauti jei jie įdomūs ar tinkamu metu,0,1,0
+Aš kaip kultūros stebėjimo programos vartotojas noriu sužinoti ir užregistruoti apie kažkokius įdomius renginius kad sudalyvauti,0,1,0
 Aš kaip sveikatos stebėjimo programos naudotojas noriu stebėti savo simptomus kad simptomai būtų visi surašyti,1,1,0
 Aš kaip vartotojas noriu matyti ir analizuoti kažkokius duomenis kurie galėtų būti naudingi bet tik tam tikrais atvejais,0,1,0
-Aš kaip pirkėjas noriu pasirinkti ir nusipirkti per elektroninę parduotuvę kažkokias prekes jeigu jos tinka mano poreikiams,0,1,0
+Aš kaip pirkėjas noriu pasirinkti ir nusipirkti per elektroninę parduotuvę kažkokias prekes kad pristatytų kurjeris,0,1,0
 Aš  kaip IT infrastruktūros specialistas noriu naudoti tinklo prieigos kontrolės geriausias sistemas,1,0,0
 Aš kaip IT projektų vadovas noriu naudoti projekto efektyviausius dokumentacijos valdymo įrankius,1,0,0
 Aš  kaip programinės įrangos kūrėjas noriu naudoti kodo kokybės geriausius analizės įrankius,1,0,0
