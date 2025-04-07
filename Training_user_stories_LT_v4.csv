@@ -7,7 +7,7 @@ Aš kaip buhalteris  noriu gauti pranešimus apie naujai įkeltas paslaugų suta
 Aš kaip buhalteris noriu matyti visas paslaugų sutartys kad sutikrinčiau norimą kokią nors informaciją,1,1,0
 Aš kaip el  parduotuvės vartotojas noriu galbūt matyti užsakymų istoriją kad žinočiau savo ankstesnius užsakymus,1,1,0
 Aš kaip e-parduotuvės lankytojas  noriu turėti galimybę palyginti produktus,1,0,1
-Kartais atrandu sprendimus kai tai būtina,0,0,0
+Aš kaip naudotojas norius kartais atrasti ir pritaikyti sprendimus kai tai būtina,0,0,0
 Aš kaip IT sistemos administratorius noriu turėti kodą kuris pats paruoštų kompiuterius,1,0,0
 Aš kaip sistemos admnistratorius noriu ieškoti būdų kai tai aktualu,1,0,0
 Aš kaip sistemos administratorius noriu kartais gauti pranešimus apie nepavykusius prisijungimus kai jaučiu poreikį,1,0,0
@@ -85,19 +85,19 @@ Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę filtruoti de
 Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę ištrinti pasirinktus filtrus prie degalinių sąrašo  kad matyčiau pilną sąrašą,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą greitai kad nebūtų aktyvi nenaudojama paskyra,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu turėti galimybę nusipirkti automobilio abonementą mėnesiui kad nereikėtų pirkti kiekvieną dieną,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę panaikinti prikabintą kelionės lapą  kad galėčiau įkelti naują su teisingais duomenimis,0,1,1
-Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę pasirinkti kalbą  kad rodytų informaciją suprantama kalba,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę pasirinkti rinkodaros sutikimus kad gaučiau greičiau specialius pasiūlymus,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu panaikinti  ir išsaugoti prikabintą kelionės lapą kad galėčiau įkelti naują su teisingais duomenimis,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu pasirinkti kalbą  kad rodytų informaciją suprantama kalba,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu pasirinkti rinkodaros sutikimus kad gaučiau greičiau specialius pasiūlymus,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu lengvai paskaityti apie taisykles kad žinoti įmonės taisykles,1,1,0
 Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę prisidėti rekvizitus kad greičiau atsiskaityti,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu turėti galimybę programėlėje iš pasirinktos degalinės įjungti navigaciją  kad būtų greičiau,1,1,0
 Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę sustabdyti užsakytą kurą nuotoliniu būdu,1,0,1
 Aš kaip mobilios programėlės vartotojas  noriu turėti paskyrą  kad galėčiau skaityti naujausius straipsnius ir atnaujinimus,0,1,0
-Aš kaip mobilios programėlės vartotojas noriu užsakyti kuro pylimą nuotoliniu būdu ir apmokėti už vairuotoją ,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu užsiregistruoti į programėlę be nuolaidų kortelės ir gauti naują virtualią nuolaidų kortelę ,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu užsakyti kuro pylimą nuotoliniu būdu ir apmokėti už vairuotoją,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu užsiregistruoti į programėlę be nuolaidų kortelės ir gauti naują virtualią nuolaidų kortelę ,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu turėti galimybę pasirinkti filtrus ir surasti tinkamą parduotuvę ,0,1,1
 Aš kaip naujas lojalumo vartotojas noriu užsiregistruoti į sistemą ir gauti nuolaidas ,0,1,1
-Aš kaip parduotuvės personalo vadovas noriu sistemoje sukurti nuolaidas savo darbuotojams ir sudaryti galimybę jiems jomis pasinaudoti ,0,1,1
+Aš kaip parduotuvės personalo vadovas noriu sistemoje sukurti nuolaidas savo darbuotojams ir sudaryti galimybę jiems jomis pasinaudoti ,0,0,1
 Aš kaip personalo vadybininkas noriu automatizuoti laiškų siuntimą iš vienos sistemos ir neberašyti kiekvienam kandidatui atskirai ,0,1,1
 Aš kaip personalo vadybininkas noriu gauti pranešimus kai pasikeičia darbuotojų pareigos ir paruošti reikalingus dokumentus ,0,1,1
 Aš kaip personalo vadybininkas noriu personalo procesų sistemoje matyti visų darbuotojų atostogas ir planuoti darbo grafikus ,0,1,1
