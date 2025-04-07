@@ -1,12 +1,12 @@
 ﻿User stories, KR1, KR2, KR3
-Aš kaip administratorius noriu atkurti vartotojų slaptažodžius kad galėčiau jiems padėti atgauti prieigą  jei jie pamirštų savo prisijungimo duomenis,1,1,1
+Aš kaip administratorius noriu atkurti vartotojų slaptažodžius kad padėti atgauti prieigą,1,1,1
 Aš kaip administratorius noriu sukurti blokuojamų el paštų sąrašą kad nesiregistruotų klientai su netikrais el paštais,1,1,1
-Aš kaip administratorius  noriu turėti prieigą prie lankytojų statistikos kad galėčiau analizuoti svetainės lankomumą ir efektyvumą,0,1,0
+Aš kaip administratorius noriu gauti ir turėti prieigą prie lankytojų statistikos kad analizuoti svetainės efektyvumą,0,1,0
 Aš kaip auksinis lojalumo vartotojas  noriu gauti  procentų nuolaidas,1,0,1
-Aš kaip buhalteris  noriu gauti pranešimus apie naujai įkeltas paslaugų sutartis,1,0,1
-Aš kaip buhalteris noriu matyti visas paslaugų sutartys kad sutikrinčiau norimą kokią nors informaciją,1,1,0
-Aš kaip el  parduotuvės vartotojas noriu galbūt matyti užsakymų istoriją kad žinočiau savo ankstesnius užsakymus,1,1,0
-Aš kaip e-parduotuvės lankytojas  noriu turėti galimybę palyginti produktus,1,0,1
+Aš kaip buhalteris noriu gauti pranešimus apie naujai įkeltas paslaugų sutartis,1,0,1
+Aš kaip buhalteris noriu matyti visas paslaugų sutartys kad sutikrinti norimą kokią nors informaciją,1,1,0
+Aš kaip el  parduotuvės vartotojas noriu galbūt matyti užsakymų istoriją kad žinoti savo ankstesnius užsakymus,1,1,0
+Aš kaip e-parduotuvės lankytojas noriu turėti galimybę palyginti produktus,1,0,1
 Aš kaip naudotojas norius kartais atrasti ir pritaikyti sprendimus kai tai būtina,0,0,0
 Aš kaip IT sistemos administratorius noriu turėti kodą kuris pats paruoštų kompiuterius,1,0,0
 Aš kaip sistemos admnistratorius noriu ieškoti būdų kai tai aktualu,1,0,0
@@ -23,11 +23,11 @@ Aš kaip e-svetainės vartotojas noriu gauti naujienlaiškius kad nepraleisti ge
 Aš kaip e-svetainės vartotojas  noriu įsidėti į krepšelį norimas prekes,1,0,1
 Aš kaip e-svetainės vartotojas  noriu ištrinti prekes iš krepšelio,1,0,1
 Aš kaip interneto svetainės administratorius  noriu turėti galimybę išsitraukti kokią nors ataskaitą apie programėlės vartotojus kad žinočiau kiek yra aktyvių vartotojų,1,1,0
-Aš kaip interneto svetainės administratorius  noriu turėti integruotą analitiką  kad galėčiau stebėti svetainės veikimą ir vartotojų įsitraukimą,0,1,0
+Aš kaip interneto svetainės administratorius  noriu turėti ir stebėti integruotą analitiką kad analizuoti svetainės veikimą ir vartotojų įsitraukimą,0,1,0
 Aš kaip interneto svetainės lankytojas noriu matyti pritaikytą turinį pagal mano interesus,1,0,1
-Aš kaip IT administratorius noriu priskirti įrangą darbuotojui sistemoje ,1,0,1
+Aš kaip IT administratorius noriu priskirti įrangą darbuotojui sistemoje,1,0,1
 Aš kaip IT administratorius noriu sukurti įrašą apie įrangą personalo sistemoje,1,0,1
-Aš kaip internetinės svetainės lankytojas noriu turėti DUK skyrių ,1,0,1
+Aš kaip internetinės svetainės lankytojas noriu turėti DUK skyrių,1,0,1
 Aš kaip lojalumo sistemos programuotojas noriu sukurti registracijos puslapį ,1,0,1
 Aš kaip lojalumo sistemos vartotojas noriu atsijungti nuo paskyros,1,0,1
 Aš kaip lojalumo sistemos vartotojas noriu matyti savo lojalumo taškus čekyje,1,0,1
@@ -38,12 +38,12 @@ Aš kaip mobilios programėlės vartotojas  noriu gauti degalinių nuolaidas pag
 Aš kaip mobilios programėlės vartotojas noriu gauti nuolaidas degalams per šventes ir specialias dienas kad galėčiau dar daugiau sutaupyti,0,1,0
 Aš kaip mobilios programėlės vartotojas  noriu gauti papildomas nuolaidas  kai rekomenduoju degalinę programėlėje,1,0,1
 Aš kaip mobilios programėlės vartotojas  noriu gauti personalizuotas kuro nuolaidas  atsižvelgiant į mano kelionių istoriją,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie kuro nuolaidas ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie riboto laiko nuolaidas ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu matyti artimiausių kelių degalinių kainų palyginimą ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu matyti atsiliepimus apie degalines kurios siūlo nuolaidas ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidas artimiausioje degalinėje ,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidų akcijas įvairioms kuro rūšims ,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie kuro nuolaidas,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie riboto laiko nuolaidas,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu matyti artimiausių kelių degalinių kainų palyginimą,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu matyti atsiliepimus apie degalines kurios siūlo nuolaidas,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidas artimiausioje degalinėje,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidų akcijas įvairioms kuro rūšims,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidų istoriją ,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti praeities kuro kainų pokyčius ,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu turėti galimybę dalintis kuro nuolaidomis su draugais ,1,0,1
@@ -60,7 +60,7 @@ Aš kaip mobilios programėlės programuotojas noriu sukurti galimybę fotografu
 Aš kaip mobilios programėlės programuotojas noriu sukurti integraciją su kita lojalumo kortele kad vartotojai daugiau naudotų šią programėlę,1,1,0
 Aš kaip mobilios programėlės programuotojas  noriu sukurti įvairias animacijas,1,0,1
 Aš kaip mobilios programėlės testuotojas noriu simuliuoti skirtingas lokacijas kad efektyviai ištestuočiau kitų degalinių paslaugų funkcionalumą,1,1,0
-Aš kaip mobilios programėlės testuotojas noriu turėti galimybę įjungti kasoje naktinį režimą kad ištestuoti greitsi programėlės paslaugų funkcionalumus,1,1,0
+Aš kaip mobilios programėlės testuotojas noriu turėti galimybę įjungti kasoje naktinį režimą kad ištestuoti greitai programėlės paslaugų funkcionalumus,1,1,0
 Aš kaip mobilios programėlės testuotojas noriu turėti galimybę susimuliuoti degalų apmokėjimus kad efektyviai ištestuočiau funkcionalumus,1,1,0
 Aš kaip mobilios programėlės vartotojas  noriu  turėti galimybę pasirinkti mėgstamiausią degalinę  kad galėčiau ją greičiau surasti,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu naujienų skiltyje matyti naujienas kad galėčiau efektyviai paskaityti,1,1,0
@@ -77,16 +77,16 @@ Aš kaip mobilios programėlės vartotojas noriu pagrindiniame lange matyti turi
 Aš kaip mobilios programėlės vartotojas noriu greitai palikti atsiliepimą kad žinotų kliento nuomonę apie tiekiamas paslaugas,1,1,0
 Aš kaip mobilios programėlės vartotojas  noriu pasidalinti su draugais apie pasiektą kitą lojalumo lygį,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu pasinaudoti lojalumo kortele per telefoną kad greičiau atsiskaityti,1,1,0
-Aš kaip mobilios programėlės vartotojas noriu prisidėti bankinę kortelę kad galėčiau atsiskaityti,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu prisidėti kelias lojalumo korteles kad matyčiau savo kaupimus,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu prisidėti bankinę kortelę kad atsiskaityti,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu prisidėti kelias lojalumo korteles kad matyti kaupimus,1,1,1
 Aš kaip mobilios programėlės vartotojas  noriu sukurti piniginės saugos kodą,1,0,1
 Aš kaip mobilios programėlės vartotojas  noriu suvesti nuolaidos kodą  kad gaučiau nuolaidą kitam apsipirkimui,1,1,1
 Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę filtruoti degalines,1,0,1
 Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę ištrinti pasirinktus filtrus prie degalinių sąrašo  kad matyčiau pilną sąrašą,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą greitai kad nebūtų aktyvi nenaudojama paskyra,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu turėti galimybę nusipirkti automobilio abonementą mėnesiui kad nereikėtų pirkti kiekvieną dieną,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu panaikinti  ir išsaugoti prikabintą kelionės lapą kad galėčiau įkelti naują su teisingais duomenimis,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu pasirinkti kalbą  kad rodytų informaciją suprantama kalba,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu panaikinti ir išsaugoti prikabintą kelionės lapą kad galėčiau įkelti naują su teisingais duomenimis,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu pasirinkti kalbą kad rodytų informaciją suprantama kalba,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu pasirinkti rinkodaros sutikimus kad gaučiau greičiau specialius pasiūlymus,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu lengvai paskaityti apie taisykles kad žinoti įmonės taisykles,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu  prisidėti rekvizitus kad greičiau atsiskaityti,1,1,0
@@ -121,7 +121,7 @@ Aš kaip sveikatos stebėjimo programos naudotojas noriu analizuoti blogiausius 
 Aš kaip treniruočių programos naudotojas noriu gauti ir matyti geriausias rekomendacijas ir pasiūlymus kad dažniau lankyčiau treniruotes,0,1,0
 Aš kaip elektroninės parduotuvės klientas noriu matyti geriausias prekes kad galėčiau jas greitai nusipirkti,1,1,0
 Aš kaip programėlės administratorius noriu stebėti ir sekti vartotojų veiklos žurnalus kad stebėti programėlės naudojimo modelius,0,1,1
-Aš kaip programėlės vartotojas noriu atsiimti nemokamą kavą kad galėčiau pasinaudoti sukauptu kuponu,1,1,1
+Aš kaip programėlės vartotojas noriu atsiimti nemokamą kavą kad pasinaudoti sukauptu kuponu,1,1,1
 Aš kaip programuotojas noriu įgyvendinti neprisijungimo režimą ir informuoti kad vartotojai galėtų toliau naudotis mobilią programėlę be interneto ryšio,0,1,1
 Aš kaip programuotojas noriu įgyvendinti SEO geriausias praktikas kad svetainė gerai reitinguotųsi paieškos sistemose,1,1,0
 Aš kaip programuotojas noriu optimizuoti ir pagreitinti svetainės užkrovimo laiką  kad lankytojai turėtų sklandžią patirtį,0,1,1
@@ -148,24 +148,24 @@ Aš kaip svetainės lankytojas  noriu  kad svetainė būtų greita ir nereikalau
 Aš kaip svetainės lankytojas  noriu  kad svetainė būtų optimizuota mobiliesiems įrenginiams  kad galėčiau patogiai naršyti savo telefone,1,1,0
 Aš kaip svetainės lankytojas noriu kad internetinė svetainė būtų reaguojanti kad atrodytų gerai bet kuriame įrenginyje,1,1,0
 Aš kaip svetainės savininkas  noriu įtraukti kontaktinę formą  kad lankytojai galėtų lengvai su mumis susisiekti,1,1,0
-Aš kaip testuotojas  noriu atlikti naudotojų patirties testavimą kad įsitikinčiau jog vartotojui sąsaja yra paprasta ir patogi,1,1,0
-Aš kaip testuotojas  noriu automatizuoti regresijos testus  kad galėčiau greičiau aptikti pasikartojančias klaidas,1,1,1
+Aš kaip testuotojas  noriu atlikti naudotojų patirties testavimą kad įsitikinčiau jog vartotojui sąsaja yra paprasta,1,1,0
+Aš kaip testuotojas  noriu automatizuoti regresijos testus  kad aptikti pasikartojančias klaidas,1,1,1
 Aš kaip testuotojas  noriu gauti patvirtinimo kodus į el  paštą  kad nereikėtų jungtis į duomenų bazę,1,1,1
-Aš kaip testuotojas  noriu gauti pranešimus apie naujai išleistas programėles  kad galėčiau ištestuoti funkcionalumus,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu matyti pagal segemento lygį nuolaidas  kad žinočiau kiek reikia išleisti pinigų iki aukščiausio lygio,1,1,1
-Aš kaip testuotojas  noriu įvertinti saugumo spragas  kad galėčiau užtikrinti  jog sistema yra apsaugota nuo galimų grėsmių,1,1,1
+Aš kaip testuotojas  noriu gauti pranešimus apie naujai išleistas programėles kad ištestuoti funkcionalumus,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu matyti pagal segemento lygio nuolaidas kad žinoti kiek reikia išleisti pinigų iki aukščiausio lygio,1,1,1
+Aš kaip testuotojas  noriu įvertinti saugumo spragas  kad galėčiau užtikrinti  jog sistema yra apsaugota nuo grėsmių,1,1,1
 Aš kaip testuotojas  noriu kurti integracijos testus  kad galėčiau patikrinti  ar visos sistemos dalys veikia kartu be klaidų,0,1,1
-Aš kaip testuotojas  noriu naudoti API testavimo įrankį  kad patikrinčiau duomenų mainų tarp sistemų kokybę ir patikimumą,0,1,0
-Aš kaip testuotojas  noriu naudoti klaidų prioritetų nustatymo sistemą  kad galėčiau efektyviai paskirstyti savo testavimo laiką ir išteklius,0,1,0
-Aš kaip testuotojas  noriu naudoti testavimo aplinką  kuri imituoja tikras sąlygas  kad galėčiau tiksliau atkurti klaidas,1,1,1
-Aš kaip testuotojas  noriu naudoti testavimo scenarijų įrašymo įrankį  kad galėčiau greičiau sukurti funkcinius testus,1,1,1
-Aš kaip testuotojas  noriu simuliuoti skirtingas tinklo sąlygas  kad galėčiau užtikrinti aplikacijos veikimą įvairiose situacijose,1,1,0
+Aš kaip testuotojas  noriu naudoti ir pritaikyti API testavimo įrankį  kad patikrinčiau duomenų mainų tarp sistemų kokybę ir patikimumą,0,1,0
+Aš kaip testuotojas  noriu naudoti klaidų prioritetų nustatymo sistemą kad galėčiau efektyviai paskirstyti savo testavimo laiką ir išteklius,0,1,0
+Aš kaip testuotojas  noriu naudoti testavimo aplinką  kuri imituoja tikras sąlygas kad  tiksliau atkurti klaidas,1,1,1
+Aš kaip testuotojas  noriu naudoti testavimo scenarijų įrašymo įrankį kad galėčiau sukurti funkcinius testus,1,1,1
+Aš kaip testuotojas  noriu simuliuoti skirtingas tinklo sąlygas kad galėčiau užtikrinti aplikacijos veikimą įvairiose situacijose,1,1,0
 Aš kaip testuotojas  noriu sukurti automatinius testus ir juos paleisti kad testavimas vyktų greičiau,0,1,0
-Aš kaip testuotojas  noriu turėti aiškiai apibrėžtus testavimo kriterijus  kad galėčiau užtikrinti testavimo proceso kokybę ir išsamumą,0,1,0
-Aš kaip testuotojas  noriu turėti centralizuotą klaidų registravimo sistemą  kad galėčiau lengvai peržiūrėti ir valdyti visus atrastus defektus,0,1,0
-Aš kaip testuotojas  noriu turėti galimybę atnaujinti testų scenarijus pagal sistemos pakeitimus  kad mano testai visada atitiktų naujausią versiją,1,1,1
-Aš kaip testuotojas  noriu turėti galimybę kurti testų ataskaitas automatiškai  kad sutaupyčiau laiko ir galėčiau susitelkti į klaidų analizę,0,1,0
-Aš kaip testuotojas  noriu turėti galimybę stebėti realaus laiko sistemų našumą  kad galėčiau identifikuoti spūstis ir našumo problemas,0,1,0
+Aš kaip testuotojas  noriu aiškiai apibrėžti ir pritaikyti testavimo kriterijus kad užtikrinti testavimo proceso kokybę ir išsamumą,0,1,0
+Aš kaip testuotojas  noriu sukurti ir pritaikyti centralizuotą klaidų registravimo sistemą kad lengvai peržiūrėti ir valdyti visus atrastus defektus,0,1,0
+Aš kaip testuotojas  noriu atnaujinti testų scenarijus pagal sistemos pakeitimus  kad mano testai visada atitiktų naujausią versiją,1,1,1
+Aš kaip testuotojas  noriu kurti testų ataskaitas automatiškai  kad sutaupyčiau laiko ir galėčiau susitelkti į klaidų analizę,0,1,0
+Aš kaip testuotojas  noriu stebėti realaus laiko sistemų našumą  kad galėčiau identifikuoti spūstis ir našumo problemas,0,1,0
 Aš kaip testuotojas  noriu turėti prieigą prie klaidų stebėjimo įrankio  kad galėčiau stebėti klaidų pasikartojimus ir jų prioritetą,0,1,0
 Aš kaip testuotojas  noriu turėti prieigą prie testavimo duomenų bazės  kad galėčiau patikrinti sistemos duomenų vientisumą,1,1,1
 Aš kaip testuotojas  noriu vykdyti mobiliųjų įrenginių testus  kad įsitikinčiau  jog programėlė veikia skirtinguose įrenginiuose,1,1,1
@@ -185,9 +185,9 @@ Aš kaip vartotojas  noriu nupirktą automobilio plovimą persiųsti draugui  ka
 Aš kaip vartotojas  noriu pritaikyti aplikacijos temą  kad galėčiau suasmeninti savo patirtį,1,1,1
 Aš kaip vartotojas  noriu sinchronizuoti savo aplikacijos duomenis tarp kelių įrenginių  kad galėčiau turėti sklandžią patirtį,1,1,1
 Aš kaip vartotojas  noriu turėti blogo skyrių  kad galėčiau skaityti naujausius straipsnius ir atnaujinimus,0,1,0
-Aš kaip vartotojas  noriu turėti galimybę paspausti žemėlapyje ant degalinės  kad pamatyčiau degalinės informaciją,1,1,1
-Aš kaip vartotojas  noriu turėti galimybę prisijungti su savo socialinio tinklo paskyra prie mobilios programėlės  kad galėčiau nekurti naujos paskyros,1,1,1
-Aš kaip vartotojas  noriu turėti galimybę užsakyti prekių pristatymą į namus  kad nereikėtų važiuoti,1,1,1
+Aš kaip vartotojas  noriu paspausti žemėlapyje ant degalinės  kad pamatyčiau degalinės informaciją,1,1,1
+Aš kaip vartotojas  noriu prisijungti su savo socialinio tinklo paskyra prie mobilios programėlės  kad galėčiau nekurti naujos paskyros,1,1,1
+Aš kaip vartotojas  noriu užsakyti prekių pristatymą į namus  kad nereikėtų važiuoti,1,1,1
 Aš kaip vartotojas  noriu turėti paieškos funkciją svetainėje  kad galėčiau greitai rasti reikiamą informaciją,1,1,1
 Aš kaip vartotojas  noriu turėti programėlės pamokas  kad galėčiau efektyviai naudotis visomis funkcijomis,1,1,0
 Aš kaip vartotojas  noriu turėti tiesioginį pokalbio funkciją  kad galėčiau gauti tiesioginę pagalbą naršydamas el  svetainėje,1,1,1
