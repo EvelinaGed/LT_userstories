@@ -119,19 +119,19 @@ Aš kaip sistemų dizaineris noriu kurti vartotojo sąsajas ir testuoti jų pato
 Aš kaip sistemų dizaineris noriu analizuoti ir kurti dizaino sprendimus kad pagerinčiau naudotojo patirtį,0,1,0
 Aš kaip verslo analitikas noriu analizuoti ir stebėti vartotojų registracijos ir aktyvumo duomenis kad identifikuoti augimo galimybes,0,1,0
 Aš kaip marketingo specialistas noriu planuoti ir organizuoti renginius ir mokymus kad pristatyti platformos privalumus,0,1,0
-Aš kaip projektų vadovas noriu gauti savaitines ataskaitas apie užduočių atlikimą ir biudžeto vykdymą lentelės formatu kad galėčiau informuoti vadovus apie projekto pažangą el paštu,0,1,0
-Aš kaip treniruočių aplikacijos naudotojas noriu sekti pažangą kai yra įkvėpimas ir galbūt dar kai kada nors tai pasirodys tinkama,0,1,0
-Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti duomenis kai jie reikšmingi ar kai taip nuspręsiu pagal situaciją,0,1,0
-Aš kaip transporto aplikacijos naudotojas noriu matyti maršrutus kai jie pasikeičia arba kai jie gali turėti įtakos mano planams,0,1,0
-Aš kaip sveikatingumo aplikacijos naudotojas noriu stebėti aktyvumą kai tai aktualu ir kai yra laiko tai padaryti,0,1,0
-Aš kaip finansų stebėjimo aplikacijos naudotojas noriu peržiūrėti biudžetą kai tai svarbu ar kai jaučiu poreikį įvertinti situaciją,0,1,0
-Aš kaip elektroninės parduotuvės klientas noriu atrasti prekes kai yra poreikis arba kai atsiranda netikėtas noras,0,1,0
-Aš kaip el parduotuvės klientas noriu gauti pranešimą kai mano užsakymas išsiunčiamas ir kai yra galimybė sekti jo buvimo vietą,0,1,0
-Aš kaip kelionių programos naudotojas noriu peržiūrėti skrydžių kainas pasirinktam laikotarpiui ir galbūt palyginti jas su kitais variantais jei yra laiko,0,1,0
-Aš kaip finansų programėlės naudotojas noriu nustatyti mėnesinį biudžeto limitą skirtingoms išlaidų kategorijoms bet palikti galimybę tai koreguoti,0,1,0
-Aš kaip muzikos platformos vartotojas noriu surasti ir  išsaugoti dainą į savo grojaraštį vienu paspaudimu kad turėčiau mylimiausia grojaraštį,0,1,0
+Aš kaip projektų vadovas noriu gauti savaitines ataskaitas apie užduočių atlikimą ir biudžeto vykdymą lentelės formatu kad informuoti vadovus apie projekto pažangą el paštu,0,1,0
+Aš kaip treniruočių programėlės naudotojas noriu sekti ir matyti pažangą kai yra įkvėpimas kad sportuoti,0,1,0
+Aš kaip sveikatos stebėjimo programėlės naudotojas noriu registruoti ir analiztuoi duomenis kai jie reikšmingi kad sulyginti su praeitais metais,0,1,0
+Aš kaip transporto programėlės naudotojas noriu matyti ir naudoti maršrutus kai jie pasikeičia kad būčiau informuotas apie pasikeitimus,0,1,0
+Aš kaip sveikatingumo programėlės naudotojas noriu stebėti ir dalintis aktyvumu kai tai aktualu kad dalintis sveikata su kitais,0,1,0
+Aš kaip finansų stebėjimo aplikacijos naudotojas noriu peržiūrėti ir išanalizuoti biudžetą kai tai svarbu kad suplanuoti ateities biudžetą,0,1,0
+Aš kaip elektroninės parduotuvės klientas noriu atrasti prekes kai yra poreikis kad išpildyti norimų prekių norus,0,1,0
+Aš kaip el parduotuvės klientas noriu gauti ir būti informuotas apie pranešimą kai mano užsakymas išsiunčiamas kad sekti jo buvimo vietą,0,1,0
+Aš kaip kelionių programos naudotojas noriu peržiūrėti ir išanalizuoti skrydžių kainas pasirinktam laikotarpiui kad galbūt palyginti jas su kitais variantais jei yra laiko,0,1,0
+Aš kaip finansų programėlės naudotojas noriu peržiūrėti ir nustatyti mėnesinį biudžeto limitą skirtingoms išlaidų kategorijoms kad palikti galimybę tai koreguoti,0,1,0
+Aš kaip muzikos platformos vartotojas noriu surasti ir išsaugoti dainą į savo grojaraštį vienu paspaudimu kad turėti mylimiausia grojaraštį,0,1,0
 Aš kaip sistemos administratorius noriu sukurti ir pritaikyti automatizuotą atsarginių kopijų tvarkaraštį kad užtikrinti duomenų saugumą,0,1,0
-Aš kaip sistemų analitikas noriu sukurti ir naudoti interaktyvų duomenų vizualizavimo prietaisų skydelį kad stebėti ir analizuoti sistemos veikimą realiu arba įvariu  laiku,0,1,0
+Aš kaip sistemų analitikas noriu sukurti ir naudoti interaktyvų duomenų vizualizavimo prietaisų skydelį kad stebėti ir analizuoti sistemos veikimą realiu arba įvariu laiku,0,1,0
 Aš kaip sistemų inžinierius noriu įdiegti ir naudoti automatinį apkrovos balansavimo mechanizmą kad užtikrinti sistemos prieinamumą labai didelio srauto metu,0,1,0
 Aš kaip testuotojas noriu sukurti ir naudoti testavimo scenarijus skirtus patikrinti sistemos integravimą su išorinėmis sistemomis kad užtikrinti tinkamą duomenų mainų veikimą,0,1,0
 Aš kaip produkto savininkas noriu sukurti ir persiųsti vartotojo dokumentaciją skirtą naujai funkcijai kad vartotojai galėtų lengvai ją naudoti,0,1,0
@@ -146,7 +146,7 @@ Aš kaip mokytojas noriu sukurti ir pristatyti interaktyvias mokymo medžiagas s
 Aš kaip studentas noriu gauti pranešimus apie naujus paskaitų įrašus kad mokytis savarankiškai bet kuriuo pasirinktu metu,0,1,0
 Aš kaip gydytojas noriu sukurti pacientų priminimus apie vaistų vartojimą kad priminčiau ir pagerinčiau gydymą iki aukštų rezultatų,0,1,0
 Aš kaip žurnalistas noriu sukurti automatizuotus pranešimus apie naujas publikacijas kad greitai reaguoti į naujienas,0,1,0
-Aš kaip vartotojas noriu matyti ir gauti kažkokią informaciją kuri galbūt bus naudinga bet dar neaišku kokiam tikslui kad ,0,1,0
+Aš kaip vartotojas noriu matyti ir gauti kažkokią informaciją kuri galbūt bus naudinga bet dar neaišku kokiam tikslui kad likčiau informuotas,0,1,0
 Aš kaip pirkėjas noriu pasirinkti ir atsisiųsti pačias didžiausias prekes kad nereikėtų patiems važiuoti pasiimti,0,1,0
 Aš kaip naudotojas noriu gauti ir būti informuotas apie atnaujintą kažkokią mobiliąją programėlę kad laiku atsinaujinti,0,1,0
 Aš kaip mobilios programėlės vartotojas noriu panaikinti prikabintą kelionės lapą kad įkelti naują su teisingais duomenimis,0,1,1
