@@ -1,13 +1,13 @@
 ﻿User stories, KR1, KR2, KR3
-Aš kaip administratorius noriu atkurti vartotojų slaptažodžius kad galėčiau jiems padėti atgauti prieigą,1,1,1
+Aš kaip administratorius noriu atkurti vartotojų slaptažodžius kad padėti atgauti prieigą,1,1,1
 Aš kaip administratorius noriu sukurti blokuojamų el paštų sąrašą kad nesiregistruotų klientai su netikrais el paštais,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu matyti degalų kainą kad žinotikiek kainuoja,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu nusipirkti automobilio plovimą per programėlę  kad nereikėtų eiti į degalinę,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu pabendrinti programėlę draugui  kad draugas galėtų atsisiųti programėlę,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu pagrindiniame lange matyti turimus automobilio plovyklos abonementus kad žinoti kiek turiu aktyvių abonementų,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu prisidėti bankinę kortelę kad galėčiau atsiskaityti,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu prisidėti bankinę kortelę kad atsiskaityti,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu prisidėti kelias lojalumo korteles kad matyti savo kaupimus,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu suvesti nuolaidos kodą  kad gauti nuolaidą kitam apsipirkimui,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu suvesti nuolaidos kodą kad gauti nuolaidą kitam apsipirkimui,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu ištrinti pasirinktus filtrus prie degalinių sąrašo kad matyti pilną sąrašą,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu nusipirkti automobilio abonementą mėnesiui kad nereikėtų pirkti kiekvieną dieną,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu pasirinkti kalbą  kad rodytų informaciją suprantama kalba,1,1,1
@@ -20,20 +20,20 @@ Aš kaip programuotojas noriu sukurti vartotojui galimybę aktyvuoti kuponą  ka
 Aš kaip registruotas vartotojas noriu atkurti savo slaptažodį  kad neprarasčiau prieigos prie savo paskyros,1,1,1
 Aš kaip suinteresuota šalis noriu informuoti klientus apie taisyklių pakeitimus kad klientai būtų informuoti,1,1,1
 Aš kaip suinteresuota šalis  noriu suteikti galimybę vartotojams peržiūrėti kelias skirtingas prekes tame pačiame puslapyje kad nereikėtų iš naujo atidaryti svetainės lango,1,1,1
-Aš kaip svetainės lankytojas noriu paskyroje pasikeisti telefono numerį  kad būtų įrašytas aktyvus telefono numeris,1,1,1
+Aš kaip svetainės lankytojas noriu paskyroje pasikeisti telefono numerį kad būtų įrašytas aktyvus telefono numeris,1,1,1
 Aš kaip svetainės lankytojas noriu pranešti apie svetainės klaidas kad programuotojai galėtų pataisyti,1,1,1
-Aš kaip testuotojas  noriu automatizuoti regresijos testus  kad galėčiau greičiau aptikti pasikartojančias klaidas,1,1,1
+Aš kaip testuotojas  noriu automatizuoti regresijos testus kad aptikti pasikartojančias klaidas,1,1,1
 Aš kaip testuotojas  noriu gauti patvirtinimo kodus į el  paštą  kad nereikėtų jungtis į duomenų bazę,1,1,1
-Aš kaip testuotojas  noriu gauti pranešimus apie naujai išleistas programėles  kad ištestuoti funkcionalumus,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu matyti pagal segemento lygį nuolaidas kad žinočiau kiek reikia išleisti pinigų iki aukščiausio lygio,1,1,1
-Aš kaip testuotojas  noriu įvertinti saugumo spragas  kad užtikrinti  jog sistema yra apsaugota nuo galimų grėsmių,1,1,1
+Aš kaip testuotojas  noriu gauti pranešimus apie naujai išleistas programėles kad ištestuoti funkcionalumus,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu matyti pagal segemento lygį nuolaidas kad žinočiau kiek reikia išleisti pinigų iki aukščiausio lygio,1,1,1
+Aš kaip testuotojas  noriu įvertinti saugumo spragas kad užtikrinti  jog sistema yra apsaugota nuo grėsmių,1,1,1
 Aš kaip testuotojas  noriu naudoti testavimo aplinką  kuri imituoja tikras sąlygas kad tiksliau atkurti klaidas,1,1,1
 Aš kaip testuotojas  noriu naudoti testavimo scenarijų įrašymo įrankį  kad sukurti funkcinius testus,1,1,1
 Aš kaip testuotojas  noriu atnaujinti testų scenarijus pagal sistemos pakeitimus  kad mano testai visada atitiktų naujausią versiją,1,1,1
 Aš kaip testuotojas  noriu turėti prieigą prie testavimo duomenų bazės  kad patikrinti sistemos duomenų vientisumą,1,1,1
-Aš kaip testuotojas  noriu vykdyti mobiliųjų įrenginių testus  kad įsitikinčiau  jog programėlė veikia skirtinguose įrenginiuose,1,1,1
+Aš kaip testuotojas  noriu vykdyti mobiliųjų įrenginių testus  kad patikrinti programėlė veikia skirtinguose įrenginiuose,1,1,1
 Aš kaip testuotojas  noriu vykdyti streso testus  kad patikrinti sistemos stabilumą didelio krūvio sąlygomis,1,1,1
-Aš kaip testuotojas  noriu vykdyti testus skirtingose naršyklėse  kad užtikrinčiau sistemų suderinamumą,1,1,1
+Aš kaip testuotojas  noriu vykdyti testus skirtingose naršyklėse  kad užtikrinti sistemų suderinamumą,1,1,1
 Aš kaip turinio valdytojas  noriu paprastai naudojamos turinio valdymo sistemos kad atnaujinti svetainės turinį be techninių žinių,1,1,1
 Aš kaip vartotojas  noriu aktyvuoti kuponą programėlėje  kad pasinaudočiau lojalumo nuolaidomis,1,1,1
 Aš kaip mobilios programėlės vartotojas  noriu dalintis savo pasiekimais  kad parodyti savo progresą draugams,1,1,1
