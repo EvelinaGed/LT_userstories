@@ -1,57 +1,57 @@
 ﻿User stories, KR1, KR2, KR3
-Aš kaip administratorius noriu atkurti vartotojų slaptažodžius kad galėčiau jiems padėti atgauti prieigą  jei jie pamirštų savo prisijungimo duomenis,1,1,1
+Aš kaip administratorius noriu atkurti vartotojų slaptažodžius kad galėčiau jiems padėti atgauti prieigą,1,1,1
 Aš kaip administratorius noriu sukurti blokuojamų el paštų sąrašą kad nesiregistruotų klientai su netikrais el paštais,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu matyti degalų kainą kad žinočiau kiek kainuoja,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu matyti degalų kainą kad žinotikiek kainuoja,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu nusipirkti automobilio plovimą per programėlę  kad nereikėtų eiti į degalinę,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu pabendrinti programėlę draugui  kad draugas galėtų atsisiųti programėlę,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu pagrindiniame lange matyti turimus automobilio plovyklos abonementus kad žinočiau kiek turiu aktyvių abonementų,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu pabendrinti programėlę draugui  kad draugas galėtų atsisiųti programėlę,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu pagrindiniame lange matyti turimus automobilio plovyklos abonementus kad žinoti kiek turiu aktyvių abonementų,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu prisidėti bankinę kortelę kad galėčiau atsiskaityti,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu prisidėti kelias lojalumo korteles kad matyčiau savo kaupimus,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu suvesti nuolaidos kodą  kad gaučiau nuolaidą kitam apsipirkimui,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę ištrinti pasirinktus filtrus prie degalinių sąrašo  kad matyčiau pilną sąrašą,1,1,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę nusipirkti automobilio abonementą mėnesiui kad nereikėtų pirkti kiekvieną dieną,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę pasirinkti kalbą  kad rodytų informaciją suprantama kalba,1,1,1
-Aš kaip programėlės vartotojas noriu atsiimti nemokamą kavą kad galėčiau pasinaudoti sukauptu kuponu,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu prisidėti kelias lojalumo korteles kad matyti savo kaupimus,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu suvesti nuolaidos kodą  kad gauti nuolaidą kitam apsipirkimui,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu ištrinti pasirinktus filtrus prie degalinių sąrašo kad matyti pilną sąrašą,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu nusipirkti automobilio abonementą mėnesiui kad nereikėtų pirkti kiekvieną dieną,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu pasirinkti kalbą  kad rodytų informaciją suprantama kalba,1,1,1
+Aš kaip programėlės vartotojas noriu atsiimti nemokamą kavą kad pasinaudoti sukauptu kuponu,1,1,1
 Aš kaip programuotojas noriu padaryti sinchronizacija lojalumo sistemoje su mobilia programėle kad rodytų tuos pačius duomenis,1,1,1
 Aš kaip programuotojas noriu sukurti automatinį kupono aktyvavimą kad vartotojui nereikėtų aktyvuoti rankiniu būdu,1,1,1
-Aš kaip programuotojas  noriu sukurti popierinio kvito spausdinimo išjungimą mobilioje programėlėje kad pasirinkti nespausdinti kvitų,1,1,1
+Aš kaip programuotojas noriu sukurti popierinio kvito spausdinimo išjungimą mobilioje programėlėje kad pasirinkti nespausdinti kvitų,1,1,1
 Aš kaip programuotojas noriu sukurti mėgstamiausių parduotuvių sąrašą  kad vartotojai galėtų sudaryti mėgstamiausią sąrašą,1,1,1
 Aš kaip programuotojas noriu sukurti vartotojui galimybę aktyvuoti kuponą  kad galėtų norimu laiku aktyvuoti,1,1,1
 Aš kaip registruotas vartotojas noriu turėti galimybę atkurti savo slaptažodį  kad neprarasčiau prieigos prie savo paskyros,1,1,1
 Aš kaip suinteresuota šalis noriu informuoti klientus apie taisyklių pakeitimus kad klientai būtų informuoti,1,1,1
 Aš kaip suinteresuota šalis  noriu suteikti galimybę vartotojams peržiūrėti kelias skirtingas prekes tame pačiame puslapyje kad nereikėtų iš naujo atidaryti svetainės lango,1,1,1
-Aš kaip svetainės lankytojas  noriu paskyroje pasikeisti telefono numerį  kad būtų įrašytas aktyvus telefono numeris,1,1,1
-Aš kaip svetainės lankytojas  noriu turėti galimybę pranešti apie svetainės klaidas  kad programuotojai galėtų pataisyti,1,1,1
+Aš kaip svetainės lankytojas noriu paskyroje pasikeisti telefono numerį  kad būtų įrašytas aktyvus telefono numeris,1,1,1
+Aš kaip svetainės lankytojas noriu turėti galimybę pranešti apie svetainės klaidas kad programuotojai galėtų pataisyti,1,1,1
 Aš kaip testuotojas  noriu automatizuoti regresijos testus  kad galėčiau greičiau aptikti pasikartojančias klaidas,1,1,1
 Aš kaip testuotojas  noriu gauti patvirtinimo kodus į el  paštą  kad nereikėtų jungtis į duomenų bazę,1,1,1
-Aš kaip testuotojas  noriu gauti pranešimus apie naujai išleistas programėles  kad galėčiau ištestuoti funkcionalumus,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu matyti pagal segemento lygį nuolaidas  kad žinočiau kiek reikia išleisti pinigų iki aukščiausio lygio,1,1,1
-Aš kaip testuotojas  noriu įvertinti saugumo spragas  kad galėčiau užtikrinti  jog sistema yra apsaugota nuo galimų grėsmių,1,1,1
-Aš kaip testuotojas  noriu naudoti testavimo aplinką  kuri imituoja tikras sąlygas  kad galėčiau tiksliau atkurti klaidas,1,1,1
-Aš kaip testuotojas  noriu naudoti testavimo scenarijų įrašymo įrankį  kad galėčiau greičiau sukurti funkcinius testus,1,1,1
+Aš kaip testuotojas  noriu gauti pranešimus apie naujai išleistas programėles  kad ištestuoti funkcionalumus,1,1,1
+Aš kaip mobilios programėlės vartotojas  noriu matyti pagal segemento lygį nuolaidas kad žinočiau kiek reikia išleisti pinigų iki aukščiausio lygio,1,1,1
+Aš kaip testuotojas  noriu įvertinti saugumo spragas  kad užtikrinti  jog sistema yra apsaugota nuo galimų grėsmių,1,1,1
+Aš kaip testuotojas  noriu naudoti testavimo aplinką  kuri imituoja tikras sąlygas kad tiksliau atkurti klaidas,1,1,1
+Aš kaip testuotojas  noriu naudoti testavimo scenarijų įrašymo įrankį  kad sukurti funkcinius testus,1,1,1
 Aš kaip testuotojas  noriu turėti galimybę atnaujinti testų scenarijus pagal sistemos pakeitimus  kad mano testai visada atitiktų naujausią versiją,1,1,1
-Aš kaip testuotojas  noriu turėti prieigą prie testavimo duomenų bazės  kad galėčiau patikrinti sistemos duomenų vientisumą,1,1,1
+Aš kaip testuotojas  noriu turėti prieigą prie testavimo duomenų bazės  kad patikrinti sistemos duomenų vientisumą,1,1,1
 Aš kaip testuotojas  noriu vykdyti mobiliųjų įrenginių testus  kad įsitikinčiau  jog programėlė veikia skirtinguose įrenginiuose,1,1,1
-Aš kaip testuotojas  noriu vykdyti streso testus  kad galėčiau patikrinti sistemos stabilumą didelio krūvio sąlygomis,1,1,1
+Aš kaip testuotojas  noriu vykdyti streso testus  kad patikrinti sistemos stabilumą didelio krūvio sąlygomis,1,1,1
 Aš kaip testuotojas  noriu vykdyti testus skirtingose naršyklėse  kad užtikrinčiau sistemų suderinamumą,1,1,1
-Aš kaip turinio valdytojas  noriu paprastai naudojamos turinio valdymo sistemos  kad galėčiau atnaujinti svetainės turinį be techninių žinių,1,1,1
+Aš kaip turinio valdytojas  noriu paprastai naudojamos turinio valdymo sistemos kad atnaujinti svetainės turinį be techninių žinių,1,1,1
 Aš kaip vartotojas  noriu aktyvuoti kuponą programėlėje  kad pasinaudočiau lojalumo nuolaidomis,1,1,1
-Aš kaip mobilios programėlės vartotojas  noriu dalintis savo pasiekimais  kad galėčiau parodyti savo progresą draugams,1,1,1
-Aš kaip vartotojas  noriu dalyvauti mobilios programėlės žaidime  kad laimėčiau prizą,1,1,1
+Aš kaip mobilios programėlės vartotojas  noriu dalintis savo pasiekimais  kad parodyti savo progresą draugams,1,1,1
+Aš kaip vartotojas  noriu dalyvauti mobilios programėlės žaidime  kad laimėti prizą,1,1,1
 Aš kaip vartotojas  noriu gauti greitą ir efektyvią pagalbą per integruotą pagalbos centrą  kad galėčiau išspręsti savo problemas nedelsiant,1,1,1
-Aš kaip vartotojas  noriu gauti push pranešimus apie naujas žinutes  kad galėčiau būti informuotas realiu laiku,1,1,1
-Aš kaip vartotojas  noriu matyti išleistą pinigų sumą per mėnesį  kad galėčiau žinoti savo išlaidas,1,1,1
+Aš kaip vartotojas  noriu gauti push pranešimus apie naujas žinutes kad  būti informuotas realiu laiku,1,1,1
+Aš kaip vartotojas  noriu matyti išleistą pinigų sumą per mėnesį  kad žinoti savo išlaidas,1,1,1
 Aš kaip vartotojas  noriu matyti kiek laiko aktyvuotas kuponas  kad žinočiau per laiko panaudoti,1,1,1
 Aš kaip vartotojas  noriu matyti sukauptų taškų sumą  kad galėčiau juos panaudoti,1,1,1
 Aš kaip vartotojas  noriu nupirktą automobilio plovimą persiųsti draugui  kad draugas galėtų pasinaudoti,1,1,1
 Aš kaip vartotojas  noriu pritaikyti aplikacijos temą  kad galėčiau suasmeninti savo patirtį,1,1,1
-Aš kaip vartotojas  noriu sinchronizuoti savo aplikacijos duomenis tarp kelių įrenginių  kad galėčiau turėti sklandžią patirtį,1,1,1
-Aš kaip vartotojas  noriu turėti galimybę paspausti žemėlapyje ant degalinės  kad pamatyčiau degalinės informaciją,1,1,1
-Aš kaip vartotojas  noriu turėti galimybę prisijungti su savo socialinio tinklo paskyra prie mobilios programėlės  kad galėčiau nekurti naujos paskyros,1,1,1
-Aš kaip vartotojas  noriu turėti galimybę užsakyti prekių pristatymą į namus  kad nereikėtų važiuoti,1,1,1
+Aš kaip vartotojas  noriu sinchronizuoti savo aplikacijos duomenis tarp kelių įrenginių  kad turėti sklandžią patirtį,1,1,1
+Aš kaip vartotojas  noriu paspausti žemėlapyje ant degalinės  kad pamatyčiau degalinės informaciją,1,1,1
+Aš kaip vartotojas  noriu prisijungti su savo socialinio tinklo paskyra prie mobilios programėlės kad nekurti naujos paskyros,1,1,1
+Aš kaip vartotojas  noriu užsakyti prekių pristatymą į namus kad nereikėtų važiuoti,1,1,1
 Aš kaip auksinis lojalumo vartotojas noriu gauti procentų nuolaidas,1,0,1
 Aš kaip buhalteris noriu gauti pranešimus apie naujai įkeltas paslaugų sutartis,1,0,1
-Aš kaip e-parduotuvės lankytojas noriu turėti galimybę palyginti produktus,1,0,1
+Aš kaip e-parduotuvės lankytojas noriu palyginti produktus,1,0,1
 Aš kaip e-svetainės vartotojas noriu įsidėti į krepšelį norimas prekes,1,0,1
 Aš kaip e-svetainės vartotojas noriu ištrinti prekes iš krepšelio,1,0,1
 Aš kaip interneto svetainės lankytojas noriu matyti pritaikytą turinį pagal mano interesus,1,0,1
@@ -71,19 +71,19 @@ Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie riboto l
 Aš kaip mobilios programėlės vartotojas noriu matyti artimiausių kelių degalinių kainų palyginimą,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti atsiliepimus apie degalines kurios siūlo nuolaidas,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidas artimiausioje degalinėje,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidų akcijas įvairioms kuro rūšims,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidų akcijas kuro rūšims,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti nuolaidų istoriją,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti praeities kuro kainų pokyčius,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę dalintis kuro nuolaidomis su draugais,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę iš anksto užsisakyti kurą su nuolaida,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę išnaudoti kauptus taškus kitoms prekėms,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę peržiūrėti savo visų laikų sutaupytus pinigus naudojant nuolaidas,1,0,1
-Aš kaip mobilios programėlės programuotojas noriu sukurti įvairias animacijas,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu dalintis kuro nuolaidomis su draugais,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu iš anksto užsisakyti kurą su nuolaida,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu išnaudoti kauptus taškus kitoms prekėms,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu peržiūrėti savo visų laikų sutaupytus pinigus naudojant nuolaidas,1,0,1
+Aš kaip mobilios programėlės programuotojas noriu sukurti animacijas,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti savo lojalumo nuolaidas,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu pasidalinti su draugais apie pasiektą kitą lojalumo lygį,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu sukurti piniginės saugos kodą,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę filtruoti degalines,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę sustabdyti užsakytą kurą nuotoliniu būdu,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu filtruoti degalines,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu sustabdyti užsakytą kurą nuotoliniu būdu,1,0,1
 Aš kaip programuotojas noriu pagerinti mobilios programėlės užsikrovimo laiką,1,0,1
 Aš kaip verslo klientas noriu ištrinti keturių metų senumo nenaudojamus vartotojų lojalumo taškus,1,0,1
 Aš kaip verslo klientas noriu naujai užregistruotui klientui rodyti sveikinimo animaciją,1,0,1
@@ -96,29 +96,29 @@ Aš kaip projektų vadovas noriu naudoti projekto biudžeto valdymo įrankius,1,
 Aš kaip IT infrastruktūros specialistas noriu naudoti debesų kompiuterijos sprendimus,1,0,1
 Aš kaip IT infrastruktūros specialistas noriu naudoti virtualizacijos technologijas,1,0,1
 Aš kaip programinės įrangos kūrėjas noriu naudoti optimizavimo įrankį,1,0,1
-Aš kaip el. parduotuvės vartotojas noriu turėti galimybę išsaugoti savo mėgstamus produktus,1,0,1
+Aš kaip el. parduotuvės vartotojas noriu išsaugoti savo mėgstamus produktus,1,0,1
 Aš kaip projektų vadovas noriu naudoti projektų planavimo įrankius,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę naudoti programėlę keliose įrenginiuose,1,0,1
-Aš kaip programuotojas noriu optimizuoti duomenų bazės užklausas kad būtų užtikrintas greitas prekių paieškos ir filtravimo veikimas net esant dideliam duomenų kiekiui,0,1,0
-Aš kaip programuotojas noriu sukurti prisijungimą per socialinius tinklus kad vartotojai galėtų lengviau susikurti paskyrą ir nereikėtų įvesti daug informacijos,0,1,0
-Aš kaip administratorius noriu turėti įrankį vartotojų užklausoms analizuoti kad galėčiau suprasti kokios prekės yra populiariausios ir kokios problemos kyla dažniausiai,0,1,0
-Aš kaip UI/UX dizaineris noriu sukurti aiškią ir patogiai naudojamą navigaciją kad vartotojai lengvai rastų reikiamą informaciją,0,1,0
-Aš kaip techninės pagalbos specialistas noriu greitai gauti informaciją apie kliento problemą kad galėčiau efektyviai ją spręsti,0,1,0
-Aš kaip produktų katalogo tvarkytojas noriu turėti galimybę lengvai pridėti ir redaguoti prekes kad jos būtų aktualios,0,1,0
-Aš kaip verslo konsultantas noriu teikti rekomendacijas kad padidinčiau įmonės efektyvumą,0,1,0
-Aš kaip testuotojas noriu automatizuoti testus kad būtų mažiau klaidų,0,1,0
-Aš kaip produktų savininkas noriu nustatyti viziją kad būtų aiškiau,0,1,0
-Aš kaip verslo konsultantas noriu teikti rekomendacijas kad būtų efektyviau,0,1,0
-Aš kaip klientų aptarnavimo vadybininkas noriu stebėti kokybę kad būtų daugiau norinčių pirkti klientų,0,1,0
-Aš kaip verslo analitikas noriu analizuoti procesus kad būtų optimizacija,0,1,0
-Aš kaip produktų savininkas noriu nustatyti viziją kad būtų sėkmė,0,1,0
-Aš kaip kokybės kontrolės specialistas noriu stebėti procesą kad būtų kokybė,0,1,0
-Aš kaip vadovas noriu kad mano komanda būtų produktyvesnė kad greičiau užbaigtume projektus,0,1,0
+Aš kaip mobilios programėlės vartotojas noriu naudoti programėlę keliose įrenginiuose,1,0,1
+Aš kaip programuotojas noriu optimizuoti ir pritaikyti duomenų bazės užklausas kad būtų užtikrintas greitas prekių paieškos ir filtravimo veikimas net esant dideliam duomenų kiekiui,0,1,0
+Aš kaip programuotojas noriu sukurti ir leisti prisijungimą per socialinius tinklus kad vartotojai galėtų lengviau susikurti paskyrą ir nereikėtų įvesti daug informacijos,0,1,0
+Aš kaip administratorius noriu turėti įrankį vartotojų užklausoms analizuoti ir spręsti kad suprasti kokios prekės yra populiariausios ir kokios problemos kyla dažniausiai,0,1,0
+Aš kaip UI/UX dizaineris noriu sukurti ir naudoti aiškiai patogiai naudojamą navigaciją kad vartotojai lengvai rastų reikiamą informaciją,0,1,0
+Aš kaip techninės pagalbos specialistas noriu greitai gauti ir analizuoti informaciją apie kliento problemą kad efektyviai ją spręsti,0,1,0
+Aš kaip produktų katalogo tvarkytojas noriu lengvai pridėti ir redaguoti prekes kad jos būtų aktualios,0,1,0
+Aš kaip verslo konsultantas noriu teikti ir siūlyti rekomendacijas kad padidinčiau įmonės efektyvumą,0,1,0
+Aš kaip testuotojas noriu pasiūlyti ir automatizuoti testus kad būtų mažiau klaidų,0,1,0
+Aš kaip produktų savininkas noriu nustatyti ir pasidalinti viziją kad būtų aiškiau,0,1,0
+Aš kaip verslo konsultantas noriu teikti ir pardavinėti rekomendacijas kad būtų efektyviau,0,1,0
+Aš kaip klientų aptarnavimo vadybininkas noriu stebėti ir analizuoti kokybę kad būtų daugiau norinčių pirkti klientų,0,1,0
+Aš kaip verslo analitikas noriu analizuoti ir spręsti apie procesus kad būtų optimizacija,0,1,0
+Aš kaip produktų savininkas noriu nustatyti ir apsibrėžti viziją kad būtų sėkmė,0,1,0
+Aš kaip kokybės kontrolės specialistas noriu stebėti ir analiztuoi procesą kad būtų žiauria gera kokybė,0,1,0
+Aš kaip vadovas noriu jog mano komanda būtų ir dirbtų produktyvesnė kad greičiau užbaigtume projektus,0,1,0
 Aš kaip studentas noriu turėti prieigą prie mokymosi medžiagos kad galėčiau geriau suprasti temas ir pasiruošti atsiskaitymams,0,1,0
 Aš kaip sistemų dizaineris noriu kurti vartotojo sąsajas ir testuoti jų patogumą kad padidinčiau vartotojų pasitenkinimą,0,1,0
-Aš kaip sistemų dizaineris noriu analizuoti vartotojų elgseną ir kurti dizaino sprendimus kad pagerinčiau naudotojo patirtį,0,1,0
-Aš kaip verslo analitikas noriu analizuoti vartotojų registracijos ir aktyvumo duomenis kad galėčiau identifikuoti augimo galimybes,0,1,0
-Aš kaip marketingo specialistas noriu organizuoti renginius ir mokymus kad galėčiau pristatyti platformos privalumus,0,1,0
+Aš kaip sistemų dizaineris noriu analizuoti ir kurti dizaino sprendimus kad pagerinčiau naudotojo patirtį,0,1,0
+Aš kaip verslo analitikas noriu analizuoti ir stebėti vartotojų registracijos ir aktyvumo duomenis kad identifikuoti augimo galimybes,0,1,0
+Aš kaip marketingo specialistas noriu planuoti ir organizuoti renginius ir mokymus kad pristatyti platformos privalumus,0,1,0
 Aš kaip projektų vadovas noriu gauti savaitines ataskaitas apie užduočių atlikimą ir biudžeto vykdymą lentelės formatu kad galėčiau informuoti vadovus apie projekto pažangą el paštu,0,1,0
 Aš kaip treniruočių aplikacijos naudotojas noriu sekti pažangą kai yra įkvėpimas ir galbūt dar kai kada nors tai pasirodys tinkama,0,1,0
 Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu registruoti duomenis kai jie reikšmingi ar kai taip nuspręsiu pagal situaciją,0,1,0
@@ -129,98 +129,98 @@ Aš kaip elektroninės parduotuvės klientas noriu atrasti prekes kai yra poreik
 Aš kaip el parduotuvės klientas noriu gauti pranešimą kai mano užsakymas išsiunčiamas ir kai yra galimybė sekti jo buvimo vietą,0,1,0
 Aš kaip kelionių programos naudotojas noriu peržiūrėti skrydžių kainas pasirinktam laikotarpiui ir galbūt palyginti jas su kitais variantais jei yra laiko,0,1,0
 Aš kaip finansų programėlės naudotojas noriu nustatyti mėnesinį biudžeto limitą skirtingoms išlaidų kategorijoms bet palikti galimybę tai koreguoti,0,1,0
-Aš kaip muzikos platformos vartotojas noriu išsaugoti dainą į savo grojaraštį vienu paspaudimu arba galbūt kitu būdu jeigu taip būtų patogiau,0,1,0
-Aš kaip sistemos administratorius noriu sukurti automatizuotą atsarginių kopijų tvarkaraštį kad užtikrinčiau duomenų saugumą,0,1,0
-Aš kaip sistemų analitikas noriu sukurti interaktyvų duomenų vizualizavimo prietaisų skydelį kad galėčiau stebėti ir analizuoti sistemos veikimą realiu arba įvariu  laiku,0,1,0
-Aš kaip sistemų inžinierius noriu įdiegti automatinį apkrovos balansavimo mechanizmą kad užtikrinčiau sistemos prieinamumą labai didelio srauto metu,0,1,0
-Aš kaip testuotojas noriu sukurti testavimo scenarijus skirtus patikrinti sistemos integravimą su išorinėmis sistemomis kad užtikrinčiau tinkamą duomenų mainų veikimą,0,1,0
-Aš kaip produkto savininkas noriu sukurti vartotojo vadovą skirtą naujai funkcijai kad vartotojai galėtų lengvai ją naudoti,0,1,0
-Aš kaip projekto vadovas noriu sukurti rizikos valdymo planą kad galėčiau numatyti ir valdyti galimas projekto problemas,0,1,0
-Aš kaip dizaineris noriu sukurti interaktyvų prototipą skirtą vartotojo srautui kad galėčiau patikrinti jo efektyvumą,0,1,0
-Aš kaip turinio kūrėjas noriu sukurti SEO optimizuotus straipsnius skirtus pritraukti organinį srautą į svetainę ir galbūt pasiekti dar kitų rezultatų priklausomai nuo poreikių,0,1,0
-Aš kaip rinkodaros specialistas noriu sukurti automatizuotą el pašto kampaniją skirtą pritraukti naujus klientus ir palaikyti senus jei tai pasiteisins ir nebus kitų prioritetų,0,1,0
-Aš kaip pardavimų vadybininkas noriu sukurti pardavimo ataskaitas skirtas analizuoti pardavimų įvairias ir populiaras tendencijas bei įvertinti kitus neapibrėžtus rodiklius,0,1,0
-Aš kaip finansininkas noriu sukurti finansines ataskaitas skirtas analizuoti įmonės pelningumą ir skolas arba delspinigius jei tokie duomenys bus prieinami ir aktualūs,0,1,0
+Aš kaip muzikos platformos vartotojas noriu surasti ir  išsaugoti dainą į savo grojaraštį vienu paspaudimu kad turėčiau mylimiausia grojaraštį,0,1,0
+Aš kaip sistemos administratorius noriu sukurti ir pritaikyti automatizuotą atsarginių kopijų tvarkaraštį kad užtikrinti duomenų saugumą,0,1,0
+Aš kaip sistemų analitikas noriu sukurti ir naudoti interaktyvų duomenų vizualizavimo prietaisų skydelį kad stebėti ir analizuoti sistemos veikimą realiu arba įvariu  laiku,0,1,0
+Aš kaip sistemų inžinierius noriu įdiegti ir naudoti automatinį apkrovos balansavimo mechanizmą kad užtikrinti sistemos prieinamumą labai didelio srauto metu,0,1,0
+Aš kaip testuotojas noriu sukurti ir naudoti testavimo scenarijus skirtus patikrinti sistemos integravimą su išorinėmis sistemomis kad užtikrinti tinkamą duomenų mainų veikimą,0,1,0
+Aš kaip produkto savininkas noriu sukurti ir persiųsti vartotojo dokumentaciją skirtą naujai funkcijai kad vartotojai galėtų lengvai ją naudoti,0,1,0
+Aš kaip projekto vadovas noriu sukurti ir naudoti rizikos valdymo planą kad numatyti ir valdyti galimas projekto problemas,0,1,0
+Aš kaip dizaineris noriu sukurti ir naudoti interaktyvų prototipą skirtą vartotojo srautui kad patikrinti jo efektyvumą,0,1,0
+Aš kaip turinio kūrėjas noriu sukurti ir pritaikyti SEO optimizuotus straipsnius skirtus pritraukti organinį srautą į svetainę kad galbūt pasiekti dar kitų rezultatų priklausomai nuo poreikių,0,1,0
+Aš kaip rinkodaros specialistas noriu sukurti ir pritaikyti automatizuotą el pašto kampaniją skirtą pritraukti naujus klientus kad palaikyti senus jei tai pasiteisins ir nebus kitų prioritetų,0,1,0
+Aš kaip pardavimų vadybininkas noriu sukurti ir peržiūrėti pardavimo ataskaitas skirtas analizuoti pardavimų įvairias ir populiaras tendencijas kad įvertinti kitus neapibrėžtus rodiklius,0,1,0
+Aš kaip finansininkas noriu sukurti finansines ataskaitas skirtas analizuoti įmonės pelningumą ir skolas arba delspinigius kad sutikrinti dokumentus,0,1,0
 Aš kaip teisininkas noriu sukurti duomenų apsaugos politiką skirtą užtikrinti atitiktį GDPR reikalavimams kad įmonė atitiktų saugumo reikalavimus,0,1,0
-Aš kaip mokytojas noriu sukurti interaktyvias mokymo medžiagas skirtas padaryti mokymąsi įdomesnį ir galbūt labiau įtraukiantį priklausomai nuo auditorijos,0,1,0
-Aš kaip studentas noriu gauti pranešimus apie naujus paskaitų įrašus kad galėčiau mokytis savarankiškai bet kuriuo pasirinktu metu,0,1,0
+Aš kaip mokytojas noriu sukurti ir pristatyti interaktyvias mokymo medžiagas skirtas padaryti mokymąsi įdomesnį kad galbūt labiau įtraukti auditoriją,0,1,0
+Aš kaip studentas noriu gauti pranešimus apie naujus paskaitų įrašus kad mokytis savarankiškai bet kuriuo pasirinktu metu,0,1,0
 Aš kaip gydytojas noriu sukurti pacientų priminimus apie vaistų vartojimą kad priminčiau ir pagerinčiau gydymą iki aukštų rezultatų,0,1,0
-Aš kaip žurnalistas noriu sukurti automatizuotus pranešimus apie naujas publikacijas kad galėčiau greitai reaguoti į naujienas,0,1,0
+Aš kaip žurnalistas noriu sukurti automatizuotus pranešimus apie naujas publikacijas kad greitai reaguoti į naujienas,0,1,0
 Aš kaip vartotojas noriu matyti ir gauti kažkokią informaciją kuri galbūt bus naudinga bet dar neaišku kokiam tikslui,0,1,0
-Aš kaip pirkėjas noriu pasirinkti pačias didžiausias prekes ir jas atsisiųsti jei tik bus galimybė ir tinkamas laikas,0,1,0
-Aš kaip naudotojas noriu gauti naujienas ir būti informuotas apie atnaujintą kažkokią mobiliąją programėlę bet nebūtinai ją naudoti,0,1,0
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę panaikinti prikabintą kelionės lapą kad galėčiau įkelti naują su teisingais duomenimis,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu užsakyti kuro pylimą nuotoliniu būdu ir apmokėti už vairuotoją,0,1,1
+Aš kaip pirkėjas noriu pasirinkti ir atsisiųsti pačias didžiausias prekes kad nereikėtų patiems važiuoti pasiimti,0,1,0
+Aš kaip naudotojas noriu gauti ir būti informuotas apie atnaujintą kažkokią mobiliąją programėlę kad laiku atsinaujinti,0,1,0
+Aš kaip mobilios programėlės vartotojas noriu turėti galimybę panaikinti prikabintą kelionės lapą kad įkelti naują su teisingais duomenimis,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu užsakyti kuro pylimą nuotoliniu būdu ir apmokėti už vairuotoją kad ,0,1,1
 Aš kaip mobilios programėlės vartotojas noriu užsiregistruoti į programėlę be nuolaidų kortelės ir gauti naują virtualią nuolaidų kortelę,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę pasirinkti filtrus ir surasti tinkamą parduotuvę,0,1,1
-Aš kaip naujas lojalumo vartotojas noriu užsiregistruoti į sistemą ir gauti nuolaidas,0,1,1
-Aš kaip parduotuvės personalo vadovas noriu sistemoje sukurti nuolaidas savo darbuotojams ir sudaryti galimybę jiems jomis pasinaudoti,0,1,1
-Aš kaip personalo vadybininkas noriu automatizuoti laiškų siuntimą iš vienos sistemos ir neberašyti kiekvienam kandidatui atskirai,0,1,1
-Aš kaip personalo vadybininkas noriu gauti pranešimus kai pasikeičia darbuotojų pareigos ir paruošti reikalingus dokumentus,0,1,1
-Aš kaip personalo vadybininkas noriu personalo procesų sistemoje matyti visų darbuotojų atostogas ir planuoti darbo grafikus,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu pasirinkti filtrus ir surasti tinkamą parduotuvę kad nukeliauti apsipirkti,0,1,1
+Aš kaip naujas lojalumo vartotojas noriu užsiregistruoti į sistemą ir gauti nuolaidas kad pasinaudoti naudomi,0,1,1
+Aš kaip parduotuvės personalo vadovas noriu sistemoje sukurti nuolaidas savo darbuotojams ir sudaryti galimybę jiems jomis pasinaudoti kad apsipirktų ,0,1,1
+Aš kaip personalo vadybininkas noriu sukurti ir neberašyti kiekvienam kandidatui atskirai kad automatizuoti laiškų siuntimą iš vienos sistemos ,0,1,1
+Aš kaip personalo vadybininkas noriu gauti pranešimus kai pasikeiti darbuotojų pareigos ir paruošti reikalingus dokumentus,0,1,1
+Aš kaip personalo vadybininkas noriu matyti ir išanalizuoti personalo procesų sistemoje visų darbuotojų atostogas kad planuoti darbo grafikus,0,1,1
 Aš kaip personalo vadybininkas noriu sujungti kandidatų korteles su darbuotojų kortelėmis kad būtų vieningi įrašai,0,1,1
-Aš kaip personalo vadybininkas noriu personalo procesų sistemoje patvirtinti kasmėnesinius priedus ir sutikrinti jų sumas,0,1,1
-Aš kaip personalo vadybininkas noriu priskirti bandomojo laikotarpio užduotis darbuotojui ir nurodyti jų tikslus,0,1,1
-Aš kaip personalo vadybininkas noriu personalo procesų sistemoje sukurti kandidato kortelę ir sužymėti visą svarbią informaciją,0,1,1
-Aš kaip personalo vadybininkas noriu sistemoje matyti darbuotojų sąrašą ir tvarkyti jų dokumentus,0,1,1
-Aš kaip personalo vadybininkas noriu sistemoje tvirtinti darbuotojų atostogų prašymus ir suteikti jiems leidimą eiti atostogų,0,1,1
-Aš kaip personalo vadybininkas noriu sukurti naujienų įrašą vidiniame intranete ir informuoti darbuotojus apie naujienas,0,1,1
-Aš kaip personalo vadybininkas noriu tvarkyti komandiruočių įrašus ir paruošti su jomis susijusius įsakymus,0,1,1
+Aš kaip personalo vadybininkas noriu personalo procesų sistemoje sutikrinti ir patvirtinti kasmėnesinius priedus kad suformuoti įsakymus,0,1,1
+Aš kaip personalo vadybininkas noriu sukurti ir priskirti bandomojo laikotarpio užduotis darbuotojui kad nurodyti tikslus,0,1,1
+Aš kaip personalo vadybininkas noriu personalo procesų sistemoje sukurti ir sužymėti  kandidato kortelę kad būtų pateikta visa informacija,0,1,1
+Aš kaip personalo vadybininkas noriu sistemoje matyti darbuotojų sąrašą ir tvarkyti jų dokumentus kad būtų sutvarkyti dokumentai,0,1,1
+Aš kaip personalo vadybininkas noriu sistemoje tvirtinti  ir suteikti darbuotojų atostogų prašymus kad suteikti leidimą eiti atostogų,0,1,1
+Aš kaip personalo vadybininkas noriu sukurti ir informuoti  darbuotojus kad žinotų apie naujienas,0,1,1
+Aš kaip personalo vadybininkas noriu tvarkyti ir paruošti komandiruočių įrašus kad paruošti įsakymus,0,1,1
 Aš kaip programėlės administratorius noriu stebėti vartotojų veiklos žurnalus kad sekti programėlės naudojimo modelius,0,1,1
 Aš kaip programuotojas noriu įgyvendinti neprisijungimo režimą ir informuoti kad vartotojai galėtų toliau naudotis mobilią programėlę be interneto ryšio,0,1,1
 Aš kaip programuotojas noriu optimizuoti ir pagreitinti svetainės užkrovimo laiką kad lankytojai turėtų sklandžią patirtį,0,1,1
 Aš kaip programuotojas noriu sukurti lojalumo taškų kaupimą ir išleidimą kad klientai galėtų kaupti taškus,0,1,1
 Aš kaip programuotojas noriu sukurti ir panaudoti pagal dizainą nupieštą komponentą kad galėčiau perpanaudoti,0,1,1
 Aš kaip verslo klientas noriu užsakyti prekę per mobilią programėlę ir už ją atsiskaityti kad nereikėtų važiuoti į parduotuvę,0,1,1
-Aš kaip testuotojas noriu kurti integracijos testus kad galėčiau patikrinti ar visos sistemos dalys veikia kartu be klaidų,0,1,1
+Aš kaip testuotojas noriu kurti integracijos testus kad patikrinti ar visos sistemos dalys veikia kartu be klaidų,0,1,1
 Aš kaip verslo klientas noriu generuoti sąskaitas ir siųsti jas klientams tiesiai iš sistemos kad sutaupytume laiko,0,1,1
-Aš kaip mobilios programėlės vartotojas noriu užsiprenumeruoti naujienlaiškį kad gaučiau naujienas apie naujas paslaugas ar funkcijas,0,1,1
-Aš kaip transporto vadybininkas noriu paskirstyti krovinius vilkikams pagal jų talpą ir svorio limitus kad efektyviai išnaudočiau transportą,0,1,1
-Aš kaip transporto vadybininkas noriu gauti pranešimus apie eismo kliūtis ar oro sąlygas kad galėčiau operatyviai koreguoti maršrutus,0,1,1
-Aš kaip transporto vadybininkas noriu turėti galimybę analizuoti pristatymo ataskaitas sistemoje kad galėčiau įvertinti efektyvumą ir tobulinti procesus,0,1,1
-Aš kaip reklamų vadybininkas noriu sistemoje nustatyti savaitės ar mėnesio prekes su nuolaida kad padidinčiau jų pardavimus,0,1,1
-Aš kaip reklamų vadybininkas noriu reklamuoti partnerių paslaugas degalinėje kad išplėsčiau siūlomų paslaugų spektrą ir padidinčiau klientų lojalumą,0,1,1
-Aš kaip verslo analitikas noriu naudoti duomenų valdymo įrankius kad galėčiau efektyviai tvarkyti ir saugoti duomenis,0,1,1
-Aš kaip verslo analitikas noriu rinkti ir analizuoti vartotojų poreikius kad galėčiau kurti tinkamus sprendimus,0,1,1
-Aš kaip programuotojas noriu naudoti integruotą kūrimo aplinką (IDE) kad galėčiau greičiau rašyti ir testuoti kodą,0,1,1
-Aš kaip testuotojas noriu naudoti klaidų sekimo sistemą kad galėčiau registruoti ir sekti klaidas,0,1,1
-Aš kaip sistemų administratorius noriu stebėti tinklo srautą kad galėčiau aptikti ir spręsti problemas,0,1,1
-Aš kaip programuotojas noriu naudoti bibliotekas ir modulius kad galėčiau greičiau kurti funkcionalumą,0,1,1
-Aš kaip projektų vadovas noriu naudoti rizikos valdymo įrankius kad galėčiau identifikuoti ir valdyti rizikas,0,1,1
-Aš kaip testuotojas noriu naudoti regresijos testavimo įrankius kad galėčiau patikrinti ar nauji pakeitimai nepažeidžia esamo funkcionalumo,0,1,1
-Aš kaip sistemų administratorius noriu naudoti tinklo stebėjimo įrankius kad galėčiau aptikti ir spręsti tinklo problemas,0,1,1
-Aš kaip projektų vadovas noriu naudoti projekto rizikos analizės įrankius kad galėčiau identifikuoti ir valdyti galimas rizikas,0,1,1
-Aš kaip IT infrastruktūros specialistas noriu naudoti tinklo stebėjimo įrankius kad galėčiau aptikti ir spręsti tinklo problemas,0,1,1
-Aš kaip IT projektų vadovas noriu naudoti projekto rizikos valdymo įrankius kad galėčiau identifikuoti ir valdyti rizikas,0,1,1
+Aš kaip mobilios programėlės vartotojas noriu užsiprenumeruoti naujienlaiškį kad gauti naujienas apie naujas paslaugas ar funkcijas,0,1,1
+Aš kaip transporto vadybininkas noriu paskirstyti ir suplanuoti krovinius vilkikams pagal jų talpą kad išnaudoti transportą,0,1,1
+Aš kaip transporto vadybininkas noriu gauti pranešimus apie eismo kliūtis ar oro sąlygas kad operatyviai koreguoti maršrutus,0,1,1
+Aš kaip transporto vadybininkas noriu turėti galimybę analizuoti pristatymo ataskaitas sistemoje kad įvertinti procesus,0,1,1
+Aš kaip reklamų vadybininkas noriu sistemoje nustatyti savaitės ar mėnesio prekes su nuolaida kad padidinti jų pardavimus,0,1,1
+Aš kaip reklamų vadybininkas noriu reklamuoti partnerių paslaugas degalinėje kad išplėsti siūlomų paslaugų spektrą ir padidinčiau klientų lojalumą,0,1,1
+Aš kaip verslo analitikas noriu naudoti duomenų valdymo įrankius kad tvarkyti ir saugoti duomenis,0,1,1
+Aš kaip verslo analitikas noriu rinkti ir analizuoti vartotojų poreikius kad kurti tinkamus sprendimus,0,1,1
+Aš kaip programuotojas noriu naudoti ir išstestuoti integruotą kūrimo aplinką kad testuoti kodą,0,1,1
+Aš kaip testuotojas noriu naudoti klaidų sekimo sistemą kad registruoti ir sekti klaidas,0,1,1
+Aš kaip sistemų administratorius noriu stebėti tinklo srautą kad aptikti ir spręsti problemas,0,1,1
+Aš kaip programuotojas noriu naudoti bibliotekas ir modulius kad kurti funkcionalumą,0,1,1
+Aš kaip projektų vadovas noriu naudoti rizikos valdymo įrankius kad identifikuoti ir valdyti rizikas,0,1,1
+Aš kaip testuotojas noriu naudoti regresijos testavimo įrankius kad patikrinti ar nauji pakeitimai nepažeidžia esamo funkcionalumo,0,1,1
+Aš kaip sistemų administratorius noriu naudoti tinklo stebėjimo įrankius kad aptikti ir spręsti tinklo problemas,0,1,1
+Aš kaip projektų vadovas noriu naudoti projekto rizikos analizės įrankius kad identifikuoti ir valdyti galimas rizikas,0,1,1
+Aš kaip IT infrastruktūros specialistas noriu naudoti tinklo stebėjimo įrankius kad aptikti ir spręsti tinklo problemas,0,1,1
+Aš kaip IT projektų vadovas noriu naudoti projekto rizikos valdymo įrankius kad identifikuoti ir valdyti rizikas,0,1,1
 Aš kaip IT saugumo specialistas noriu naudoti ugniasienes kad apsaugotų tinklą nuo Ddos atakų ir kad neįsilaužtų,0,1,1
-Aš kaip sistemų administratorius noriu naudoti automatizuotus diegimo įrankius kad galėčiau greičiau ir lengviau diegti programinę įrangą,0,1,1
-Aš kaip projektų vadovas noriu naudoti retrospektyvų įrankius kad galėčiau analizuoti projekto eigą ir tobulinti procesus,0,1,1
-Aš kaip galutinis vartotojas noriu turėti galimybę gauti pranešimus apie atsiradusius produktus kad galėčiau laiku pastebėti ir nusipirkti,0,1,1
-Aš kaip galutinis vartotojas noriu turėti galimybę gauti nuolaidas ir specialius pasiūlymus kad galėčiau sutaupyti pinigų,0,1,1
-Aš kaip programinės įrangos kūrėjas noriu naudoti Docker konteinerius kad galėčiau greičiau diegti ir išbandyti programas,0,1,1
+Aš kaip sistemų administratorius noriu naudoti automatizuotus diegimo įrankius kad diegti programinę įrangą,0,1,1
+Aš kaip projektų vadovas noriu naudoti retrospektyvų įrankius kad analizuoti projekto eigą ir tobulinti procesus,0,1,1
+Aš kaip galutinis vartotojas noriu gauti pranešimus apie atsiradusius produktus kad laiku pastebėti ir nusipirkti,0,1,1
+Aš kaip galutinis vartotojas noriu gauti nuolaidas ir specialius pasiūlymus kad sutaupyti pinigų,0,1,1
+Aš kaip programinės įrangos kūrėjas noriu naudoti ir išbandyti Docker konteinerius kad diegti programas,0,1,1
 Aš kaip IT infrastruktūros specialistas noriu naudoti tinklo stebėjimo įrankius kad galėčiau stebėti ir analizuoti tinklo našumą,0,1,1
 Aš kaip buhalteris noriu matyti visas paslaugų sutartys kad sutikrinčiau norimą kokią nors informaciją,1,1,0
 Aš kaip el  parduotuvės vartotojas noriu galbūt matyti užsakymų istoriją kad žinočiau savo ankstesnius užsakymus,1,1,0
 Aš kaip e-svetainės vartotojas noriu gauti naujienlaiškius kad nepraleisti geriausių naujienų,1,1,0
-Aš kaip interneto svetainės administratorius  noriu turėti galimybę išsitraukti kokią nors ataskaitą apie programėlės vartotojus kad žinočiau kiek yra aktyvių vartotojų,1,1,0
+Aš kaip interneto svetainės administratorius  noriu išsitraukti kokią nors ataskaitą apie programėlės vartotojus kad žinočiau kiek yra aktyvių vartotojų,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu draugui išsiųsti automobilio plovimą kad draugas galėtų greitai išsiplauti automobilį,1,1,0
-Aš kaip mobilios programėlės vartotojas  noriu turėti galimybę naudoti programėlės nuolaidas kad gauti nuostabias nuolaidas,1,1,0
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę pamatyti ateinančių nuolaidų datas kad planuoti kuro pigų pirkimą,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu naudoti programėlės nuolaidas kad gauti nuostabias nuolaidas,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu pamatyti ateinančių nuolaidų datas kad planuoti kuro pigų pirkimą,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu turėti lojalumo programą kad gauti kuro pigiau,1,1,0
 Aš kaip mobilios programėlės programuotojas noriu automatizuoti greitą loterijos laimėtų prizų priskyrimą vartotojams kad nereikėtų to daryti rankiniu būdu,1,1,0
 Aš kaip mobilios programėlės programuotojas noriu sukurti funkciją QR kodo skanavimą per programėlę kad vartotojai galėtų greitai identifikuoti degalinės numerį,1,1,0
 Aš kaip mobilios programėlės programuotojas noriu sukurti galimybę fotografuoti čekį kad įrašai būtų kažkur vienoje vietoje,1,1,0
 Aš kaip mobilios programėlės programuotojas noriu sukurti integraciją su kita lojalumo kortele kad vartotojai daugiau naudotų šią programėlę,1,1,0
 Aš kaip mobilios programėlės testuotojas noriu simuliuoti skirtingas lokacijas kad efektyviai ištestuočiau kitų degalinių paslaugų funkcionalumą,1,1,0
-Aš kaip mobilios programėlės testuotojas noriu turėti galimybę įjungti kasoje naktinį režimą kad ištestuoti greitsi programėlės paslaugų funkcionalumus,1,1,0
-Aš kaip mobilios programėlės testuotojas noriu turėti galimybę susimuliuoti degalų apmokėjimus kad efektyviai ištestuočiau funkcionalumus,1,1,0
-Aš kaip mobilios programėlės vartotojas  noriu  turėti galimybę pasirinkti mėgstamiausią degalinę  kad galėčiau ją greičiau surasti,1,1,0
+Aš kaip mobilios programėlės testuotojas noriu įjungti kasoje naktinį režimą kad ištestuoti greitsi programėlės paslaugų funkcionalumus,1,1,0
+Aš kaip mobilios programėlės testuotojas noriu susimuliuoti degalų apmokėjimus kad efektyviai ištestuočiau funkcionalumus,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu pasirinkti mėgstamiausią degalinę  kad galėčiau ją greičiau surasti,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu naujienų skiltyje matyti naujienas kad galėčiau efektyviai paskaityti,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu gauti push pranešimus apie programėlės atnaujinimą kad galėčiau tinkamu metu atnaujinti,1,1,0
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę paprastai įjungti biometriką kad atsiskaitymo metu nereikėtų vesti PIN kodo,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu paprastai įjungti biometriką kad atsiskaitymo metu nereikėtų vesti PIN kodo,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu greitai įkelti nufotografuotą kelionės lapą kad nereikėtų visų duomenų vesti ranka,1,1,0
-Aš kaip mobilios programėlės vartotojas noriu matyti apsipirkimų istoriją  kad lengvai sekti išleistą pinigų sumą,1,1,0
-Aš kaip mobilios programėlės vartotojas  noriu matyti degalinių sąrašą su plovyklomis kad pasirinkti mylimiausią degalinę,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu matyti apsipirkimų istoriją kad lengvai sekti išleistą pinigų sumą,1,1,0
+Aš kaip mobilios programėlės vartotojas noriu matyti degalinių sąrašą su plovyklomis kad pasirinkti mylimiausią degalinę,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu greitai palikti atsiliepimą kad žinotų kliento nuomonę apie tiekiamas paslaugas,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu pasinaudoti lojalumo kortele per telefoną kad greičiau atsiskaityti,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą greitai kad nebūtų aktyvi nenaudojama paskyra,1,1,0
