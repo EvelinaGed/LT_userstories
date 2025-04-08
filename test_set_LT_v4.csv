@@ -337,7 +337,7 @@ Aš kaip projektų vadovas noriu gauti savaitinę ataskaitą apie biudžeto vykd
 Aš kaip projektų vadovas noriu el paštu informuoti vadovus apie kokį nors projekto pažangą,1,0,0
 Aš kaip vartotojas noriu matyti informaciją apie produktus,1,0,0
 Aš kaip administratorius noriu valdyti sistemą,1,0,0
-Aš kaip klientas noriu atlikti pirkimą,1,0,0
+Aš kaip klientas noriu atlikti greitą pirkimą,1,0,0
 Aš kaip registruotas vartotojas noriu gauti pranešimus,1,0,0
 Aš kaip svečias noriu naršyti svetainę,1,0,0
 Aš kaip klientas noriu susisiekti su klientų aptarnavimo komanda,1,0,0
@@ -356,46 +356,46 @@ Aš kaip personalo vadybininkas noriu personalo sistemoje turėti galimybę išs
 Aš kaip personalo vadybininkas noriu matyti ir turėti galimybę redaguoti sistemoje visų darbuotojų darbo patirtis,0,0,1
 Aš kaip personalo vadybininkas noriu personalo procesų sistemoje analizuoti darbuotojų darbo laiko apskaitos ataskaitas,0,0,1
 Aš kaip personalo vadybininkas noriu sukurti atskirą skiltį sistemoje kur darbuotojai galėtų peržiūrėti savo atlyginimą ir papildomas išmokas,0,0,1
-Aš kaip personalo vadybininkas noriu stebėti ir turėti galimybę uždėti limitus darbuotojų mokymų išlaidoms sistemoje,0,0,1
-Aš kaip personalo vadybininkas noriu matyti ir turėti galimybę redaguoti personalo sistemoje visų darbuotojų išsilavinimo duomenis,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu matyti ir turėti galimybę redaguoti piniginės skiltyje turimas lojalumo korteles,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę atsisiųsti ir peržiūrėti kvitą telefone,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę peržiūrėti esamą ir pakeisti saugos kodą į kitą,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu turėti galimybę užsakyti savitarnos plovyklos ir siurbimo paslaugas už tą pačią kainą,0,0,1
-Aš kaip programinės įrangos kūrėjas noriu turėti ir naudoti testavimo įrankius kad galėčiau užtikrinti sistemos patikimumą,0,0,1
+Aš kaip personalo vadybininkas noriu stebėti ir uždėti limitus darbuotojų mokymų išlaidoms sistemoje,0,0,1
+Aš kaip personalo vadybininkas noriu matyti ir redaguoti personalo sistemoje visų darbuotojų išsilavinimo duomenis,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu matyti ir  redaguoti piniginės skiltyje turimas lojalumo korteles,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu atsisiųsti ir peržiūrėti kvitą telefone,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu peržiūrėti esamą ir pakeisti saugos kodą į kitą,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu užsakyti savitarnos plovyklos ir siurbimo paslaugas už tą pačią kainą,0,0,1
+Aš kaip programinės įrangos kūrėjas noriu turėti ir naudoti testavimo įrankius kad užtikrinti sistemos patikimumą,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus el. paštu ir trumpąją SMS žinutę apie prekių atsiradimą prekyboje,0,0,1
 Aš kaip duomenų bazės administratorius noriu įdiegti ir naudoti duomenų šifravimą,0,0,1
 Aš kaip sistemų administratorius noriu atlikti savaitines arba mėnesines sistemų saugumo patikras,0,0,1
 Aš kaip transporto vadybininkas noriu gauti įspėjimus ir skambučius apie savo arba kito pavaduojančio vadybininko vilkiko įvykusias avarijas,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu gauti priminimus apie svarbius įvykius ir susitikimus,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu matyti ir turėti galimybę iškeisti į eurus savo lojalumo taškų balansą,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu matyti ir iškeisti į eurus savo lojalumo taškų balansą,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie užsakymo patvirtinimą ir paruošimą,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu peržiūrėti ir turėti galimybę pasirinkti skirtingas mokėjimo valiutas,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu matyti ir pasirinkti parkavimo vietų užimtumą pagal norimą dieną,0,0,1
 Aš kaip svetainės lankytojas noriu matyti naujausias prekes ir pasiūlymus pagrindiniame puslapyje,0,0,1
-Svarbu kad išsaugotos prekės krepšelyje neišnyktų net ir uždarius naršyklę,0,0,1
+Aš kaip svetainės lankytojas noriu sekti ir matyti kelias prekės krepšelyje uždarius naršyklę,0,0,1
 Aš kaip testuotojas noriu išbandyti visus mokėjimo būdus ir patikrinti ar jie tinkamai atvaizduoja klaidas jei duomenys yra neteisingi,0,0,1
 Aš kaip testuotojas noriu patikrinti ar vartotojas gali ištrinti savo paskyrą ir ar visi susiję duomenys ištrinami pagal BDAR reikalavimus,0,0,1
 Aš kaip testuotojas noriu patikrinti ar vartotojai gauna aiškius pranešimus apie užsakymo būseną ir ar pranešimai nėra dubliuojami arba klaidingi,0,0,1
-Aš kaip programuotojas noriu užtikrinti kad vartotojų duomenys būtų šifruojami ir saugomi pagal BDAR reikalavimus siekiant apsaugoti jų privatumą,0,0,1
-Aš kaip programuotojas noriu sukurti administracinį valdymo skydelį kuris leistų lengvai pridėti redaguoti ir trinti prekes bei keisti jų kainas,0,0,1
+Aš kaip programuotojas noriu užtikrinti ir apsaugoti vartotojų duomenys jog būtų šifruojami ir saugomi pagal BDAR reikalavimus siekiant apsaugoti jų privatumą,0,0,1
+Aš kaip programuotojas noriu sukurti ir naudoti administracinį valdymo skydelį kuris leistų pridėti redaguoti ir trinti prekes,0,0,1
 Aš kaip klientas noriu galimybės matyti išsamias prekių nuotraukas su priartinimo funkcija nes noriu geriau įvertinti produkto detales prieš pirkdamas,0,0,1
 Aš kaip verslo analitikas noriu atlikti duomenų analizę kurį duoda geriausius rezultatus ir padėtų optimizuoti biudžetą,0,0,1
 Aš kaip testuotojas noriu patikrinti ar nuolaidų kodai veikia tinkamai ir ar taikomos teisingos nuolaidos skirtingoms vartotojų grupėms,0,0,1
 Aš kaip programuotojas noriu sukurti dinaminį prekių rekomendavimo modulį kuris mokytųsi iš vartotojo elgsenos ir siūlytų jam aktualiausias prekes,0,0,1
-Aš kaip knygų skaitymo programos vartotojas noriu žymėti kur baigiau skaityti,0,0,1
-Aš kaip internetinio dienoraščio autorius noriu skelbti įrašus tiesiogiai iš mobiliosios programėlės,0,0,1
-Aš kaip kelionių planavimo programos naudotojas noriu išsaugoti mėgstamus maršrutus,0,0,1
-Aš kaip filmų transliavimo paslaugos vartotojas noriu pridėti filmus į norų sąrašą,0,0,1
-Aš kaip kulinarijos receptų aplikacijos naudotojas noriu vertinti receptus,0,0,1
-Aš kaip apsipirkimo programėlės klientas noriu matyti produktų pristatymo laikus,0,0,1
-Aš kaip sveikatingumo aplikacijos vartotojas noriu registruoti kasdien suvartotas kalorijas,0,0,1
-Aš kaip banko mobiliosios programėlės naudotojas noriu inicijuoti pinigų pervedimus,0,0,1
-Aš kaip programavimo mokymosi platformos vartotojas noriu sekti savo pažangą,0,0,1
-Aš kaip kalbos mokymosi aplikacijos naudotojas noriu praktikuoti tartį,0,0,1
-Aš kaip projektų valdymo įrankio vartotojas noriu peržiūrėti komandos narių užduočių būklę,0,0,1
-Aš kaip oro prognozių aplikacijos naudotojas noriu matyti savaitės orų apžvalgą,0,0,1
-Aš kaip sveikatos monitoringo programos vartotojas noriu registruoti savo miego laiką,0,0,1
+Aš kaip knygų skaitymo programos vartotojas noriu žymėti ir atsiminti kur baigiau skaityti,0,0,1
+Aš kaip internetinio dienoraščio autorius noriu skelbti ir sekti įrašus tiesiogiai iš mobiliosios programėlės,0,0,1
+Aš kaip kelionių planavimo programos naudotojas noriu išsaugoti ir naudoti mėgstamus maršrutus,0,0,1
+Aš kaip filmų transliavimo paslaugos vartotojas noriu pridėti ir peržiūrėti filmus į norų sąrašą,0,0,1
+Aš kaip kulinarijos receptų aplikacijos naudotojas noriu vertinti ir naudoti receptus,0,0,1
+Aš kaip apsipirkimo programėlės klientas noriu matyti ir analizuoti produktų pristatymo laikus,0,0,1
+Aš kaip sveikatingumo aplikacijos vartotojas noriu registruoti ir sekti kasdien suvartotas kalorijas,0,0,1
+Aš kaip banko mobiliosios programėlės naudotojas noriu inicijuoti ir įvykdyti pinigų pervedimus,0,0,1
+Aš kaip programavimo mokymosi platformos vartotojas noriu sekti ir registruoti savo pažangą,0,0,1
+Aš kaip kalbos mokymosi aplikacijos naudotojas noriu praktikuoti ir taikyti tartį,0,0,1
+Aš kaip projektų valdymo įrankio vartotojas noriu peržiūrėti ir analizuoti komandos narių užduočių būklę,0,0,1
+Aš kaip oro prognozių aplikacijos naudotojas noriu matyti ir sekti savaitės orų apžvalgą,0,0,1
+Aš kaip sveikatos monitoringo programos vartotojas noriu sekti ir registruoti savo miego laiką,0,0,1
 Aš kaip knygų skaitymo programėlės vartotojas noriu žymėti perskaitytus puslapius ir tęsti skaitymą nuo paskutinės vietos,0,0,1
 Aš kaip treniruočių programos vartotojas noriu pasirinkti pratimą iš siūlomo sąrašo ir pridėti jį prie savo treniruotės plano,0,0,1
 Aš kaip fotografijos redagavimo programėlės naudotojas noriu pritaikyti filtrą savo nuotraukai ir išsaugoti ją be pakeitimų originaliame faile,0,0,1
