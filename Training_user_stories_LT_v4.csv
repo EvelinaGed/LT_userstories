@@ -206,11 +206,11 @@ Aš kaip verslo klientas  noriu pridėti į programėlės langą naują paslaug�
 Aš kaip verslo klientas  noriu mobilioje programėlėje atnaujinti mokėjimo procesą,1,0,1
 Aš kaip verslo klientas  noriu uždrausti daryti QR kodo ekrano nuotraukas  kad vartotojai sąžiningai naudotusi tik savo lojalumo nuolaidomis,1,1,1
 Aš vartotojas  noriu  kad mobili programėlė veiktų ir be interneto ryšio  kad galėčiau ją naudoti visur ir visada,0,1,0
-Aš kaip programuotojas  noriu turėti galimybę kurti vieningą klaidų valdymo sistemą  kad galėčiau lengviau sekti ir tvarkyti programos klaidas,0,1,0
-Aš kaip programuotojas  noriu turėti prieigą prie testavimo automatizavimo įrankių  kad galėčiau išbandyti savo kodą,1,1,1
-Aš kaip programuotojas  noriu naudoti konteinerizavimo technologijas  kad galėčiau lengviau perkelti ir paleisti mobilias programėles įvairiose aplinkose,0,1,0
-Aš kaip programuotojas  noriu integruoti nepertraukiamo diegimo (CI/CD) procesą  kad galėčiau greičiau diegti naujas versijas į gamybinę aplinką,1,1,1
-Aš kaip programuotojas  noriu turėti galimybę naudoti kodo profiliavimo įrankius  kad galėčiau optimizuoti programos našumą,1,1,1
+Aš kaip programuotojas  noriu turėti galimybę kurti vieningą klaidų valdymo sistemą  kad lengviau sekti ir tvarkyti programos klaidas,0,1,0
+Aš kaip programuotojas  noriu turėti prieigą prie testavimo automatizavimo įrankių  kad išbandyti savo kodą,1,1,1
+Aš kaip programuotojas  noriu naudoti konteinerizavimo technologijas  kad lengviau perkelti ir paleisti mobilias programėles įvairiose aplinkose,0,1,0
+Aš kaip programuotojas  noriu integruoti nepertraukiamo diegimo (CI/CD) procesą kad diegti naujas versijas į gamybinę aplinką,1,1,1
+Aš kaip programuotojas  noriu turėti galimybę naudoti kodo profiliavimo įrankius kad optimizuoti programos našumą,1,1,1
 Aš kaip programuotojas  noriu turėti prieigą prie duomenų bazių optimizavimo įrankių  kad galėčiau pagerinti duomenų valdymo našumą ir efektyvumą,0,1,0
 Aš kaip programuotojas  noriu naudoti automatizuotą kodo dokumentavimo įrankį  kad galėčiau lengvai generuoti dokumentaciją savo projektams,1,1,0
 Aš kaip programuotojas  noriu kurti modulinę kodo architektūrą  kad galėčiau lengviau prižiūrėti ir keisti programos dalis,0,1,0
@@ -235,7 +235,7 @@ Aš  kaip verslo klientas  noriu sukurti lojalumo programą mobilioje programėl
 Aš  kaip verslo klientas  noriu generuoti sąskaitas ir siųsti jas klientams tiesiai iš sistemos kad sutaupytume laiko,0,1,1
 Aš  kaip verslo klientas  noriu matyti kiekvieno darbuotojo pardavimų rezultatus kad skatinti jų produktyvumą,1,1,1
 Aš  kaip verslo klientas  noriu matyti visas klientų užsakymų istorijas kad  pasiūlyti personalizuotas paslaugas,1,1,1
-Aš  kaip verslo klientas  noriu  kad klientai galėtų sekti savo užsakymų būseną mobilioje programėlėje kad sumažintume klausimų kiekį,1,1,1
+Aš  kaip verslo klientas  noriu jog klientai galėtų sekti savo užsakymų būseną mobilioje programėlėje kad sumažintume klausimų kiekį,1,1,1
 Aš  kaip verslo klientas  noriu gauti ataskaitas apie populiariausias prekes  kad optimizuoti pasiūlą,1,1,1
 Aš  kaip transporto vadybininkas noriu planuoti vilkikų pristatymo maršrutus sistemoje  kad optimizuoti logistiką,1,1,1
 Aš  kaip verslo klientas  noriu nustatyti automatinio priminimo funkciją klientams  kad jie laiku sumokėtų už prekes,1,1,1
@@ -249,8 +249,8 @@ Aš  kaip transporto vadybininkas  noriu matyti vilkikų vietą realiu laiku  ka
 Aš  kaip transporto vadybininkas  noriu sudaryti vairuotojams tvarkaraščius  sistemoje  kad jie žinotų  kada turi vykti,1,1,1
 Aš  kaip transporto vadybininkas  noriu gauti įspėjimus apie vilkikų techninės priežiūros poreikį  kad išvengčiau gedimų kelyje,1,1,1
 Aš  kaip transporto vadybininkas  noriu paskirstyti krovinius vilkikams pagal jų talpą ir svorio limitus  kad efektyviai išnaudočiau transportą,0,1,1
-Aš  kaip transporto vadybininkas  noriu matyti vairuotojų darbo valandas  kad užtikrinčiau  jog jie laikosi reglamentų,1,1,1
-Aš  kaip transporto vadybininkas  noriu įvesti krovinių pristatymo prioritetus sistemoje  kad svarbiausi kroviniai būtų pristatyti laiku,1,1,1
+Aš  kaip transporto vadybininkas  noriu matyti vairuotojų darbo valandas  kad užtikrinčiau jog jie laikosi reglamentų,1,1,1
+Aš  kaip transporto vadybininkas  noriu įvesti krovinių pristatymo prioritetus sistemoje kad svarbiausi kroviniai būtų pristatyti laiku,1,1,1
 Aš  kaip transporto vadybininkas  noriu gauti pranešimus apie eismo kliūtis ar oro sąlygas kad operatyviai koreguoti maršrutus,0,1,1
 Aš  kaip transporto vadybininkas  noriu bendrauti su vilkikų vairuotojais per integruotą žinučių sistemą  kad spręsčiau problemas,1,1,1
 Aš  kaip transporto vadybininkas  noriu analizuoti pristatymo ataskaitas sistemoje kad įvertinti efektyvumą ir tobulinti procesus,0,1,1
@@ -263,15 +263,15 @@ Aš  kaip reklamų vadybininkas  noriu sukurti mobilios programėlės pranešimu
 Aš  kaip reklamų vadybininkas  noriu sistemoje sudaryti lojalumo taškų kaupimo  taisykles  kad paskatinti dažnesnius apsilankymus,1,1,1
 Aš  kaip reklamų vadybininkas  noriu reklamuoti partnerių paslaugas degalinėje  kad išplėsti siūlomų paslaugų spektrą ir padidinčiau klientų lojalumą,0,1,1
 Aš  kaip sistemų administratorius  noriu naudoti prieigos valdymo įrankius kad užtikrinti saugų vartotojų prieigą prie sistemų,1,1,1
-Aš  kaip verslo analitikas noriu naudoti duomenų valdymo įrankius  kad tvarkyti ir saugoti duomenis,0,1,1
-Aš  kaip projektų vadovas noriu stebėti projekto eigą realiu laiku  kad reaguoti į pokyčius,1,1,1
+Aš  kaip verslo analitikas noriu naudoti duomenų valdymo įrankius kad tvarkyti ir saugoti duomenis,0,1,1
+Aš  kaip projektų vadovas noriu stebėti projekto eigą realiu laiku kad reaguoti į pokyčius,1,1,1
 Aš  kaip programuotojas noriu turėti prieigą prie versijų kontrolės sistemos kad sekti kodo pakeitimus,1,1,1
 Aš  kaip testuotojas noriu automatizuoti testavimo procesus kad aptikti klaidas,1,1,1
 Aš  kaip sistemų administratorius  noriu stebėti serverių būklę  kad užtikrinti jų veikimą be trikdžių,1,1,1
-Aš  kaip verslo analitikas  noriu rinkti ir analizuoti vartotojų poreikius kad kurti tinkamus sprendimus,0,1,1
-Aš  kaip projektų vadovas  noriu planuoti resursus  kad paskirstyti darbą komandoje,1,1,1
-Aš  kaip programuotojas  noriu naudoti integruotą kūrimo aplinką kad rašyti ir testuoti kodą,0,1,1
-Aš  kaip testuotojas  noriu kurti testavimo scenarijus kad patikrinti visus sistemos funkcionalumus,1,1,1
+Aš  kaip verslo analitikas noriu rinkti ir analizuoti vartotojų poreikius kad kurti tinkamus sprendimus,0,1,1
+Aš  kaip projektų vadovas noriu planuoti resursus  kad paskirstyti darbą komandoje,1,1,1
+Aš  kaip programuotojas noriu naudoti integruotą kūrimo aplinką kad rašyti ir testuoti kodą,0,1,1
+Aš  kaip testuotojas noriu kurti testavimo scenarijus kad patikrinti visus sistemos funkcionalumus,1,1,1
 Aš  kaip sistemų administratorius  noriu automatizuoti atsarginių kopijų kūrimą kad užtikrinti duomenų saugumą,1,1,1
 Aš  kaip verslo analitikas  noriu kurti ataskaitas kad pristatyti projekto eigą suinteresuotoms šalims,1,1,1
 Aš  kaip projektų vadovas  noriu naudoti projektų valdymo įrankius kad sekti užduočių vykdymą,1,1,1
