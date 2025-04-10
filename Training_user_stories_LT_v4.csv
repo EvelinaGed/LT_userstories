@@ -677,8 +677,8 @@ Aš kaip verslo savininkas  noriu matyti finansinę suvestinę viename lange kad
 Aš kaip logistikos vadybininkas  noriu sekti pristatymų maršrutus kad optimizuoti transportavimo procesą,1,1,1
 Aš kaip skaitmeninio marketingo specialistas  noriu matyti reklamos kampanijų efektyvumą kad optimizuoti biudžetą,1,1,0
 Aš kaip klientas noriu gauti greitą pagalbą kad išspręsti savo problemą,1,1,0
-Aš kaip pardavėjas noriu turėti prieigą prie klientų duomenų kad efektyviau parduoti ,1,1,0
-Aš kaip sistemos administratorius noriu stebėti serverio veikimą kad užtikrinti sistemos stabilumą ,1,1,1
+Aš kaip pardavėjas noriu turėti prieigą prie klientų duomenų kad efektyviau parduoti,1,1,0
+Aš kaip sistemos administratorius noriu stebėti serverio veikimą kad užtikrinti sistemos stabilumą,1,1,1
 Aš kaip programuotojas noriu naudoti naujausius įrankius kad padidinti savo darbo efektyvumą,1,1,0
 Aš kaip programinės įrangos inžinierius noriu kurti efektyvius algoritmus kad padidinti sistemos našumą,1,1,0
 Aš kaip verslo konsultantas noriu teikti ir dalinti rekomendacijas kad padidintiįmonės efektyvumą,0,1,0
@@ -844,7 +844,7 @@ Aš kaip mobilios programėlės vartotojas noriu pakeisti savo slaptažodį,1,0,
 Aš kaip parduotuvės klientas noriu peržiūrėti savo užsakymų istoriją,1,0,1
 Aš kaip administratorius noriu pridėti naują vartotoją,1,0,1
 Aš kaip svetainės lankytojas noriu užsiprenumeruoti naujienlaiškį,1,0,1
-Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą ,1,0,1
+Aš kaip mobilios programėlės vartotojas noriu ištrinti savo paskyrą,1,0,1
 Aš kaip parduotuvės klientas noriu pridėti prekę į norų sąrašą,1,0,1
 Aš kaip administratorius noriu peržiūrėti vartotojų veiklos ataskaitas,1,0,1
 Aš kaip svetainės lankytojas noriu pakeisti savo profilio nuotrauką,1,0,1
@@ -892,7 +892,7 @@ Aš kaip mokytojas noriu kurti užduotis kad mokiniai gautų atsiliepimų,1,1,1
 Aš kaip pagalbos agentas noriu jog bilietai būtų tvarkomi,1,0,1
 Aš kaip keliautojas noriu lengvai užsisakyti keliones kad kelionė būtų sklandi,1,1,0
 Aš kaip finansų vadovas noriu rengti ataskaitas kad galėčiau optimizuoti išlaidas,1,1,0
-Aš kaip vartotojas noriu geresnės degalų įsipylimo naudojimosi programos kad galėčiau įsipylti be problemų,1,1,0
+Aš kaip vartotojas noriu geresnės degalų įsipylimo naudojimosi programos kad įsipylti be problemų,1,1,0
 Aš kaip administratorius noriu matyti svarbią metriką kad galėčiau imtis veiksmų,1,1,0
 Aš kaip klientas noriu gauti pranešimus apie atnaujinimus kad būčiau informuotas,1,1,1
 Aš kaip kūrėjas noriu kad sistemą būtų galima keisti kad ji gerai veiktų ateityje,1,1,1
@@ -905,7 +905,7 @@ Aš kaip įmonės savininkas nori matyti tikslias ataskaitas kad priimti sprendi
 Aš kaip sistemų dizaineris noriu kurti vartotojo sąsajas ir testuoti jų patogumą kad padidinti vartotojų pasitenkinimą,0,1,0
 Aš kaip sistemų dizaineris noriu analizuoti vartotojų elgseną ir kurti dizaino sprendimus kad pagerinti naudotojo patirtį,0,1,0
 Aš kaip sistemų dizaineris noriu kurti geriausius prototipus,1,0,0
-Aš kaip sistemų dizaineris noriu bendradarbiauti su kūrėjais kad užtikrinčiau gero dizaino įgyvendinimą ,1,1,0
+Aš kaip sistemų dizaineris noriu bendradarbiauti su kūrėjais kad užtikrinčiau gero dizaino įgyvendinimą,1,1,0
 Aš kaip sistemų dizaineris noriu kurti dizaino gaires kad užtikrinčiau nuoseklumą visoje sistemoje,1,1,0
 Aš kaip sistemų dizaineris noriu atlikti vartotojų tyrimus kad kurti vartotojui draugiškus sprendimus,1,1,0
 Aš kaip sistemų dizaineris noriu kurti interaktyvius prototipus kad gauti vertingų įžvalgų,1,1,0
@@ -1274,8 +1274,8 @@ Aš kaip automobilių nuomos paslaugos naudotojas noriu ieškoti pačių gražia
 Aš kaip virtualios mokymo programos naudotojas noriu dalyvauti populiariausiose kursuose,1,0,0
 Aš kaip sveikatos stebėjimo programos vartotojas noriu registruoti savo sveikatos rodiklius,1,0,1
 Aš kaip technologijų naujienų svetainės lankytojas noriu skaityti naujienas,1,0,1
-Kaip programos naudotojas norėčiau kažko kas pagerintų,1,0,0
-Noriu sukurti grojaraščius naudotojo aplinkoje kai tik įmanoma,1,0,0
+Aš kaip programos naudotojas norėčiau kažko kas pagerintų,1,0,0
+Aš kaip vartotojas noriu sukurti grojaraščius naudotojo aplinkoje kai tik įmanoma,1,0,0
 Aš kaip treniruočių programėlės naudotojas noriu registruoti ir sekti pažangą kad efektyviai analizuoti treniruočių intensyvumą,0,1,0
 Aš kaip sveikatos stebėjimo aplikacijos naudotojas noriu aktyviai registruoti ir analizuoti duomenis kad turėti išsamią analizę apie sveikatą,0,1,0
 Aš kaip transporto aplikacijos naudotojas noriu matyti maršrutus kai jie pasikeičia kad kai jie gali turėti įtakos mano planams,0,1,0
