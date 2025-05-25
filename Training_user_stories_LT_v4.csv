@@ -93,8 +93,8 @@ Aš kaip mobilios programėlės vartotojas noriu  prisidėti rekvizitus kad grei
 Aš kaip mobilios programėlės vartotojas noriu programėlėje iš pasirinktos degalinės įjungti navigaciją kad būtų greičiau,1,1,0
 Aš kaip mobilios programėlės vartotojas noriu sustabdyti užsakytą kurą nuotoliniu būdu,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu turėti paskyrą  kad galėčiau skaityti naujausius straipsnius ir atnaujinimus,0,1,0
-Aš kaip mobilios programėlės vartotojas noriu užsakyti kuro pylimą nuotoliniu būdu ir apmokėti už vairuotoją,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu užsiregistruoti į programėlę be nuolaidų kortelės ir gauti naują virtualią nuolaidų kortelę,0,0,1
+Aš kaip mobilios programėlės vartotojas noriu užsakyti ir apmokėti kuro pylimą už vairuotoją nuotoliniu būdu, 0,0,1
+Aš kaip mobilios programėlės vartotojas noriu užsiregistruoti ir gauti naują virtualią nuolaidų kortelę į programėlę be nuolaidų kortelės,0,0,1
 Aš kaip mobilios programėlės vartotojas noriu pasirinkti filtrus ir surasti tinkamą parduotuvę kad nuvažiuoti apsipirkti,0,1,1
 Aš kaip naujas lojalumo vartotojas noriu užsiregistruoti ir gauti nuolaidas,0,0,1
 Aš kaip parduotuvės personalo vadovas noriu sistemoje sukurti nuolaidas savo darbuotojams ir sudaryti galimybę jiems jomis pasinaudoti,0,0,1
@@ -109,7 +109,7 @@ Aš kaip personalo vadybininkas noriu sistemoje matyti ir tvarkyti darbuotojų d
 Aš kaip personalo vadybininkas noriu sistemoje tvirtinti darbuotojų atostogų prašymus ir suteikti jiems leidimą eiti atostogų kad darbuotojai atostogautų,0,1,1
 Aš kaip personalo vadybininkas noriu sukurti naujienų įrašą vidiniame intranete ir informuoti kad darbuotojai žinotų naujienas,0,1,1
 Aš kaip personalo vadybininkas noriu tvarkyti komandiruočių įrašus ir paruošti su jomis susijusius įsakymus kad būtų tvarkingi dokumentai,0,1,1
-Aš kaip naudotojas noriu gauti ir analizuoti įdomias naujienas kad nepraleisčiau dienos informacijos,0,1,0
+Aš kaip naudotojas noriu gauti ir analizuoti įdomias naujienas kad nepraleisti dienos informacijos,0,1,0
 Aš kaip programos vartotojas noriu atlikti kažkokius veiksmus ir išsisaugoti istoriją kad galėčiau patikrinti sistemą,0,1,0
 Aš kaip žaidimo naudotojas noriu pasiekti kažką ir išanalizuoti,0,0,0
 Aš kaip vartotojas noriu gauti pranešimus ir turėti galimybę į juos atrašyti kad žinutės būtų atsakytos tinkamu laiku,0,1,0
