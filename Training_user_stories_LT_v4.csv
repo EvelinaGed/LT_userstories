@@ -204,26 +204,26 @@ Aš kaip verslo klientas  noriu nustatyti prekių pinigų sumos limitą  kad kli
 Aš kaip verslo klientas  noriu pridėti į lojalumo sistemą naują lygį kad vartotojai turėtų didesnes nuolaidas,1,1,1
 Aš kaip verslo klientas  noriu pridėti į programėlės langą naują paslaugą kad klientai galėtų pasinaudoti,1,1,1
 Aš kaip verslo klientas  noriu mobilioje programėlėje atnaujinti mokėjimo procesą,1,0,1
-Aš kaip verslo klientas  noriu uždrausti daryti QR kodo ekrano nuotraukas  kad vartotojai sąžiningai naudotusi tik savo lojalumo nuolaidomis,1,1,1
-Aš vartotojas  noriu  kad mobili programėlė veiktų ir be interneto ryšio  kad galėčiau ją naudoti visur ir visada,0,1,0
+Aš kaip verslo klientas  noriu uždrausti daryti QR kodo ekrano nuotraukas kad vartotojai sąžiningai naudotusi tik savo lojalumo nuolaidomis,1,1,1
+Aš vartotojas  noriu  kad mobili programėlė veiktų ir be interneto ryšio kad galėčiau ją naudoti visur ir visada,0,1,0
 Aš kaip programuotojas  noriu turėti galimybę kurti vieningą klaidų valdymo sistemą  kad lengviau sekti ir tvarkyti programos klaidas,0,1,0
 Aš kaip programuotojas  noriu turėti prieigą prie testavimo automatizavimo įrankių  kad išbandyti savo kodą,1,1,1
 Aš kaip programuotojas  noriu naudoti konteinerizavimo technologijas  kad lengviau perkelti ir paleisti mobilias programėles įvairiose aplinkose,0,1,0
 Aš kaip programuotojas  noriu integruoti nepertraukiamo diegimo (CI/CD) procesą kad diegti naujas versijas į gamybinę aplinką,1,1,1
 Aš kaip programuotojas  noriu turėti galimybę naudoti kodo profiliavimo įrankius kad optimizuoti programos našumą,1,1,1
-Aš kaip programuotojas  noriu turėti prieigą prie duomenų bazių optimizavimo įrankių  kad galėčiau pagerinti duomenų valdymo našumą ir efektyvumą,0,1,0
-Aš kaip programuotojas  noriu naudoti automatizuotą kodo dokumentavimo įrankį  kad galėčiau lengvai generuoti dokumentaciją savo projektams,1,1,0
-Aš kaip programuotojas  noriu kurti modulinę kodo architektūrą  kad galėčiau lengviau prižiūrėti ir keisti programos dalis,0,1,0
-Aš kaip programuotojas  noriu naudoti kodo šablonus ir bibliotekas  kad pagreitintų programavimo procesą ir sumažinčiau rankinio darbo apimtis,0,1,0
+Aš kaip programuotojas  noriu turėti prieigą prie duomenų bazių optimizavimo įrankių kad galėčiau pagerinti duomenų valdymo našumą ir efektyvumą,0,1,0
+Aš kaip programuotojas  noriu naudoti automatizuotą kodo dokumentavimo įrankį kad galėčiau lengvai generuoti dokumentaciją savo projektams,1,1,0
+Aš kaip programuotojas  noriu kurti modulinę kodo architektūrą kad lengviau prižiūrėti ir keisti programos dalis,0,1,0
+Aš kaip programuotojas  noriu naudoti kodo šablonus ir bibliotekas kad pagreitintų programavimo procesą ir sumažinčiau rankinio darbo apimtis,0,1,0
 Aš kaip programuotojas  noriu turėti galimybę atlikti apkrovos testus kad įvertinti sistemos elgesį esant dideliam vartotojų srautui,1,1,1
 Aš kaip programuotojas  noriu naudoti priklausomybių valdymo įrankius kad lengvai tvarkyti bibliotekas ir išvengti priklausomybių konfliktų,0,1,0
 Aš kaip programuotojas  noriu naudoti kodų refaktoringo įrankius kad  pagerinti esamo kodo struktūrą be funkcionalumo keitimo,1,1,1
 Aš kaip programuotojas  noriu naudoti klaidų stebėjimo įrankius kad greitai aptikti ir išspręsti problemas gamybinėje aplinkoje,0,1,0
-Aš kaip programuotojas  noriu naudoti API testavimo įrankius  kad patikrinti  ar API veikia tinkamai ir atitinka specifikacijas,0,1,0
+Aš kaip programuotojas  noriu naudoti API testavimo įrankius kad patikrinti  ar API veikia tinkamai ir atitinka specifikacijas,0,1,0
 Aš kaip programuotojas  noriu naudoti versijų palyginimo įrankius kad lengvai analizuoti skirtumus tarp kodo versijų,1,1,0
 Aš kaip programuotojas  noriu kurti išplėstinius klaidų pranešimus kad greičiau diagnozuoti problemas ir sutrumpinti klaidų taisymo laiką,0,1,0
 Aš kaip programuotojas  noriu naudoti saugos testavimo įrankius kad aptikti ir pašalinti potencialias saugumo spragas programoje,0,1,0
-Aš kaip mobilios programėlės vartotojas noriu matyti degalinės WC kodą  kad pasinaudoti,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu matyti degalinės WC kodą kad pasinaudoti,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu pakviesti draugus naudotis naująją programėlę,1,0,1
 Aš  kaip verslo klientas  noriu matyti realaus laiko pardavimų statistiką mobilioje programėlėje kad analizuoti našumą,1,1,1
 Aš  kaip verslo klientas  noriu gauti pranešimus apie kritinius atsargų lygius kad laiku užsakyti prekes,1,1,1
@@ -231,7 +231,7 @@ Aš  kaip verslo klientas  noriu nustatyti skirtingus nuolaidų lygius klientų 
 Aš  kaip verslo klientas  noriu valdyti darbuotojų prieigos teises sistemoje kad apsaugotume jautrią informaciją,1,1,0
 Aš  kaip verslo klientas  noriu gauti įspėjimus apie nesumokėtas sąskaitas kad greitai susisiekti su klientais,1,1,0
 Aš  kaip verslo klientas  noriu pridėti ir tvarkyti prekių katalogą mobilioje programėlėje  kad klientai matytų aktualią informaciją,1,1,1
-Aš  kaip verslo klientas  noriu sukurti lojalumo programą mobilioje programėlėje  kad pritraukčiau daugiau klientų,1,1,1
+Aš  kaip verslo klientas  noriu sukurti lojalumo programą mobilioje programėlėje  kad pritraukti daugiau klientų,1,1,1
 Aš  kaip verslo klientas  noriu generuoti sąskaitas ir siųsti jas klientams tiesiai iš sistemos kad sutaupytume laiko,0,1,1
 Aš  kaip verslo klientas  noriu matyti kiekvieno darbuotojo pardavimų rezultatus kad skatinti jų produktyvumą,1,1,1
 Aš  kaip verslo klientas  noriu matyti visas klientų užsakymų istorijas kad  pasiūlyti personalizuotas paslaugas,1,1,1
@@ -370,7 +370,7 @@ Aš  kaip programinės įrangos kūrėjas  noriu naudoti optimizavimo įrankį,1
 Aš  kaip projektų vadovas noriu naudoti diagramas kad sekti projekto progresą,1,1,1
 Aš  kaip programuotojas noriu naudoti kodo linting įrankius kad užtikrinti kodo stiliaus nuoseklumą,1,1,1
 Aš  kaip testuotojas  noriu naudoti A/B testavimo įrankius kad palyginti skirtingas funkcijų versijas,1,1,1
-Aš kaip el  parduotuvės vartotojas noriu turėti galimybę išsaugoti savo mėgstamus produktus,1,0,1
+Aš kaip el parduotuvės vartotojas noriu turėti galimybę išsaugoti savo mėgstamus produktus,1,0,1
 Aš  kaip sistemų administratorius  noriu naudoti automatizuotus diegimo įrankius kad greičiau ir lengviau diegti programinę įrangą,0,1,0
 Aš  kaip projektų vadovas  noriu naudoti retrospektyvų įrankius kad analizuoti projekto eigą ir tobulinti procesus,0,1,1
 Aš  kaip galutinis vartotojas  noriu turėti galimybę palikti atsiliepimus apie produktus kad padėti kitiems vartotojams,1,1,1
@@ -399,7 +399,7 @@ Aš  kaip IT saugumo specialistas noriu naudoti dvigubo faktoriaus autentifikaci
 Aš  kaip testuotojas  noriu naudoti saugumo testavimo įrankius kad aptikti pažeidžiamumus bei silpnas vietas sistemoje,0,1,0
 Aš kaip IT infrastruktūros specialistas noriu naudoti tinklo konfigūracijos valdymo įrankius,1,0,1
 Aš  kaip verslo analitikas noriu susikurti JIRA sistemoje atsakymų šablonus,1,0,1
-Aš  kaip IT saugumo specialistas noriu atlikti saugumo auditą  kad identifikuoti sistemų pažeidžiamumus ir grėsmes,0,1,1
+Aš  kaip IT saugumo specialistas noriu atlikti arba paleisti kodą saugumo auditą  kad identifikuoti sistemų pažeidžiamumus ir grėsmes,0,1,1
 Aš  kaip testuotojas noriu naudoti regresijos testavimo įrankius kad patikrintumėte  ar sistemos atnaujinimai nepažeidžia senų funkcijų,0,1,1
 Aš kaip projektų vadovas noriu išmokti apie Agile metodologiją ir pritaikyti komandai,0,0,1
 Aš kaip testuotojas noriu naudoti testavimo planavimo įrankius kad efektyviau organizuoti ir planuotis testavimo procesus,0,1,0
@@ -424,7 +424,7 @@ Aš kaip mobilios programėlės vartotojas noriu matyti artimiausias laisvas par
 Aš kaip mobilios programėlės vartotojas noriu apmokėti už parkavimą tiesiogiai per programėlę,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu redaguoti lojalumo korteles,1,0,1
 Aš kaip mobilios programėlės vartotojas noriu sudaryti ir jį išsisaugoti pirkinių sąrašą,0,0,1
-Aš kaip mobilios programėlės vartotojas noriu gauti el kvitus už pirkinius į el  paštą kad nereikėtų spausdinti popierinio,1,1,1
+Aš kaip mobilios programėlės vartotojas noriu gauti el kvitus už pirkinius į el paštą kad nereikėtų spausdinti popierinio,1,1,1
 Aš kaip mobilios programėlės vartotojas noriu panaudoti sukauptus lojalumo taškus kad nusipirkti norimą pirkinį,1,1,1
 Aš kaip verslo klientas  noriu per mobilia programėle paleisti reklamas  kad pritraukčiau daugiau klientų pirkti reklamuojamą prekę ar paslaugą,1,1,1
 Aš kaip verslo klientas  noriu pakeisti plovyklų kainas ir aprašymus,1,0,1
@@ -1371,7 +1371,7 @@ Aš kaip IT saugumo specialistas noriu naudoti greičiausius saugumo incidentų 
 Aš  kaip IT infrastruktūros specialistas noriu naudoti tinklo geriausius našumo stebėjimo įrankius,1,0,0
 Aš  kaip IT palaikymo specialistas noriu naudoti efektyviausius nuotolinio valdymo įrankius,1,0,0
 Aš kaip muzikos platformos naudotojas noriu klausytis aktyviai muzikos kad galėčiau prie jos grįžti,1,1,0
-Aš kaip finansų programos naudotojas noriu matyti savo biudžetą ir skaičiuoti likusį kad galėčiau planuoti išlaidas bet dar reikėtų papildomų duomenų,0,1,0
+Aš kaip finansų programos naudotojas noriu matyti savo biudžetą ir skaičiuoti likusį kad planuoti išlaidas bet dar reikėtų papildomų duomenų,0,1,0
 Aš kaip nuotraukų dalinimosi programos vartotojas noriu dalintis savo gražiausiomis nuotraukomis ir gauti komentarus kad žinočiau ar jos patinka,0,1,0
 Aš kaip sporto programos naudotojas noriu pasiekti geriausius tikslus ir juos pakelbti kad galėčiau pasigirti arba stebėti progresą,0,1,0
 Aš kaip kultūros stebėjimo programos vartotojas noriu sužinoti apie įvairius renginius ir prie kažkurių prisidėti jeigu tai būtų įdomu,0,1,0
@@ -1450,24 +1450,24 @@ Aš kaip programinės įrangos kūrėjas noriu integruoti testavimo priemones ti
 Aš kaip mobilios programėlės vartotojas noriu gauti pranešimus apie prekių prieinamumą arba jų greitą išperkamumą kad įsigyti norimą prekę kuo greičiau kol neišpirko,0,1,0
 Aš kaip testuotojas noriu naudoti įrankius ir sutaupyti daug laiko kad skirti daugiau dėmesio kitoms sistemoms patestuoti,0,1,0
 Lojalumo taškus reikia leisti panaudoti keliais apibrėžtais būdais,0,0,1
- Reklamos mobilioje programėlėje turi būti lengvai valdomos ir pritaikomos,0,0,1
- Plovyklų kainos ir aprašymai turi būti aiškiai redaguojami administratorių,0,0,1
- Lojalumo kortelių skaičiaus ribojimas turi būti sprendžiamas sistemoje pagal nustatytas taisykles,0,0,1
- Degalinių degalų kainos turi būti matomos realiu laiku visiems vartotojams,0,0,1
- Vinjetės įsigijimas per programėlę turi būti paprastas ir aiškiai aprašytas,0,0,1
- Degalinių darbo laikai ir kontaktai turi būti lengvai prieinami vartotojams programėlėje,0,0,1
- Kalbos nustatymai turi būti patogiai keičiami per programėlę,0,0,1
- Plovimų likutis turi būti aiškiai matomas vartotojams programėlėje,0,0,1
- Rekvizitų pasirinkimas atsiskaitymo metu turi būti aiškus ir nesudėtingas,0,0,1
- Apmokėjimo procesas turi būti patobulintas kad būtų aiškesnis vartotojams,0,0,1
- Verslo klientams turi būti leista naudoti kelias lojalumo ir banko korteles,0,0,1
- Aš kaip sistemos vartotojas noriu prieš naudodamas plovyklos kuponą pasirinkti ir aktyvuoti plovimo vartus,0,0,1
+Reklamos mobilioje programėlėje turi būti lengvai valdomos ir pritaikomos,0,0,1
+Plovyklų kainos ir aprašymai turi būti aiškiai redaguojami administratorių,0,0,1
+Lojalumo kortelių skaičiaus ribojimas turi būti sprendžiamas sistemoje pagal nustatytas taisykles,0,0,1
+Degalinių degalų kainos turi būti matomos realiu laiku visiems vartotojams,0,0,1
+Vinjetės įsigijimas per programėlę turi būti paprastas ir aiškiai aprašytas,0,0,1
+Degalinių darbo laikai ir kontaktai turi būti lengvai prieinami vartotojams programėlėje,0,0,1
+Kalbos nustatymai turi būti patogiai keičiami per programėlę,0,0,1
+Plovimų likutis turi būti aiškiai matomas vartotojams programėlėje,0,0,1
+Rekvizitų pasirinkimas atsiskaitymo metu turi būti aiškus ir nesudėtingas,0,0,1
+Apmokėjimo procesas turi būti patobulintas kad būtų aiškesnis vartotojams,0,0,1
+Aš kaip verslo klientas noriu leisti naudoti kelias lojalumo ir banko korteles,0,0,1
+Aš kaip sistemos vartotojas noriu prieš naudodamas plovyklos kuponą pasirinkti ir aktyvuoti plovimo vartus,0,0,1
 Aš kaip sistemos vartotojas noriu surasti ir peržiūrėti plovimo aprašymą ir taisykles prieš pirkdamas plovyklos paslaugą,0,0,1
- Aš kaip lojalumo sistemos administratorius noriu surasti ir nustatyti pagrindinę lojalumo kortelę klientui,0,0,1
- Mobilioje programėlėje turi būti privalomi informacijos laukeliai su aiškiais pranešimais vartotojams,0,0,1
- Transporto vadybininkas turi matyti ir registruoti vairuotojų darbo ir poilsio valandas,0,0,1
- Transporto vadybininkas turi sudaryti optimalius maršrutus remdamasis krovinio pakrovimo vietomis žemėlapyje,0,0,1
- Reklamų vadybininkas turi parengti QR kodus nuolaidoms degalinėse skirtas konkrečiam momentui,0,0,1
+Aš kaip lojalumo sistemos administratorius noriu surasti ir nustatyti pagrindinę lojalumo kortelę klientui,0,0,1
+Mobilioje programėlėje turi būti privalomi informacijos laukeliai su aiškiais pranešimais vartotojams,0,0,1
+Transporto vadybininkas turi matyti ir registruoti vairuotojų darbo ir poilsio valandas,0,0,1
+Transporto vadybininkas turi sudaryti optimalius maršrutus remdamasis krovinio pakrovimo vietomis žemėlapyje,0,0,1
+ Aš kaip reklamų vadybininkas turiu parengti QR kodus nuolaidoms degalinėse skirtas konkrečiam momentui,0,0,1
  Sistemoje turi būti nustatytos taisyklės kaip dažniau apsilankyti keičiant lojalumo taškus,0,0,1
  Personalo vadybininkas turi analizuoti darbuotojų rotaciją ir vesti statistiką,0,0,1
  Personalo vadybininkas turi generuoti darbo sutarties šablonus dokumentams paruošti,0,0,1
